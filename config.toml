@@ -1,0 +1,22 @@
+baseURL = "https://anthonyrozmajzl.com"
+languageCode = "en-us"
+title = "Anthony Rozmajzl"
+theme = "axiom"
+
+[menu]
+[[menu.main]]
+url = "/resume/"
+name = "Resumé"
+weight = 1
+
+[[menu.main]]
+url = "/post/"
+name = "Posts"
+weight = 2
+
+[params]
+copyrightYear = "2019" # Starting year in copyright range
+
+# Cannot have raw html with the default Markdown handler
+[markup]
+defaultMarkdownHandler = "blackfriday"
