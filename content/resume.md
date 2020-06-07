@@ -3,7 +3,7 @@ author = "Anthony Rozmajzl"
 date = 2018-07-28T03:10:29Z
 description = ""
 draft = false
-feature = "/images/anthony-1.png"
+feature = "/images/anthony-banner.png"
 slug = "resume"
 title = "Resumé"
 
