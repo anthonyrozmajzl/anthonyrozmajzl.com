@@ -44,7 +44,7 @@ for round in range (rounds):
 plt.hist(heads_per_round, bins =10, color="red", alpha=.5)
 plt.show()
 ```
-![Coin-Toss-graph-1](/content/images/Coin-Toss-graph-1.png)
+![Coin-Toss-graph-1](/images/Coin-Toss-graph-1.png)
 
 Hmmmm.  That doesn't look that useful.  We'll fix that later.  For now, let's break down the code.
 
