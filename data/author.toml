@@ -1,0 +1,15 @@
+[default]
+name = "Anthony Rozmajzl"
+uri = "https://anthonyrozmajzl.com/"
+email = "anthonyrozmajzl@gmail.com"
+twitter = "a_rozmajzl"
+image = "images/anthony-profile.png"
+
+[anthony]
+name = "Anthony Rozmajzl"
+uri = "https://anthonyrozmajzl.com/"
+email = "anthonyrozmajzl@gmail.com"
+twitter = "a_rozmajzl"
+image = "images/anthony-profile.png"
+
+

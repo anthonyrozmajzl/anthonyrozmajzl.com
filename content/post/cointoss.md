@@ -4,7 +4,7 @@ categories = ["datacamp", "python"]
 date = 2018-08-15T02:55:34Z
 description = ""
 draft = false
-image = "/images/2018/08/cointoss-1.png"
+feature = "/images/cointoss-1.png"
 slug = "cointoss"
 tags = ["datacamp", "python"]
 title = "A Simple Coin Toss"
@@ -44,7 +44,7 @@ for round in range (rounds):
 plt.hist(heads_per_round, bins =10, color="red", alpha=.5)
 plt.show()
 ```
-![Coin-Toss-graph-1](/content/images/2018/08/Coin-Toss-graph-1.png)
+![Coin-Toss-graph-1](/content/images/Coin-Toss-graph-1.png)
 
 Hmmmm.  That doesn't look that useful.  We'll fix that later.  For now, let's break down the code.
 
@@ -79,11 +79,11 @@ rounds = 100
 tosses = 1000
 ...
 ```
-![Coin-Toss-graph-2](/content/images/2018/08/Coin-Toss-graph-2.png)
+![Coin-Toss-graph-2](/images/Coin-Toss-graph-2.png)
 
 ### 1,000 Rounds of 10,000 Tosses
 
-![Coin-Toss-graph-3](/content/images/2018/08/Coin-Toss-graph-3.png)
+![Coin-Toss-graph-3](/images/Coin-Toss-graph-3.png)
 
 I could continue to increase `rounds` and `tosses` to achieve an almost perfectly-normal distribution. 
 
@@ -107,7 +107,7 @@ The magic occurs in the line of code just beneath the `for` loop. The code `np.r
 
 So what does this look like?
 
-![Coin-Toss-Simple](/content/images/2018/08/Coin-Toss-Simple.png)
+![Coin-Toss-Simple](/images/Coin-Toss-Simple.png)
 
 Again, it appears that 1,000 rounds appears to produce another distribution that closely resembles the normal distribution.
 
