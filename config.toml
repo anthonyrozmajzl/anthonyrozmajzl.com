@@ -7,16 +7,140 @@ theme = "axiom"
 [[menu.main]]
 url = "/resume/"
 name = "Resumé"
-weight = 1
+weight = 3
+
+[[menu.main]]
+url = "/about/"
+name = "About"
+weight = 2
 
 [[menu.main]]
 url = "/post/"
 name = "Posts"
+weight = 1
+
+[[menu.foot]]
+url = "/post/"
+name = "Posts"
+weight = 1
+
+[[menu.foot]]
+url = "/about/"
+name = "About"
 weight = 2
 
-[params]
-copyrightYear = "2019" # Starting year in copyright range
 
-# Cannot have raw html with the default Markdown handler
+###################################################
+## Everything below here comes from Axiom example #
+###################################################
+
+paginate = 2
+canonifyURLs = false
+summaryLength = 40
+rssLimit = 100
+enableEmoji = true
+enableRobotsTXT = true
+pluralizelisttitles = false
+
+[permalinks]
+posts = "/:filename"
+
+[params]
+mainSections = ["post"]
+# Go Reference time: Mon Jan 2 15:04:05 MST 2006
+dateFormat = "Jan 2, 2006 3:04PM"
+highlight = "dark"
+copyrightYear = "2018" # Starting year in copyright range
+
+[params.brand]
+domain = "anthonyrozmajzl.com"
+email = "anthony.rozmajzl@gmail.com"
+
+[params.social]
+facebook = "https://www.facebook.com/anthony.rozmajzl"
+github = "https://github.com/aroz73096"
+linkedin = "https://www.linkedin.com/in/anthony-rozmajzl-1b0293b0"
+twitter = "https://twitter.com/a_rozmajzl"
+#instagram = "https://instagram.com/user"
+#pinterest = "https://www.pinterest.com/user"
+#stackoverflow = "https://stackoverflow.com/users/user"
+#youtube = "https://www.youtube.com/user"
+footer = ["twitter", "github", "linkedin"]
+
+[params.services]
+analyticsId = ""
+adwordsId = ""
+adsenseId = ""
+adsenseAdSlotId = ""
+adsenseLazy = false
+adwordsConversionId = ""
+adwordsConversionValue = 0
+facebookApp = ""
+facebookPixel = ""
+disqusShortname = ""
+
+[params.font]
+type = ""
+path = ""
+files = []
+
+[params.cdn]
+provider = "local"
+type = "image"
+
+[params.cloudinary]
+host = "https://res.cloudinary.com/CLOUD_NAME/"
+version = ""
+image = "image/upload/"
+raw = "raw/upload/"
+video = "video/upload/"
+
+[params.cloudinary.presets]
+base = "f_auto,q_auto/"
+page = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+feature = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
+
+[outputs]
+home = ["HTML", "ATOM"]
+section = ["HTML"]
+taxonomy = ["HTML"]
+taxonomyTerm = ["HTML"]
+
+[outputFormats]
+[outputFormats.ATOM]
+name = "ATOM"
+baseName = "feed"
+mediaType = "application/atom+xml"
+
+[mediaTypes]
+[mediaTypes."application/atom+xml"]
+suffixes = ["atom"]
+
 [markup]
-defaultMarkdownHandler = "blackfriday"
+[markup.goldmark]
+[markup.goldmark.extensions]
+definitionList = false
+footnote = true
+linkify = false
+strikethrough = false
+table = true
+taskList = false
+typographer = false
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.parser]
+attribute = false
+autoHeadingID = false
+[markup.highlight]
+codeFences = true
+noClasses = false
+tabWidth = 2
+# lineNos = true
+# lineNumbersInTable = false
+
+
+[languages]
+[languages."en"]
+weight = 1
+languageName = "English"
