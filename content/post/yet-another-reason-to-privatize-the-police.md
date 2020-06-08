@@ -3,13 +3,13 @@ author = "Anthony Rozmajzl"
 date = 2020-05-27T07:32:47Z
 description = ""
 draft = false
-slug = "yet-another-reason-to-privatize-the-police"
+slug = "privatize-the-police"
 title = "The time has come to privatize the police"
 
 +++
 
 
-In a matter of hours the entire nation was made aware of the gruesome and undeniably wrongful death of George Floyd, a 46 year old man who was [suffocated](https://twitter.com/QasimRashid/status/1265389213714915333) to death for [using a forged $20 bill](https://www.thecut.com/2020/05/man-pinned-down-by-minneapolis-police-officer-dies.html)at Cup Foods, a small grocery store in Minneapolis, Minnesota. 
+In a matter of hours the entire nation was made aware of the gruesome and undeniably wrongful death of George Floyd, a 46 year old man who was [suffocated](https://twitter.com/QasimRashid/status/1265389213714915333) to death for [using a forged $20 bill](https://www.thecut.com/2020/05/man-pinned-down-by-minneapolis-police-officer-dies.html) at Cup Foods, a small grocery store in Minneapolis, Minnesota. 
 
 This tragedy refocused national attention to police brutality, a problem which sadly permeates much of our nation's police forces. This pattern of behavior has been captured by The Free Thought Project, which has publicized [more than 600 pages](https://thefreethoughtproject.com/category/cop-watch/) of incidents in which police officers are caught grossly abusing their power. 
 
@@ -23,7 +23,7 @@ In light of nationwide protesting that has been directed towards [state institut
 
 The first serious issue with government police is that they are [under no legal obligation to protect you](https://mises.org/power-market/police-have-no-duty-protect-you-federal-court-affirms-yet-again), according to Supreme Court cases *DeShaney vs. Winnebago* and *Town of Castle Rock vs. Gonzales*. 
 
-Much of the looting and rioting in Minneapolis has gone unchecked simply because the police are not there to subdue it, leaving citizens to fend for themselves as their businesses are all but burned to the ground. And in only a matter of days, a frighteningly [extensive](https://bringmethenews.com/minnesota-news/a-list-of-the-buildings-damaged-looted-in-minneapolis-riots) number of buildings had been freely pillaged by Minneapolis rioters.
+Much of the looting and rioting in Minneapolis has gone unchecked simply because the police are not there to subdue it, leaving citizens to fend for themselves as their businesses are all but burned to the ground. And in only a matter of days, a frighteningly [extensive](https://bringmethenews.com/minnesota-news/a-list-of-the-buildings-damaged-looted-in-minneapolis-riots) number of buildings have been freely pillaged by Minneapolis rioters.
 
 How can it be that the men and women whose job it is to protect our communities, defend our property, and stop criminal activity can simply walk away and cease to provide the services for which we are all forced to pay, especially when these services are most needed? Who else can Minneapolis store owners call when their state-sponsored law enforcement fails to show up? 
 
@@ -33,7 +33,7 @@ In no area of the market economy would consumers excuse such a blatant denial of
 
 This brings us to the second major problem with the state-funded police: the prohibition of competing police forces. 
 
-Competition gives rise to the abundance of different products and services available to us. It encourages innovation, cost-cutting, day-to-day efficiency, and friendly customer service. Business that do a better job of implementing these things are going to satisfy a greater number of consumers and be rewarded with larger revenue and increased profits. The moment consumers become dissatisfied with a business for any reason, they file complaints, leave negative reviews, request refunds and returns, or take their patronage elsewhere. As a business owner, refusing to correct any inefficiencies, ignoring customer feedback, or ceasing to innovate is an open invitation for another business to take your place. That is why free markets present us with a tremendous amount of flexibility and an overflow of choices that allow us to seamlessly switch between products and services to satisfy our ever-changing preferences.
+Competition gives rise to the abundance of different products and services available to us. It encourages innovation, cost-cutting, day-to-day efficiency, and friendly customer service. Business that do a better job of implementing these things are going to satisfy a greater number of consumers and be rewarded with larger revenue and increased profits. The moment consumers become dissatisfied with a business for any reason, they file complaints, leave negative reviews, request refunds and returns, or take their money elsewhere. As a business owner, refusing to correct any inefficiencies, ignoring customer feedback, or ceasing to innovate is an open invitation for another business to take your place. That is why free markets present us with a tremendous amount of flexibility and an overflow of choices that allow us to seamlessly switch between products and services to satisfy our ever-changing preferences.
 
 But rather than subjecting government police forces to the same mechanisms that make market economies so competitive and flowing with choice--freedom of entry, the profit and loss mechanism, competitive innovation, and the desire to reduce business costs--there is no question that a majority of the nation believes it is the sacrosanct duty of the state alone to provide us with police protection. And why should it be? Policing services are no more unique than any other service, nor are they too complicated for the world's most technologically advanced and innovative private sector. 
 
