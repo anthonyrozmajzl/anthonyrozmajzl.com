@@ -9,9 +9,6 @@ title = "The time has come to privatize the police"
 +++
 
 
-TESTING
-
-
 In a matter of hours the entire nation was made aware of the gruesome and undeniably wrongful death of George Floyd, a 46 year old man who was [suffocated](https://twitter.com/QasimRashid/status/1265389213714915333) to death for [using a forged $20 bill](https://www.thecut.com/2020/05/man-pinned-down-by-minneapolis-police-officer-dies.html) at Cup Foods, a small grocery store in Minneapolis, Minnesota. 
 
 This tragedy refocused national attention to police brutality, a problem which sadly permeates much of our nation's police forces. This pattern of behavior has been captured by The Free Thought Project, which has publicized [more than 600 pages](https://thefreethoughtproject.com/category/cop-watch/) of incidents in which police officers are caught grossly abusing their power. 
