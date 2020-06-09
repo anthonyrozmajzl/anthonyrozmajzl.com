@@ -35,9 +35,9 @@ Competition gives rise to the abundance of different products and services avail
 
 But rather than subjecting state-funded police to the same mechanisms that make market economies so competitive and flowing with choice--freedom of entry, the profit and loss mechanism, competitive innovation, and the desire to reduce business costs--there is no question that a majority of our nation would rather it be the sacrosanct duty of the state alone to provide us with policing services. And why should that be? Policing services are no more unique than any other service, nor is their provision too complicated for the world's most technologically advanced and innovative private sector[^4] Is it truly better to a have a one-size-fits-all, forcibly funded monopoly on police provision instead of tens, hundreds, or thousands of voluntarily funded, private police firms that are actually beholdent to their customers and tied to the profit and loss system of the marketplace?[^5]
 
-Aren't businesses, apartment complexes, neighborhoods, and other key stakeholders in a community's well-being strongly incentivised to provide policing services so that customers can safely patronize community businesses and individuals can feel safe living in their apartments and neighborhoods?
+Aren't businesses, apartment complexes, neighborhoods, and other key stakeholders in a community's well-being strongly incentivised to provide policing services so that consumers can safely patronize community businesses and individuals can feel safe living in their apartments and neighborhoods?
 
-Is there any objection to the obvious fact that the incentive for community stakeholders to offer policing services would be met with an equal demand for security on behalf of individual consumers and property owners, none of whom desire to live in unsafe neighborhoods or shop in dangerous communities? 
+Is there any objection to the obvious fact that the incentive for community stakeholders to offer policing services would be met with an equal demand for security on behalf of individual consumers and property owners, none of whom desire to live in unsafe neighborhoods or shop in dangerous communities?[^6] 
 
 Whatever private police forces may *look* like, the only relevant question is whether or not there is a demand for these services. As long as the demand exists, and it always will, market entrepreneurship will take care of the rest.
 
@@ -76,3 +76,5 @@ We live in the world's most technologically advanced and competitive economy. No
 [^4]: Most people simply lack the imagination to even entertain the notion of privatized police. They will use their inability to conceive of what a private policing business might look like in practice as evidence for the impracticality of private policing.
 
 [^5]: If you don't support a single payer healthcare system, there is absolutely no reason for you to support a single payer security system.
+
+[^6]: Many people already take the necessary measures to defend themselves, their families, and their businesses: installing security cameras, burglar alarms, safes, locks, keeping firearms, etc.
