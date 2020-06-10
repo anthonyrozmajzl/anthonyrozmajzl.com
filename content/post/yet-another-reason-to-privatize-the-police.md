@@ -79,7 +79,7 @@ Police departments, being financially secured through taxation and, as a last re
 
 One can only wonder whether George Floyd would have died if his arrest had been carried out by a privatized police force that was held accountable to the profit and loss system, in constant competition with other agencies to provide the most just and peaceful means of dispute resolution, and unanointed with the doctrine of qualified immunity.
 
-We live in the world's most technologically advanced and competitive economy. Normal human beings will always demand protection for themselves, their families, their property, and their businesses. In light of nationwide protesting and overwhelming dissatisfaction with state-funded police, now is the perfect time for the free market to assume the duty of policing our communities.
+We live in the world's most technologically advanced and competitive economy. Normal human beings will always demand protection for themselves, their families, their property, and their businesses. In light of nationwide protesting and overwhelming dissatisfaction with state-funded police, now is the perfect time for the free market to assume the duty to protect and serve.
 
 [^1] If we are going to be nabbing citizens for using counterfeit money, we might want to consider proportional fines for the Federal Reserve, an institution that has been counterfeiting to the tune of trillions for more than a century.
 
