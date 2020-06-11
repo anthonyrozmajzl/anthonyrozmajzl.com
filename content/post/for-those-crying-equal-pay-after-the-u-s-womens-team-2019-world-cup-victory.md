@@ -2,7 +2,7 @@
 author = "Anthony Rozmajzl"
 date = 2019-07-08T20:28:00Z
 description = ""
-draft = false
+draft = true
 slug = "for-those-crying-equal-pay-after-the-u-s-womens-team-2019-world-cup-victory"
 title = "For those crying \"equal pay!\" after the U.S women's team 2019 World Cup victory"
 
