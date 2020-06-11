@@ -74,7 +74,7 @@ In addition to qualified immunity, all government-run businesses and government-
 
 The very simple metrics of profit and loss determine how successful business are in meeting the needs of consumers. Private enterprises that waste resources, drive away customers with poor service, or refuse to tailor their products and services to meet consumer demand will quickly find themselves losing revenue as consumers decide to patronize the more profitable, i.e. successful, businesses.
 
-Police departments, being financially secured through taxation and, as a last resort, the printing press face no financial consequences for squandering resources, failing to cut costs, refusing to innovate, or wrongfully killing one of their constituents. This is because the continued operation of police departments is not contingent upon the voluntary patronage of its citizens. No amount of consumer dissatisfaction, resource waste, or business malpractice will lead to a loss of revenue that would force departments to rethink their allocation of resources or business practices.
+Police departments, being financially secured through taxation and, as a last resort, the printing press face no financial consequences for squandering resources, failing to cut costs, refusing to innovate, or wrongfully killing one of their constituents. This is because the continued operation of police departments does not depend upon the voluntary patronage of its citizens. No amount of consumer dissatisfaction, resource waste, or business malpractice will lead to a loss of revenue that would force departments to rethink their allocation of resources or business practices.
 
 ## There was no reason for George Floyd to die
 
