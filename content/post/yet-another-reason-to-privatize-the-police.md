@@ -78,7 +78,7 @@ Police departments, being financially secured through taxation and, as a last re
 
 ## There was no reason for George Floyd to die
 
-One can only wonder whether George Floyd would have died if his arrest had been carried out by a privatized police force that was held accountable to the profit and loss system, in constant competition with other agencies to provide the most just and peaceful means of dispute resolution, and unanointed with the doctrine of qualified immunity.
+One can only wonder whether George Floyd would have died if his arrest had been carried out by a privatized police force that was held accountable by the profit and loss system - a private protection firm in constant competition with other agencies to provide the most equitable and peaceful means of dispute resolution, and without the special privilege of qualified immunity.
 
 We live in the world's most technologically advanced and competitive economy. Normal human beings will always demand protection for themselves, their families, their property, and their businesses. In light of all the protesting, looting and overwhelming dissatisfaction with state-funded police, it is time for the free market to begin protecting and serving our communities.
 
