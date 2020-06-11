@@ -84,7 +84,7 @@ We live in the world's most technologically advanced and competitive economy. No
 
 [^1]: If we are going to be nabbing citizens for using counterfeit money, we might want to consider proportional fines for the Federal Reserve, an institution that has been counterfeiting to a staggering degree for more than a century.
 
-[^2]: The claim that brutality is a well-known feature of the police system is hardly irrefutable, as the term "police brutality" is the only one of its kind. Can you remember the last time you heard someone speak of "Walmart brutality," "Costco brutality," "Gamestop brutality," "Papa Johns brutality," and so on?
+[^2]: The term "police brutality" is the only one of its kind. Can you remember the last time you heard someone speak of "Walmart brutality," "Costco brutality," "Gamestop brutality," "Papa Johns brutality," and so on?
 
 [^3]: I would challenge any proponent of state-funded police to find a single surviving private company whose number of instances of physical abuse and intimidation of their customers rival those of state-funded police. 
 
