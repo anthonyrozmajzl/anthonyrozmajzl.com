@@ -90,7 +90,7 @@ We live in the world's most technologically advanced and competitive economy. No
 
 [^3]: I would challenge any proponent of state-funded police to find a single surviving private company whose number of instances of physical abuse and intimidation of their customers rival those of state-funded police. 
 
-[^4]: Most people simply lack the imagination to even entertain the notion of privatized police. They will use their inability to conceive of what a privately funded policing business might look as evidence for the impracticality of private policing. Murray Rothbard offered a number of solutions in his 1979 manifesto [*For a New Liberty*](https://mises.org/library/new-liberty-libertarian-manifesto), written in an era far less technologically advanced than the one we live in today.
+[^4]: Most people simply lack the imagination to even entertain the notion of privatized police. They mistake their inability to conceive of what a privately funded policing business might look as evidence for the impracticality of private policing. Murray Rothbard offered a number of solutions in his 1979 manifesto [*For a New Liberty*](https://mises.org/library/new-liberty-libertarian-manifesto), written in an era far less technologically advanced than the one we live in today.
 
 [^5]: Opponents of a single payer healthcare system often abandon those same arguments when discussing the privatization of our single payer law enforcement system.
 
