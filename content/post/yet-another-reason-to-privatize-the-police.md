@@ -1,6 +1,6 @@
 +++
 author = "Anthony Rozmajzl"
-date = 2020-05-27T07:32:47Z
+date = 2020-06-13T07:32:47Z
 description = ""
 draft = false
 slug = "privatize-the-police"
