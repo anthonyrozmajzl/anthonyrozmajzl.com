@@ -4,7 +4,7 @@ date = 2020-03-14T21:28:37Z
 description = ""
 draft = false
 slug = "price-gouging-is-a-function-of-consumer-demand-not-seller-greed"
-title = "If You Hate Empty Store Shelves, You Should Love "Price Gouging"
+title = "If You Hate Empty Store Shelves, You Should Love 'Price Gouging'"
 
 +++
 
