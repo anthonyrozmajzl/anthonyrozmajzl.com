@@ -4,7 +4,7 @@ date = 2020-06-13T07:32:47Z
 description = ""
 draft = false
 slug = "privatize-the-police"
-title = "The time has come to privatize the police"
+title = "The Time Has Come To Privatize The Police"
 
 +++
 
