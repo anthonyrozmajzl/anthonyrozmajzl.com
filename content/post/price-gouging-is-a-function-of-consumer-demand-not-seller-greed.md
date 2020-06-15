@@ -4,7 +4,7 @@ date = 2020-03-14T21:28:37Z
 description = ""
 draft = false
 slug = "price-gouging-is-a-function-of-consumer-demand-not-seller-greed"
-title = "Price gouging is a function of consumer demand, not seller greed"
+title = "If You Hate Empty Store Shelves, You Should Love "Price Gouging"
 
 +++
 
@@ -15,9 +15,9 @@ Amidst the continued spread of COVID-19, anti-price gougers have been hard at wo
 
 This tweet is meant to tug on our heartstrings so that we pour out our grievances for the every-day consumer and harbor anger towards price-gouging sellers. But is it really the case that this New York seller is just flat out greedy and exploitative? Or, is it possible that this seller is performing a valuable market function by conveying an intense shift in consumer demand? Basic economics tells us to bet on the latter.
 
-## What economics says price gouging is
+"Price gouging”, which is dramatically named, is nothing more than an intense shift in prices directly resulting from an intense shift in consumer demand. These prices do not manifest from a sudden desire to take advantage of consumers, but a realization on behalf of the seller that consumers are actually willing, under no threat of coercion, to voluntarily pay higher prices for particular goods. 
 
-“Price gouging”, which is dramatically named, is nothing more than an intense shift in prices directly resulting from an intense shift in consumer demand. These prices do not manifest from a sudden desire to take advantage of consumers, but a realization on behalf of the seller that consumers are actually willing, under no threat of coercion, to voluntarily pay higher prices for particular goods. Price gouging turns out to be the one method that prevents shortages during times of crisis and, to the surprise of many, is a function of consumer demand as opposed to seller “greed."
+Price gouging turns out to be the one method that prevents shortages during times of crisis and, to the surprise of many, is a function of consumer demand as opposed to seller “greed."
 
 ### The demand side of price gouging
 
@@ -41,5 +41,5 @@ The bottom line is that when sellers charge high prices for goods, it is because
 
 Earlier in this article I mentioned that economics tells us not to bet on the fact that high prices are a result of seller greed. But what if sellers started to charge $500,000 or $10 million for a bottle of Purell? Isn't that proof that the price of Purell is motivated by seller greed? Maybe so, but this is nothing to worry about. Again, if nobody is willing to voluntarily purchase a bottle of Purell for $10 million, then the seller must lower its prices or go out of business. Clearly, the concern of seller greed is irrelevant when prices are allowed to fluctuate freely. This reminds us that voluntary transactions at any price level--even “price gouging” levels--are always beneficial to both buyer and seller. If this wasn't the case, no transaction would occur.
 
-While high prices during times of crisis can seem unethical and unjustifiable, we need to remember that they ultimately a function of *consumer* demand, not seller greed. Sellers are simply messengers whose job is to convey consumer demand by changing prices to reflect the intensity with which consumers do, or do not want, a particular good. Letting prices rise maximizes consumer satisfaction by ensuring that the supply of a particular good isn’t wiped out in a matter of days, or to the contrary, left sitting on the shelves for weeks on end. Should panic continue to spread over COVID-19 and prices continue to rise, it is my hope that you can now see why harboring anger towards sellers is no different than shooting the messenger.
+While high prices during times of crisis can seem unethical and unjustifiable, we need to remember that they ultimately are a function of *consumer* demand, not seller greed. Sellers are simply messengers whose job is to convey consumer demand by changing prices to reflect the intensity with which consumers do, or do not want, a particular good. Letting prices rise maximizes consumer satisfaction by ensuring that the supply of a particular good isn’t wiped out in a matter of days, or to the contrary, left sitting on the shelves for weeks on end. Should panic continue to spread over COVID-19 and prices continue to rise, it is my hope that you can now see why harboring anger towards sellers is no different than shooting the messenger.
 
