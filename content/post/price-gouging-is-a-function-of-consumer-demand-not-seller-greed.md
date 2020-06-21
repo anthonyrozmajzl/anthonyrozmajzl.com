@@ -3,6 +3,7 @@ author = "Anthony Rozmajzl"
 date = 2020-03-14T21:28:37Z
 description = ""
 draft = false
+feature = "/images/empty shelf.jpg"
 slug = "price-gouging-is-a-function-of-consumer-demand-not-seller-greed"
 title = "If You Hate Empty Store Shelves, You Should Love 'Price Gouging'"
 
