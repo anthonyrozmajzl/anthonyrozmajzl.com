@@ -3,7 +3,7 @@ author = "Anthony Rozmajzl"
 date = 2020-03-31T18:50:33Z
 description = ""
 draft = false
-slug = "a-nation-that-deserves-neither-liberty-nor-safety"
+slug = "confronting-the-leviathan-of-the-covid19-crisis"
 title = "Confronting The Leviathan Of The COVID-19 Crisis"
 
 +++
