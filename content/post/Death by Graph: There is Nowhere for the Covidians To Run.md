@@ -6,7 +6,7 @@ The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the 
 
 It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was frowned upon. Nevertheless, scientists who refused to venerate Anthony Facui [pointed out](https://www.aier.org/article/did-the-lockdown-save-lives/) fairly early on that the speed with with nations and states shut down had absolutely no bearing on Covid-19 deaths:
 
-![Days to Lockdown](/images/Days to Lockdown.png)
+![Days to Lockdown](/images/Days-to-Lockdown.png)
 
 The above graph doesn't tell us anything about whether lockdowns were effective in generalWell, that wasn't a real lockdown. You need to lock down harder
 
