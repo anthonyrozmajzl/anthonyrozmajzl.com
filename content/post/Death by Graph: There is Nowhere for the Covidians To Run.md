@@ -4,11 +4,13 @@ The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the 
 
 1) “Lockdowns save lives.”
 
-It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was frowned upon. Nevertheless, early data analysis [showed](https://www.aier.org/article/did-the-lockdown-save-lives/) fairly early on that there was no correlation between deaths and the speed with with nations and states shut down:
+It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was frowned upon. Nevertheless, early data analysis [showed](https://www.aier.org/article/did-the-lockdown-save-lives/) fairly early on that there was no correlation between deaths and the speed with which nations and states shut down:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
-The above graph doesn't tell us anything about whether lockdowns were effective in generalWell, that wasn't a real lockdown. You need to lock down harder
+I understand the above graph only correlates time to lockdown with deaths, but what about correlating lockdowns in general to deaths. Surely those nations which lock down hardest are going to save the most lives, right? Wrong.
+
+
 
 PANDATA chart.....maybe a couple of mask charts (ITaly is a good one, Colorado is a good one, see Tom Woods email screenshot for three leftist states that are experiencing huge spikes)
 
