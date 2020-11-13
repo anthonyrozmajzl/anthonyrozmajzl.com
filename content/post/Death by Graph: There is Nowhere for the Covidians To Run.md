@@ -8,7 +8,7 @@ It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the f
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
-I understand the above graph only correlates time to lockdown with deaths, but what about correlating lockdowns in general with deaths. Surely those nations which locked down hardest are going to save the most lives, right? Hardly.
+As you can see, the deaths per million spread is phenomenal for locations that locked down within five days. There truly is no correlation between time to lockdown and deaths. Bu what about the correlation between lockdowns in general and deaths? Surely those nations which locked down hardest will have saved the most lives in the end, right? Hardly.
 
 ![Lockdown Stringency](/images/Lockdown-Stringency.pdf)
 
