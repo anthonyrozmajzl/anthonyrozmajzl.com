@@ -12,7 +12,11 @@ What about the correlation between lockdowns in general and deaths? Surely those
 
 ![Lockdown Stringency](/images/Lockdown-Stringency.pdf)
 
-If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. If the Covidians' cherished slogan were true, we would expect to see mostly green and yellow bars on the left side of the top chart and mostly red and black bars on the right side of the lower chart. To point out the obvious lack of any meaningful correlation will have you anathematized. "That wasn't a real lockdown!" the Covidians will shout. Sounds familiar, doesn't it?
+If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. Even Belgium, with one of the highest lockdown stringencies, is now seeing a massive spike in cases:
+
+- yellowish graph comparing belgium with others
+
+If the Covidians' cherished slogan were true, we would expect to see mostly green and yellow bars on the left side of the top chart and mostly red and black bars on the right side of the lower chart. To point out the obvious lack of any meaningful correlation will have you anathematized. "That wasn't a real lockdown!" the Covidians will shout. Sounds familiar, doesn't it?
 
 - Lockdown Costs
 https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true
@@ -25,9 +29,11 @@ https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-r
 - “Wear the damn mask”
     - This past Wednesday gov Mike DeWine implored his constituency to wear a mask so that others might live(https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20). He went on to tweet ["we now know \[that mask wearing\] is the chief way of slowing this virus.”] (https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20). He quoted words attributed to Winston Churchill during WWII: “When you’re going through hell, keep going!" He feigned regret regret of having to shut down bars, restaurants, gymnasiums, etc., knowing full well that this would have no effect on his ability to put bread on his table and feed his family. His holiness (Fauci) recently declared ex cathedra that it's time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21. The dogmatic pronouncements of the Church of Saint Fauci are infallible, and the Church's faithful are ready to enforce these dictates at the drop of a hat.
     
-Maybe these statements wouldn’t be so utterly embarrassing if the data showed any correlation between mask wearing and cases. I’m not even arguing that mask mandates should have produced massive drop in cases, but there should be at least even the tiniest indication that wearing masks reduces cases. Let’s observe a few areas around the world, courtesy of rationalground.com, to see just how effective mask wearing has been
+Maybe these statements wouldn’t be so utterly embarrassing if the data showed any correlation between mask wearing and cases. I’m not even arguing that mask mandates should have produced massive drop in cases, but there should be at least even the tiniest indication that wearing masks reduces cases. Let’s observe a few areas around the world to see what mask wearing has accomplished:
 
-https://www.wsj.com/articles/case-for-mask-mandate-rests-on-bad-data-11605113310?redirect=amp#click=https://t.co/hzJi4xekCH
+        - Kentucky, Utah, Colorado, (UK, France, Spain, Italy, Sweden)
+
+
 https://twitter.com/elonmusk/status/1327125840040169472?s=21
 
 His holiness (Fauci) recently declared ex cathedra saying it's time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21
