@@ -30,15 +30,13 @@ What follows are some of the most alarming costs associated with the lockdowns. 
 - UNICEF [cites](https://www.unicef.org/press-releases/covid-19-devastates-already-fragile-health-systems-over-6000-additional-children) a study predicting an excess of 1.2 million deaths of children under age 5 within six months
 - The New York Times [predicts](https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html) an 1.4 million excess tuberculosis deaths alongside nearly 1 million excess malaria and HIV deaths
 - CBS [cited](https://www.cbsnews.com/news/coronavirus-deaths-suicides-drugs-alcohol-pandemic-75000/) a study indicating the potential for 75,000 excess deaths of despair: deaths due to drug and alcohol abuse or suicide
-- The CDC [reported](https://www.cdc.gov/mmwr/volumes/69/wr/mm6942e2.htm) just under 200,000 excess deaths, a [26.5% jump] from previous years(https://www.dailywire.com/news/new-cdc-numbers-show-lockdowns-deadly-toll-on-young-people) attributable to Covid-19 with a majority of these deaths affecting 25-44 year olds
+- The CDC [reported](https://www.cdc.gov/mmwr/volumes/69/wr/mm6942e2.htm) just under 200,000 excess deaths, a [26.5% jump](https://www.dailywire.com/news/new-cdc-numbers-show-lockdowns-deadly-toll-on-young-people) from previous years attributable to Covid-19 with a majority of these deaths affecting 25-44 year olds
 - The Associate Press [linked](https://apnews.com/article/lifestyle-ap-top-news-understanding-the-outbreak-hunger-international-news-5cbee9693c52728a3808f4e7b4965cbd) virus-related hunger to 10,000 child deaths per month
 - The CDC [conducted a week long survey in June](https://www.forbes.com/sites/jackkelly/2020/08/18/the-pandemic-has-caused-an-increase-in-anxiety-stress-depression-and-suicides/?sh=23f44a175863) finding that 25% of young adults between 18-24 years of age have considered suicide because of the pandemic.
+- The UN [estimates](https://www.washingtonpost.com/world/national-security/un-pandemic-could-push-tens-of-millions-into-chronic-hunger/2020/07/13/0733e34e-c51e-11ea-a825-8722004e4150_story.html) that as many as 130 million people will be at risk of starvation thanks to the lockdown's disruption of global food supply chains
+- A CDC report [found](https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true) a 31% increase in mental health-related emergency room visits for children between the ages of 12 and 17 compared to 2019 from March to October.
 
-Quite clearly the lockdowns have done far more bad than good. To point out the above facts, however, is not "trusting the Science<sup>TM</sup>." To defy any lockdown orders is tantamount to murder in the eyes of the Church of Saint Fauci. Nevertheless, these facts point out the absurdly hypocritical moral posturing you 
-
-https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true
-        "The CDC analyzed hospital data from 47 states that comprised about 75 percent of nationwide emergency room visits. One in 85 pediatric visits were mental health-related from March to October in 2019, compared to one in 60 in 2020."
-
+Many more consequences like these can be found at [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com), neatly organized by physical, mental, and social health. Quite clearly the lockdowns have done far more harm than good. To point out the above facts, however, is not "trusting the Science<sup>TM</sup>." To defy or even question lockdown orders is tantamount to murder in the eyes of the Church of Saint Fauci. If you want to examine further just how much damage the lockdowns are causing 
 
 
 
