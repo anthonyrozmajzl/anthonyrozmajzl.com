@@ -4,7 +4,7 @@ The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the 
 
 1) “Lockdowns save lives.”
 
-It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was deeply frowned upon. Nevertheless, after only a couple of months of lockdown data analysis [showed](https://www.aier.org/article/did-the-lockdown-save-lives/) that there was no correlation between deaths and the speed with which nations and states shut down:
+It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was deeply frowned upon. Nevertheless, a few months of lockdown was plenty of time for data analysts to [show](https://www.aier.org/article/did-the-lockdown-save-lives/) that there was no correlation between deaths and the speed with which nations and states shut down:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
@@ -12,7 +12,7 @@ What about the correlation between lockdowns in general and deaths? Surely those
 
 ![Lockdown Stringency](/images/Lockdown-Stringency.pdf)
 
-If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. If the Covidians' cherished slogan were true, all green and yellow bars would be on the left side of the top chart while all red and black bars would be on the right side of the lower chart. Here is one more chart showing, yet again, pracitcally zero correation between case growth and lockdown stringency. 
+If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. If the Covidians' cherished slogan were true, all green and yellow bars would be on the left side of the top chart while all red and black bars would be on the right side of the lower chart. Here is another chart showing, yet again, pracitcally zero correation between case growth and lockdown stringency. 
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
