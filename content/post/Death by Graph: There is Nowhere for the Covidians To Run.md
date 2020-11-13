@@ -1,24 +1,21 @@
 Data visualization is a wonderful thing. Through the use of charts and graphs data visualization tools help us understand and see important trends that are invisible in the raw data. Now more than ever, data analysts have been instrumental in revealing Covid-19-related trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
-The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Current members who question the effectiveness of lockdowns, mask mandates, or simply suggest that Sweden's approach might have been successful face immediate excommunication. CSF's dogma is infallible, undebatable, and settled for eternity . . . at least according to its current memebrs. Let's take a look at what the data say regarding CSF's most cherished beliefs.
+The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Current members who question the effectiveness of lockdowns, mask mandates, or simply suggest that Sweden's approach might have been successful face immediate excommunication. CSF's dogma is infallible, undebatable, and settled for eternity . . . at least according to its current memebrs. Let's take a look at what the data say about CSF's two most cherished beliefs.
 
 1) “Lockdowns save lives.”
 
-It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was frowned upon. Nevertheless, early data analysis [showed](https://www.aier.org/article/did-the-lockdown-save-lives/) fairly early on that there was no correlation between deaths and the speed with which nations and states shut down:
+It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was deeply frowned upon. Nevertheless, early data analysis [showed](https://www.aier.org/article/did-the-lockdown-save-lives/) fairly early on that there was no correlation between deaths and the speed with which nations and states shut down:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
-I understand the above graph only correlates time to lockdown with deaths, but what about correlating lockdowns in general to deaths. Surely those nations which lock down hardest are going to save the most lives, right? Wrong.
+I understand the above graph only correlates time to lockdown with deaths, but what about correlating lockdowns in general with deaths. Surely those nations which locked down hardest are going to save the most lives, right? Hardly.
 
 ![Lockdown Stringency](/images/Lockdown-Stringency.pdf)
 
-PANDATA chart.....maybe a couple of mask charts (ITaly is a good one, Colorado is a good one, see Tom Woods email screenshot for three leftist states that are experiencing huge spikes)
+If this chart shows anything, it shows that there is absolutely no correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of the bar graph. If the Covidians' cherished slogan held its weight, we would expect too see mostly green and yellow bars on the left side of the top chart and mostly red and black bars on the right side of the lower graph, yet we see no such thing. To point this clear lack of correlation out will have you anathematized. "That wasn't a real lockdown!" they'll shout. Sounds familiar, doesn't it?
 
 
-- “Cases” are the most important metric
-    - PCR testing
-    - Any mention of cases without mentioning testing levels is tantamount to lying
-        - You don’t have cases if people don’t get tested
+
 
 
 - “Wear the damn mask”
