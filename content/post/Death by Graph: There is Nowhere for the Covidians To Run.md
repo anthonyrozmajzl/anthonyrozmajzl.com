@@ -1,6 +1,6 @@
-Data visualization is a wonderful thing. Through the use of charts and graphs data visualization tools help us understand and see important trends that are invisible in the raw data. Now more than ever, data analysts have been instrumental in revealing Covid-19-related trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
+Data visualization is a wonderful thing. Through the use of charts and graphs data visualization tools help us understand and see important trends that are invisible in the raw data. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
-The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Current members who question the effectiveness of lockdowns, mask mandates, or simply suggest that Sweden's approach might have been successful face immediate excommunication. CSF's dogma is infallible, undebatable, and settled for eternity . . . at least according to its current memebrs. Let's take a look at what the data say about CSF's two most cherished beliefs.
+Covidians are zealous apostles of the Church of Saint Fauci (CSF), bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Current members who question the effectiveness of lockdowns, mask mandates, or simply suggest that Sweden's approach might have been successful face immediate excommunication. CSF's dogma is infallible, undebatable, settled for eternity . . . at least according to its current memebrs. Let's take a look at what the data say about CSF's two most cherished beliefs.
 
 1) “Lockdowns save lives.”
 
@@ -12,11 +12,13 @@ What about the correlation between lockdowns in general and deaths? Surely those
 
 ![Lockdown Stringency](/static/images/Lockdown-Stringency.png)
 
-If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. If the Covidians' cherished slogan were true, all green and yellow bars would be on the left side of the top chart while all red and black bars would be on the right side of the lower chart. Here is another chart showing, yet again, pracitcally zero correation between case growth and lockdown stringency. 
+If the above chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. If the Covidians' cherished slogan were true, only green and yellow bars would be on the left side of the top chart while only red and black bars would be on the right side of the lower chart. 
+
+Here is one more chart that shows, yet again, pracitcally zero correation between case growth and lockdown stringency. 
 
 ![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
-To point out the obvious lack of any meaningful correlation within the two charts above will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" the Covidians will shout. I wonder where else we've heard a smiliar slogan.
+To point out the obvious lack correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" the Covidians will shout. Gee, where else have we heard a smiliar slogan?
 
 - Lockdown Costs
 https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true
@@ -26,8 +28,8 @@ https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-r
 
 
 
-- “Wear the damn mask”
-    - This past Wednesday gov Mike DeWine implored his constituency to wear a mask so that others might live(https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20). He went on to tweet ["we now know \[that mask wearing\] is the chief way of slowing this virus.”] (https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20). He quoted words attributed to Winston Churchill during WWII: “When you’re going through hell, keep going!" He feigned regret regret of having to shut down bars, restaurants, gymnasiums, etc., knowing full well that this would have no effect on his ability to put bread on his table and feed his family. His holiness (Fauci) recently declared ex cathedra that it's time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21. The dogmatic pronouncements of the Church of Saint Fauci are infallible, and the Church's faithful are ready to enforce these dictates at the drop of a hat.
+- “Wear the mask, save a life”
+    - This past Wednesday gov Mike DeWine implored his constituency to wear a mask so that others might live(https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20). He went on to tweet ["we now know \[that mask wearing\] is the chief way of slowing this virus.”] (https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20). He quoted words attributed to Winston Churchill during WWII: “When you’re going through hell, keep going!" He feigned regret regret of having to shut down bars, restaurants, gymnasiums, etc., knowing full well that this would have no effect on his ability to put bread on his table and feed his family. His Holiness, Dr. Anthony Fauci,  recently declared ex cathedra that now is the time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21. The dogmatic pronouncements of the Church of Saint Fauci are infallible, and the Church's faithful are ready to enforce these dictates at the drop of a hat.
     
 Maybe these statements wouldn’t be so utterly embarrassing if the data showed any correlation between mask wearing and cases. I’m not even arguing that mask mandates should have produced massive drop in cases, but there should be at least even the tiniest indication that wearing masks reduces cases. Let’s observe a few areas around the world to see what mask wearing has accomplished:
 
