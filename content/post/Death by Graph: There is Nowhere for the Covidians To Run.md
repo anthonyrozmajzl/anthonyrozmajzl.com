@@ -12,11 +12,9 @@ What about the correlation between lockdowns in general and deaths? Surely those
 
 ![Lockdown Stringency](/images/Lockdown-Stringency.pdf)
 
-If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. Even Belgium, with one of the highest lockdown stringencies, is now seeing a massive spike in cases:
+![Lockdown Stringecy vs Case Change](/images/stringency-vs-change)
 
-- yellowish graph comparing belgium with others
-
-If the Covidians' cherished slogan were true, we would expect to see mostly green and yellow bars on the left side of the top chart and mostly red and black bars on the right side of the lower chart. To point out the obvious lack of any meaningful correlation will have you anathematized. "That wasn't a real lockdown!" the Covidians will shout. Sounds familiar, doesn't it?
+If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. If the Covidians' cherished slogan were true, all green and yellow bars should be on the left side of the top chart while all red and black bars on the right side of the lower chart. To point out the obvious lack of any meaningful correlation will have you anathematized. "That wasn't a real lockdown!" the Covidians will shout. Sounds familiar, doesn't it?
 
 - Lockdown Costs
 https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true
