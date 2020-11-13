@@ -10,7 +10,7 @@ It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the f
 
 What about the correlation between lockdowns in general and deaths? Surely those nations which locked down hardest will have saved the most lives, right? Hardly.
 
-![Lockdown Stringency](/static/images/Lockdown-Stringency.pdf)
+![Lockdown Stringency](/static/images/Lockdown-Stringency.png)
 
 If this chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. Countries with the highest stringencies appear across all areas of both graphs. If the Covidians' cherished slogan were true, all green and yellow bars would be on the left side of the top chart while all red and black bars would be on the right side of the lower chart. Here is another chart showing, yet again, pracitcally zero correation between case growth and lockdown stringency. 
 
