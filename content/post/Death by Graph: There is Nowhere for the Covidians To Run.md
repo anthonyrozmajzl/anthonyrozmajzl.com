@@ -10,7 +10,7 @@ It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the f
 
 I understand the above graph only correlates time to lockdown with deaths, but what about correlating lockdowns in general to deaths. Surely those nations which lock down hardest are going to save the most lives, right? Wrong.
 
-![Lockdown Stringency](/images/Lockdown Stringency.pdf)
+![Lockdown Stringency](/images/Lockdown-Stringency.pdf)
 
 PANDATA chart.....maybe a couple of mask charts (ITaly is a good one, Colorado is a good one, see Tom Woods email screenshot for three leftist states that are experiencing huge spikes)
 
