@@ -1,4 +1,4 @@
-Data visualization is a wonderful thing. Through the use of charts and graphs data visualization tools help us understand and see important trends that are invisible in the raw data. Now more than ever, data analysts have been instrumental in compiling data that rebutts some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
+Data visualization is a wonderful thing. Through the use of charts and graphs data visualization tools help us understand and see important trends that are invisible in the raw data. Now more than ever, data analysts have been instrumental in revealing Covid-19-related trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
 The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Current members who question the effectiveness of lockdowns, mask mandates, or simply suggest that Sweden's approach might have been successful face immediate excommunication. CSF's dogma is infallible, undebatable, and settled for eternity . . . at least according to its current memebrs. Let's take a look at what the data say regarding CSF's most cherished beliefs.
 
@@ -6,7 +6,7 @@ The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the 
 
 It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was frowned upon. Nevertheless, scientists who refused to venerate Anthony Facui [pointed out](https://www.aier.org/article/did-the-lockdown-save-lives/) fairly early on that the speed with with nations and states shut down had absolutely no bearing on Covid-19 deaths:
 
-
+![](Screen Shot 2020-11-12 at 7.58.37 PM.png)
 
 The above graph doesn't tell us anything about whether lockdowns were effective in generalWell, that wasn't a real lockdown. You need to lock down harder
 
