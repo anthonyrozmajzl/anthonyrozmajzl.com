@@ -6,7 +6,7 @@ The Covidians are zealous apostles of the Church of Saint Fauci, bearers of the 
 
 It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was deeply frowned upon. Nevertheless, after only a couple of months of lockdown data analysis [showed](https://www.aier.org/article/did-the-lockdown-save-lives/) that there was no correlation between deaths and the speed with which nations and states shut down:
 
-![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg) ![Days to Lockdown2](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
+![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
 What about the correlation between lockdowns in general and deaths? Surely those nations which locked down hardest will have saved the most lives, right? Hardly.
 
