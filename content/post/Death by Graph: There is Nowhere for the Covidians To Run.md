@@ -16,7 +16,7 @@ If this chart shows anything, it shows that there is absolutely zero correlation
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-To point out the obvious lack of any meaningful correlation within the two charts above will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" the Covidians will shout. Sounds familiar, doesn't it?
+To point out the obvious lack of any meaningful correlation within the two charts above will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" the Covidians will shout. I wonder where else we've heard a smiliar slogan.
 
 - Lockdown Costs
 https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true
