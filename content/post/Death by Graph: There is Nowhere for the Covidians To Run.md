@@ -35,15 +35,20 @@ Quite clearly the lockdowns are doing far more harm than good. To point out thes
 
 ## “Wear the damn mask.”
 
-This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitter tirade about the importance of wearing masks. Among many things he implored his constituency to wear masks so that their [friends, family, and neighbors may live](https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20). Most foolishly he [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the average person the impression that there is some relationship between mask wearing and cases. I'm not saying there needs to be a massive drop in cases to entertain the idea of a mask mandate, but there should at leaset be *some* noticeable drop. I think it would be wonderful if we could all wear masks for a month and be done, but the data consistently show no correlation between mask wearing and cases. Let’s observe some different areas around the world to see just how little mask wearing has helped:
+This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitter tirade about the importance of wearing masks. Among many things he implored his constituency to wear masks so that their [friends, family, and neighbors may live](https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20). Most foolishly he [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the average person the impression that there is some relationship between mask wearing and cases. I'm not saying there needs to be a massive drop in cases to vindicate mask mandates, but there should at leaset be *some* distinguishable drop in cases. I think it would be wonderful if we could all wear masks for a month and be done, but the data consistently show the futility of mask mandates. Let’s observe some different areas around the world to see just how little mask wearing has helped:
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
-![Europe Mask Usage](/static/images/Europe-Mask-Usage.jpg =500x500)
-![Colorado Mask Chart](/static/images/colorad-mask-chart.jpg = 500x500)
+![Europe Mask Usage](/static/images/Europe-Mask-Usage.jpg)
 
-        
-        - Utah, Colorado, (UK, France, Spain, Italy, Sweden)
+Note the small blip in 
 
+![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
+![Colorado Mask Chart](/static/images/colorado-mask-chart.jpg)
+![Utah Mask Chart](/static/images/uath-mask-chart.jpg)
+![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
+![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
+
+Even in the face of these charts&mdash;more found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash; we are told to keep trusting the Science<sup>TM</sup>, mask up, and do our part to stop the spread. 
 
 His holiness (Fauci) recently declared ex cathedra saying it's time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21
 
