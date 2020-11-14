@@ -1,24 +1,24 @@
-Data visualization is a wonderful thing. Through the use of charts and graphs data visualization tools help us understand and see important trends that are invisible in the raw data. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
+Data visualization is a wonderful thing. Charts and graphs simplify raw data to help us understand and see important trends that are otherwise invisible. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
-Covidians are zealous apostles of the Church of Saint Fauci (CSF), bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Current members who question the effectiveness of lockdowns, mask mandates, or simply suggest that Sweden's approach might have been successful face immediate excommunication. CSF's dogma is infallible, undebatable, settled for eternity . . . at least according to its current memebrs. Let's take a look at what the data say about CSF's two most cherished beliefs.
+Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible -- "Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstones of the true Science<sup>TM</sup>. But what can simple data analysis tell us about the Church of Saint Fauci's most cherished dogmata? Let's have a look.
 
 # “Lockdowns save lives.”
 
-It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat without a single vote--go democracy! Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates was deeply frowned upon. Nevertheless, a few months of lockdown was plenty of time for data analysts to show that there was no correlation between deaths and the speed with which nations and states shut down:
+It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat--go democracy!-- in an effort to do something, *anything* to slow the spread. Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates relegated one to the status of haircut-loving grandma killer. Nevertheless, a few months of lockdown was plenty of time for data analysts to show that there was no correlation between deaths and the speed with which nations and states shut down:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
-Locking down quickly clearly did not matter, but what about locking down at all? Surely those nations locking down hardest are saving more lives, right? Hardly.
+Locking down quickly clearly did not matter, but what about locking down in general? Surely the strictest lockdowns are saving the most lives, right? Hardly.
 
 ![Lockdown Stringency](/static/images/Lockdown-Stringency.png)
 
-If the above chart shows anything, it shows that there is absolutely zero correlation between Covid-19 deaths and lockdown stringency. If the Covidians' cherished slogan were true, only green and yellow bars would be on the left side of the top chart while only red and black bars would be on the right side of the lower chart. For a full picutre of the data, click [here.](https://app.powerbi.com/view?r=eyJrIjoiMGVjYjhkMjMtMzhjMy00OWRkLWJlNWItNjM0NzI0NjhiNTlkIiwidCI6IjlkZWYwNTBlLTExMDUtNDk1ZC1iNzUzLWRhOGRiZTc5MGVmNyJ9)
+Again we see zero correlation between Covid-19 deaths and lockdown stringency. If the Covidians' cherished slogan were true, we would expect to see only green and yellow bars in the upper left with only red and black bars in the lower right. For a full picutre of the data, click [here.](https://app.powerbi.com/view?r=eyJrIjoiMGVjYjhkMjMtMzhjMy00OWRkLWJlNWItNjM0NzI0NjhiNTlkIiwidCI6IjlkZWYwNTBlLTExMDUtNDk1ZC1iNzUzLWRhOGRiZTc5MGVmNyJ9)
 
 Here is one more chart that shows practiaclly zero correlation between case growth and lockdown stringency. 
 
 ![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
-To point out the obvious lack correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" the Covidians will shout. I wonder where else we have heard a smiliar slogan.
+To point out the obvious lack correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" they'll say. Sounds familiar, no?
 
 
 ## The costs of locking down
