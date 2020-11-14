@@ -2,7 +2,7 @@ Data visualization is a wonderful thing. Being able to simplify raw data helps u
 
 Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert&mdash;by force if necessary&mdash;their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible&mdash;"Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstone teachings of the Church. But what can simple data analysis tell us about two of the Church of Saint Fauci's most cherished dogmata? Let's have a look.
 
-# “Lockdowns save lives.”
+## “Lockdowns save lives.”
 
 It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat&mdash;go democracy!&mdash;in an effort to do something, *anything* to slow the spread. Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates relegated one to the lowly status of a haircut-loving grandma killer. But after only a few months of lockdown it became clear that there was no correlation between how soon a region locked down and deaths:
 
@@ -15,7 +15,7 @@ Locking down quickly clearly did not matter, but what about locking down in gene
 If the Covidians' cherished dogma were true, we would expect to see an obvious downward trend showing smaller case increases for countries with higher lockdown stringencies. We see no such correlation. To point out the obvious lack of correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" they'll say. Sound familiar?
 
 
-## The costs of locking down
+#### The costs of locking down
 
 Not only have the lockdowns played no role in disease mitigation, more recent data have shown that the costs of locking down *far* outweigh the perceived benefits. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains, mandating unemployment for millions, and throwing people into abject poverty. Even the Atlantic [admitted](https://www.theatlantic.com/international/archive/2020/08/coronavirus-pandemic-developing-world/614578/) that by asking people in low to middle income countries to stay home, in many cases you are asking them to starve. But no matter. When nations around the globe are at "war" with a virus, the best action is any immediate action.
 
