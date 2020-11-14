@@ -12,12 +12,12 @@ Locking down quickly clearly did not matter, but what about locking down in gene
 
 ![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
-If the Covidians' cherished dogma were true, we would expect to see an obvious downward trend showing smaller case increases for countries with higher lockdown stringencies. We see no such correlation. To point out the obvious lack of correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" they'll say. Sound familiar?
+If the Covidians' cherished dogma were true, we would expect to see an obvious downward-sloping line indicating that more stringent lockdowns prevent more cases. No such trend exists. To point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "Such and such region didn't have a *real* lockdown!" they'll yell. Sound familiar?
 
 
 ### The costs of locking down
 
-Not only have the lockdowns played no role in disease mitigation, more recent data have shown that the costs of locking down *far* outweigh the perceived benefits. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains, mandating unemployment for millions, and throwing people into abject poverty. Even the Atlantic [admitted](https://www.theatlantic.com/international/archive/2020/08/coronavirus-pandemic-developing-world/614578/) that by asking people in low to middle income countries to stay home, in many cases you are asking them to starve. But no matter. When nations around the globe are at "war" with a virus, the best action is any immediate action.
+Not only have the lockdowns played no role in Covid-19 mitigation, more recent data have shown that the costs of locking down *far* outweigh the perceived benefits. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains, mandating unemployment for millions, and throwing people into abject poverty. Even the Atlantic [admitted](https://www.theatlantic.com/international/archive/2020/08/coronavirus-pandemic-developing-world/614578/) that asking people in low to middle-income countries to stay home is, in many cases, asking them to starve. But no matter. When nations around the globe are at "war" with a virus, the only course of action is immediate action.
 
 What follows are some of the most alarming costs associated with the lockdowns, and the Covidians are guaranteed to have never heard of them. These costs are brutal, depressing, and lay to rest the myth that lockdowns save lives.
 
