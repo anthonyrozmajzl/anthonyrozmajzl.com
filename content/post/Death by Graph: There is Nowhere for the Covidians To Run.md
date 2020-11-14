@@ -1,6 +1,6 @@
 Data visualization is a wonderful thing. Being able to simplify raw data helps us understand and see important trends that would otherwise be invisible in the raw data alone. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
-Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert&mdash;by force if necessary&mdash;their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible&mdash;"Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstone teachings of the Church. But what can simple data analysis tell us about two of the Church of Saint Fauci's most cherished dogmata? Let's have a look.
+Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert&mdash;by force if necessary&mdash;their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible&mdash;"Lockdowns save lives!", "Wear the damn mask!", and others have become cornerstone teachings of the Church. But what can simple data analysis tell us about two of the Church of Saint Fauci's most cherished dogmata? Let's have a look.
 
 ## “Lockdowns save lives.”
 
@@ -12,7 +12,7 @@ Locking down quickly clearly did not matter, but what about locking down in gene
 
 ![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
-If Covidian lockdown dogma were correct, we would expect to see an obvious downward-sloping scatter plot indicating that more stringent lockdowns prevent more cases. No such trend exists in the chart. And to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar?
+If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards indicating that stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar?
 
 
 ### The costs of locking down
@@ -39,23 +39,12 @@ This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitte
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
 ![Europe Mask Usage](/static/images/Europe-Mask-Usage.jpg)
-
-Note that the small blip in Sweden's deaths toward the end of November incited perverse celebration on social media at the thought of Sweden finally getting what it had coming. This blip resolved in the following week.
-
 ![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
 ![Colorado Mask Chart](/static/images/colorado-mask-chart.jpg)
 ![Utah Mask Chart](/static/images/uath-mask-chart.jpg)
 ![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
 ![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
 
-Even in the face of these charts&mdash;more found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash; we are told to keep trusting the Science<sup>TM</sup>, mask up, and do our part to stop the spread. 
+Even in the face of these charts&mdash;more found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash; we are told to keep trusting the Science<sup>TM</sup>, wear the damn mask, and ["Do what you're told."](https://twitter.com/deaceproducer/status/1327256913248198661?s=21).
 
-His holiness (Fauci) recently declared ex cathedra saying it's time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21
-
-- "Sweden was a failure"
-        - I recommend extreme caution when talking about Sweden. Noting the phenomenal success of Sweden’s “battle” with Covid-19 will likely invoke hissing more unbearable than           a vampire being pressed with a silver crucifix in broad daylight. 
-        - Most attempts at rebutting Sweden’s success start with mentioning Sweden’s high death rate. Yes, their death rate was high, but this was due to a poor management of          nursing homes. Health and Social Affairs Minister Lena Hallengren admitted (https://news.yahoo.com/sweden-admits-failure-protect-elderly-care-homes-024202762.html) that            Sweden failed to protect their elderly. As of April 28, 90 percent of those who died from Covid-19 were over 70 years old. Half of these deaths occurred in nursing             homes and another quarter occurred during at-home care
-
-- Closing:
-    - The vast majority of the population is now okay with sitting at home and watching TV to figure out what their governors and local officials are going to allow them to do for the day. 
-    - Tom Woods speeches
+Two of the fundamental teachings of the Church of Saint Fauci, "Wear the damn mask" and "Lockdowns save lives", are refuted with a cursory glance at data from around the world. These teachings are utterly dismantled by the example set forth in Sweden. With all the damage that has been done through the Church of Saint Fauci's dogmata, civil disobedience is needed to return to normal life, not some distopyian "new normal" where strangers are viewed as pathogens and gatherings are limited to 20 people. A life worth living includes musical performances, concerts, attending professional sporting events, hosting family gatherings and celebrations, traveling the world, going tocomedy shows, and so much more. And yes, these things technically still exist, but only as shadows in Plato's cave. 
