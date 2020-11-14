@@ -1,6 +1,6 @@
 Data visualization is a wonderful thing. Charts and graphs simplify raw data to help us understand and see important trends that are otherwise invisible. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
-Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible -- "Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstones of the true Science<sup>TM</sup>. But what can simple data analysis tell us about the Church of Saint Fauci's most cherished dogmata? Let's have a look.
+Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible -- "Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstones of the true Science<sup>TM</sup>. But what can simple data analysis tell us about two of the Church of Saint Fauci's most cherished dogmata? Let's have a look.
 
 # “Lockdowns save lives.”
 
@@ -12,18 +12,14 @@ Locking down quickly clearly did not matter, but what about locking down in gene
 
 ![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
-Again we see zero correlation between Covid-19 deaths and lockdown stringency. If the Covidians' cherished slogan were true, we would expect to see only green and yellow bars in the upper left with only red and black bars in the lower right. For a full picutre of the data, click [here.](https://app.powerbi.com/view?r=eyJrIjoiMGVjYjhkMjMtMzhjMy00OWRkLWJlNWItNjM0NzI0NjhiNTlkIiwidCI6IjlkZWYwNTBlLTExMDUtNDk1ZC1iNzUzLWRhOGRiZTc5MGVmNyJ9)
-
-Here is one more chart that shows practiaclly zero correlation between case growth and lockdown stringency. 
-
-To point out the obvious lack correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" they'll say. Sounds familiar, no?
+If the Covidians' cherished dogma were true, we would expect to see an obvious downward trend showing smaller case increases for countries with higher lockdown stringencies. We see no such correlation. To point out the obvious lack of correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" they'll say. Sound familiar?
 
 
 ## The costs of locking down
 
-Let's imagine for a moment that lockdowns play any significant role in slowing the spread of Covid-19. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of locking down. For one, doing so would have been impossible. There is no historical or scientific precedent for lockdowns and therefore no way to justify the cost of doing so. But no matter. When a nation is at "war" with a virus, taking immediate action is the only option.
+Not only have the lockdowns played no role in disease mitigation, the costs *far* outweigh the perceived benefits. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains, mandating unemployment for millions, and throwing people into abject poverty. The Atlantic [admitted](https://www.theatlantic.com/international/archive/2020/08/coronavirus-pandemic-developing-world/614578/) that by asking people in low-middle income to stay home, you are asking them to starve.  But no matter. When nations around the globe are at "war" with a virus, the best action is any immediate action.
 
-What follows are some of the most alarming costs associated with the lockdowns. They are brutal and depressing, but they decimate the foolish belief that lockdowns save lives.
+What follows are some of the most alarming costs associated with the lockdowns. They are brutal, depressing, and refute the myth that lockdowns save lives.
 
 - UNICEF [cites](https://www.unicef.org/press-releases/covid-19-devastates-already-fragile-health-systems-over-6000-additional-children) a study predicting an excess of 1.2 million deaths of children under age 5 within six months
 - The New York Times [predicts](https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html) an 1.4 million excess tuberculosis deaths alongside nearly 1 million excess malaria and HIV deaths
@@ -34,9 +30,7 @@ What follows are some of the most alarming costs associated with the lockdowns. 
 - The UN [estimates](https://www.washingtonpost.com/world/national-security/un-pandemic-could-push-tens-of-millions-into-chronic-hunger/2020/07/13/0733e34e-c51e-11ea-a825-8722004e4150_story.html) that as many as 130 million people will be at risk of starvation thanks to the lockdown's disruption of global food supply chains
 - A CDC report [found](https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true) a 31% increase in mental health-related emergency room visits for children between the ages of 12 and 17 compared to 2019 from March to October.
 
-Many more consequences like these can be found at [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com), neatly organized by physical, mental, and social health. Quite clearly the lockdowns have done far more harm than good. To point out the above facts, however, is not "trusting the Science<sup>TM</sup>." To defy or even question lockdown orders is tantamount to murder in the eyes of the Church of Saint Fauci. If you want to examine further just how much damage the lockdowns are causing 
-
-
+Quite clearly the lockdowns are doing far more harm than good. To point out these grim realities, however, is blaspheming not only the Science<sup>TM</sup> but his holiness Dr. Anthony Fauci! To defy or even question lockdown orders is tantamount to murder in the eyes of the Covidians. If you are curious to read more about the physical, mental, and social health consequences of locking down, head over to [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com). It will become very clear that lockdowns do *not* save lives. 
 
 
 ## “Wear the damn mask.”
