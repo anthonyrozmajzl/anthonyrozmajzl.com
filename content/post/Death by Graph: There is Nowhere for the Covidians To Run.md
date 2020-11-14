@@ -10,13 +10,11 @@ It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the f
 
 Locking down quickly clearly did not matter, but what about locking down in general? Surely the strictest lockdowns are saving the most lives, right? Hardly.
 
-![Lockdown Stringency](/static/images/Lockdown-Stringency.png)
+![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
 Again we see zero correlation between Covid-19 deaths and lockdown stringency. If the Covidians' cherished slogan were true, we would expect to see only green and yellow bars in the upper left with only red and black bars in the lower right. For a full picutre of the data, click [here.](https://app.powerbi.com/view?r=eyJrIjoiMGVjYjhkMjMtMzhjMy00OWRkLWJlNWItNjM0NzI0NjhiNTlkIiwidCI6IjlkZWYwNTBlLTExMDUtNDk1ZC1iNzUzLWRhOGRiZTc5MGVmNyJ9)
 
 Here is one more chart that shows practiaclly zero correlation between case growth and lockdown stringency. 
-
-![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
 To point out the obvious lack correlation in any of the above charts will have you anathematized by the Church of St. Fauci. "That wasn't a real lockdown!" they'll say. Sounds familiar, no?
 
