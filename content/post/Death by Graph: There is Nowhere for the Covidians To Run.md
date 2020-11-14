@@ -40,7 +40,7 @@ This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitte
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
 ![Europe Mask Usage](/static/images/Europe-Mask-Usage.jpg)
 
-Note the small blip in Sweden's deaths. There was perverse celebration at the though that Sweden might finally get what it had coming to it.
+Note that the small blip in Sweden's deaths toward the end of November incited perverse celebration on social media at the thought of Sweden finally getting what it had coming. This blip resolved in the following week.
 
 ![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
 ![Colorado Mask Chart](/static/images/colorado-mask-chart.jpg)
