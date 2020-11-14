@@ -1,10 +1,10 @@
-Data visualization is a wonderful thing. Data analysis tools simplify raw data to help us understand and see important trends that would otherwise be invisible in the raw data alone. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
+Data visualization is a wonderful thing. Being able to simplify raw data helps us understand and see important trends that would otherwise be invisible in the raw data alone. Now more than ever, data analysts have been instrumental in exposing Covid-19 trends that rebutt some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
 
-Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert--by force if necessary--their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible -- "Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstone teachings of the true Science<sup>TM</sup>. But what can simple data analysis tell us about two of the Church of Saint Fauci's most cherished dogmata? Let's have a look.
+Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one true Science<sup>TM</sup>, eager to convert&mdash;by force if necessary&mdash;their wordly brothers and sisters who are lost in their delusional pseudoscience. Church laity and clergy who question the effectiveness of lockdowns, mask mandates, or suggest that Sweden's approach was successful face immediate excommunication. Moreover, the Church of Saint Fauci's dogma is infallible&mdash;"Lockdowns save lives!", "Wear the damn mask!", "Do what you're told!", and others have become cornerstone teachings of the Church. But what can simple data analysis tell us about two of the Church of Saint Fauci's most cherished dogmata? Let's have a look.
 
 # “Lockdowns save lives.”
 
-It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat--go democracy!-- in an effort to do something, *anything* to slow the spread. Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates relegated one to the lowly status of a haircut-loving grandma killer. After only a few months of lockdown, however, it became clear that there was no correlation between a region's time to lockdown and deaths:
+It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat&mdash;go democracy!&mdash;in an effort to do something, *anything* to slow the spread. Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates relegated one to the lowly status of a haircut-loving grandma killer. But after only a few months of lockdown it became clear that there was no correlation between how soon a region locked down and deaths:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
@@ -30,7 +30,7 @@ What follows are some of the most alarming costs associated with the lockdowns, 
 - CBS [cited](https://www.cbsnews.com/news/coronavirus-deaths-suicides-drugs-alcohol-pandemic-75000/) a study indicating the potential for 75,000 excess deaths of despair: deaths due to drug and alcohol abuse or suicide
 - A CDC report [found](https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true) a 31% increase in mental health-related emergency room visits for children between the ages of 12 and 17 compared to 2019 from March to October.
 
-Quite clearly the lockdowns are doing far more harm than good. To point out these grim realities, however, is blaspheming towards the Science<sup>TM</sup> and, by extension, his holiness Dr. Anthony Fauci! To defy or even question lockdown orders is tantamount to murder in the eyes of the Covidians. If you are curious to read more about the physical, mental, and social health consequences of locking down, head over to [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com). It should become very clear that lockdowns are hardly saving lives. 
+Quite clearly the lockdowns are doing far more harm than good. To point out these grim realities, however, is blaspheming the Science<sup>TM</sup> and, by extension, his holiness Dr. Anthony Fauci! To defy or even question lockdown orders is tantamount to murder in the eyes of the Covidians. For any Covidians and non-Covidians who are curious to read more about the physical, mental, and social health consequences of locking down, head over to [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com). It will become very clear that lockdowns are not saving lives. 
 
 
 ## “Wear the damn mask.”
@@ -40,8 +40,6 @@ Maybe these statements wouldn’t be so utterly embarrassing if the data showed 
 
         - Kentucky, Utah, Colorado, (UK, France, Spain, Italy, Sweden)
 
-
-https://twitter.com/elonmusk/status/1327125840040169472?s=21
 
 His holiness (Fauci) recently declared ex cathedra saying it's time to "Do what you're told." - https://twitter.com/deaceproducer/status/1327256913248198661?s=21
 
