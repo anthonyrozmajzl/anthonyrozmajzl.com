@@ -38,6 +38,8 @@ Quite clearly the lockdowns are doing far more harm than good. To point out thes
 This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitter tirade about the importance of wearing masks. Among many things he implored his constituency to wear masks so that their [friends, family, and neighbors may live](https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20). Most foolishly he [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the average person the impression that there is some relationship between mask wearing and cases. I'm not saying there needs to be a massive drop in cases to entertain the idea of a mask mandate, but there should at leaset be *some* noticeable drop. I think it would be wonderful if we could all wear masks for a month and be done, but the data consistently show no correlation between mask wearing and cases. Let’s observe some different areas around the world to see just how little mask wearing has helped:
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
+![Europe Mask Usage](/static/images/Europe-Mask-Usage.jpg)
+![Utah Mask Chart](
 
         
         - Utah, Colorado, (UK, France, Spain, Italy, Sweden)
