@@ -4,7 +4,7 @@ Covidians are zealous apostles of the Church of Saint Fauci, bearers of the one 
 
 ## “Lockdowns save lives.”
 
-It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat&mdash;go democracy!&mdash;in an effort to do something, *anything* to slow the spread. Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates relegated one to the lowly status of a haircut-loving grandma killer. But after only a few months of lockdown it became clear that there was no correlation between how soon a region locked down and deaths:
+It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the first round of lockdowns. Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors and public health officials shut down their economies by legislative fiat&mdash;go democracy!&mdash;in an effort to do something, *anything* to slow the spread. Unemployment and social isolation were mandated for millions. Questioning these Scientific<sup>TM</sup> mandates relegated one to the lowly status of haircut-loving grandma killer. But after only a few months of lockdown it became clear that there was no correlation between how soon a region locked down and deaths:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
