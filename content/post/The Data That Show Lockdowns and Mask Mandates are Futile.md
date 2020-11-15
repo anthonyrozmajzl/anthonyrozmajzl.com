@@ -4,7 +4,7 @@ categories = ["Covid-19", "Coronavirus", "lockdown", "mask mandates"]
 date = 2020-11-14T18:57:34Z
 description = ""
 draft = false
-feature = "/static/images/stock-1863880_1920.jpg"
+feature = "/static/images/stock-1863880_1920.png"
 slug = "lockdowns and mask wearing refuted by data"
 tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts"]
 title = "The Data That Show Lockdowns and Mask Mandates are Futile"
@@ -50,10 +50,10 @@ Quite clearly the lockdowns are doing far more harm than good. Even the Atlantic
 This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitter tirade about the importance of wearing masks. Among many things he [implored](https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20) his constituency to wear masks so that their friends, family, and neighbors may live. Under false pretense he [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the impression that wearing masks slows the spread of Covid-19. While it would not be fair to require a massive drop in cases to vindicate mask mandates, there should be at least *some* distinguishable drop in cases. It would be wonderful if we could all wear masks for a month and beat this thing, but the data consistently reiterate the futility of mask mandates. Let’s observe some different areas around the world to see just how effective mask wearing has been in slowing the spread:
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
-![Europe Mask Usage](/static/images/Europe-Mask-Usage.jpg)
+![Europe Mask Usage](/static/images/Europe-Mask-Usage.png)
 ![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
-![Colorado Mask Chart](/static/images/colorado-mask-chart.jpg)
-![Utah Mask Chart](/static/images/uath-mask-chart.jpg)
+![Colorado Mask Chart](/static/images/colorado-mask-chart.png)
+![Utah Mask Chart](/static/images/uath-mask-chart.png)
 ![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
 ![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
 
