@@ -26,7 +26,7 @@ Locking down quickly clearly did not matter, and this is something we knew as ea
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that the more stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar?
+If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that more stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar?
 
 ### The costs of locking down
 
