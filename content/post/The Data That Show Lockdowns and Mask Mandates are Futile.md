@@ -53,7 +53,7 @@ This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitte
 ![Europe Mask Usage](/static/images/Europe-Mask-Usage.png)
 ![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
 ![Colorado Mask Chart](/static/images/colorado-mask-chart.png)
-![Utah Mask Chart](/static/images/uath-mask-chart.png)
+![Utah Mask Chart](/static/images/utah-mask-chart.png)
 ![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
 ![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
 
