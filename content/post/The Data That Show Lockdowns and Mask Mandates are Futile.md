@@ -24,7 +24,7 @@ It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the f
 
 Locking down quickly clearly did not matter, and we knew this back in April. But what about locking down in general? Surely the strictest lockdowns are saving the most lives today, right? Hardly.
 
-![Lockdown Stringecy vs Case Change](static/images/stringency-vs-change.png)
+![Lockdown Stringecy vs Case Change](/static/images/stringency-vs-change.png)
 
 If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that the more stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar?
 
@@ -50,10 +50,10 @@ Quite clearly the lockdowns are doing far more harm than good. Even the Atlantic
 This past Wednesday governor Mike DeWine of Ohio went on a fairly lengthy Twitter tirade about the importance of wearing masks. Among many things he [implored](https://twitter.com/GovMikeDeWine/status/1326659271573069829?s=20) his constituency to wear masks so that their friends, family, and neighbors may live. Under false pretense he [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the impression that wearing masks slows the spread of Covid-19. While it would not be fair to require a massive drop in cases to vindicate mask mandates, there should be at least *some* distinguishable drop in cases. It would be wonderful if we could all wear masks for a month and beat this thing, but the data consistently reiterate the futility of mask mandates. Let’s observe some different areas around the world to see just how effective mask wearing has been in slowing the spread:
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
-![Europe Mask Usage](static/images/Europe-Mask-Usage.png)
+![Europe Mask Usage](/static/images/Europe-Mask-Usage.png)
 ![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
-![Colorado Mask Chart](static/images/colorado-mask-chart.png)
-![Utah Mask Chart](static/images/utah-mask-chart.png)
+![Colorado Mask Chart](/static/images/colorado-mask-chart.png)
+![Utah Mask Chart](/static/images/utah-mask-chart.png)
 ![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
 ![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
 
