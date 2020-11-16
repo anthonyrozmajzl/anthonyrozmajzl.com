@@ -28,7 +28,7 @@ If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwa
 
 ### The costs of locking down
 
-Not only have the lockdowns played no role in disease mitigation, recent data show that the costs of locking down *far* outweigh the perceived benefits. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains and forcing hundreds of millions of people to remained shuttered in their homes. No matter. When nations around the globe are at "war" with a virus, immediate action is the only option. Damn the consequences. 
+Not only have the lockdowns played no role in disease mitigation, they come with tremendous costs. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains and forcing hundreds of millions of people to remained shuttered in their homes. No matter. When nations around the globe are at "war" with a virus, immediate action is the only option. Damn the consequences. 
 
 What follow are some of the most alarming costs of the lockdowns, costs the Covidians are likely to have neither hear of nor considered. These costs are brutal, depressing, and further lay to rest the myth that lockdowns save lives.
 
