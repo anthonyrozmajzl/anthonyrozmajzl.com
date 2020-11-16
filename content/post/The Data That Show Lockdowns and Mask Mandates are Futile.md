@@ -24,11 +24,11 @@ Locking down quickly clearly did not matter, but what about locking down in gene
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that more stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" the Covidians will yell. Sound familiar? 
+If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" the Covidians will say. Sound familiar? 
 
 ### The costs of locking down
 
-Not only have the lockdowns played no role in disease mitigation, they come with tremendous costs. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains and forcing hundreds of millions of people to remained shuttered in their homes. No matter. When nations around the globe are at "war" with a virus, immediate action is the only option. Damn the consequences. 
+Not only have the lockdowns played no role in disease mitigation, they come with tremendous costs. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have contemplated the costs of disrupting global supply chains and forcing hundreds of millions of people to remained shuttered in their homes. No matter. When nations around the globe are at "war" with a virus, immediate action is the only option. Damn the consequences. 
 
 What follow are some of the most alarming costs of the lockdowns, costs the Covidians are likely to have neither heard of nor considered prior to their moral posturing. These costs are brutal, depressing, and further lay to rest the myth that lockdowns save lives.
 
