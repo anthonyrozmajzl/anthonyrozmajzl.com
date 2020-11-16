@@ -7,7 +7,7 @@ draft = false
 feature = "/images/stock-1863880_1920.png"
 slug = "lockdowns and mask wearing refuted by data"
 tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts"]
-title = "The Data Show That Lockdowns and Mask Mandates are Futile"
+title = "Mask Mandates and Lockdowns: Both are Futile, The Latter is Deadly "
 +++
 
 Data visualization is a wonderful thing. It helps us understand important trends that would otherwise be invisible in raw data alone. Now more than ever, data analysts have been instrumental in rebutting some of the most widely accepted and mythical slogans of the pro-lockdown, militant mask-wearing crowd, a crowd whose members we will subsequently refer to as the Covidians. 
