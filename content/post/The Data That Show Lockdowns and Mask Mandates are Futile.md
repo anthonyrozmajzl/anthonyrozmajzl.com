@@ -26,13 +26,13 @@ Locking down quickly clearly did not matter, and this is something we knew as ea
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that more stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar?
+If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that more stringent lockdowns are more effective at preventing cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" they'll yell. Sound familiar? 
 
 ### The costs of locking down
 
 Not only have the lockdowns played no role in disease mitigation, recent data show that the costs of locking down *far* outweigh the perceived benefits. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have examined the costs of disrupting global supply chains and forcing hundreds of millions of people to remained shuttered in their homes. But no matter. When nations around the globe are at "war" with a virus, immediate action is the only option. Damn the consequences. 
 
-What follows are some of the most alarming costs associated with the lockdowns, costs the Covidians are likely to have never heard. These costs are brutal, depressing, and lay to rest the myth that lockdowns save lives.
+What follow are some of the most alarming costs associated with the lockdowns, costs the Covidians are likely to have never heard of, let alone consider. These costs are brutal, depressing, and lay to rest the myth that lockdowns save lives.
 
 - The New York Times [predicts](https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html) 1.4 million excess tuberculosis deaths alongside nearly 1 million excess malaria and HIV deaths
 - The UN [estimates](https://www.washingtonpost.com/world/national-security/un-pandemic-could-push-tens-of-millions-into-chronic-hunger/2020/07/13/0733e34e-c51e-11ea-a825-8722004e4150_story.html) that as many as 130 million people will be at risk of starvation thanks to the lockdown's disruption of global food supply chains
