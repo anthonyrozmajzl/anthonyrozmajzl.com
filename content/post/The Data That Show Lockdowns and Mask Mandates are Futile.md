@@ -71,4 +71,4 @@ Ultra sensitive PCR testing leads to an artificially high case count, which tran
 
 ## Returning to normal life
 
-The data have spoken, and we are long overdue for a return to normal life, not some dystopian, Covidian "new normal" where strangers are faceless pathogens, gatherings are limited to 20 people, and the elderly are expected to die alone in nursing homes. Normal lives include things that give it meaning, like musicals, concerts, professional sporting events, large family gatherings and celebrations, traveling the world, going to comedy shows, and so much more. All these things technically still exist, but only as shadows in Plato's cave. 
+The data have spoken, and we are long overdue for a return to normal life, not some dystopian, Covidian "new normal" where strangers are faceless pathogens, gatherings are limited to 20 people, and the elderly are expected to die alone in nursing homes. Normal lives include things that give it meaning, like musicals, concerts, professional sporting events, large family gatherings and celebrations, traveling the world, going to comedy shows, and so much more. These things now exist only as Platonic shadows.
