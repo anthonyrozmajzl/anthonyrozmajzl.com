@@ -24,13 +24,13 @@ Locking down quickly clearly did not matter, but what about locking down in gene
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-If Covidian lockdown dogma were true, this plot would unambiguosuly slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" the Covidians will say. Sound familiar? 
+If Covidian lockdown dogma were true, this plot would unambiguously slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" the Covidians will say. Sound familiar? 
 
 ### The costs of locking down
 
 Not only have the lockdowns played no role in disease mitigation, they come with tremendous costs. You would think that the pro-lockdown Scientists<sup>TM</sup> informing public health decisions would have contemplated the costs of disrupting global supply chains and forcing hundreds of millions of people to remained shuttered in their homes. No matter. When nations around the globe are at "war" with a virus, immediate action is the only option. Damn the consequences. 
 
-What follow are some of the most alarming costs of the lockdowns, costs the Covidians are likely to have neither heard of nor considered prior to their moral posturing. These costs are brutal, depressing, and further lay to rest the myth that lockdowns save lives.
+What follows are some of the most alarming costs of the lockdowns, costs the Covidians are likely to have neither heard of nor considered prior to their moral posturing. These costs are brutal, depressing, and further lay to rest the myth that lockdowns save lives.
 
 - The New York Times [predicts](https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html) 1.4 million excess tuberculosis deaths alongside nearly 1 million excess malaria and HIV deaths
 - The UN [estimates](https://www.washingtonpost.com/world/national-security/un-pandemic-could-push-tens-of-millions-into-chronic-hunger/2020/07/13/0733e34e-c51e-11ea-a825-8722004e4150_story.html) that as many as 130 million people will be at risk of starvation thanks to the lockdown's disruption of global food supply chains
@@ -41,7 +41,7 @@ What follow are some of the most alarming costs of the lockdowns, costs the Covi
 - CBS [cited](https://www.cbsnews.com/news/coronavirus-deaths-suicides-drugs-alcohol-pandemic-75000/) a study indicating the potential for 75,000 excess deaths of despair: deaths due to drug and alcohol abuse or suicide
 - A CDC report [found](https://thehill.com/policy/healthcare/525797-cdc-pediatric-visits-to-emergency-rooms-for-mental-health-problems?amp&__twitter_impression=true) a 31% increase in mental health-related emergency room visits for children between the ages of 12 and 17 over a three month period.
 
-Quite clearly the lockdowns are doing more harm than good. Even the Atlantic [admitted](https://www.theatlantic.com/international/archive/2020/08/coronavirus-pandemic-developing-world/614578/) that asking people in low to middle-income countries to stay home is, in many cases, asking them to starve. To point out these grim realities, however, is blaspheming the Science<sup>TM</sup> and, by extension, his holiness Dr. Anthony Fauci! More on the physical, mental, and social health consequences of the lockdownscan be found at [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com).
+Quite clearly the lockdowns are doing more harm than good. Even the Atlantic [admitted](https://www.theatlantic.com/international/archive/2020/08/coronavirus-pandemic-developing-world/614578/) that asking people in low to middle-income countries to stay home is, in many cases, asking them to starve. To point out these grim realities, however, is blaspheming the Science<sup>TM</sup> and, by extension, his holiness Dr. Anthony Fauci! More on the physical, mental, and social health consequences of the lockdown scan be found at [Collateral Global](https://collateralglobal.org) and [thepriceofpanic.com](http://thepriceofpanic.com).
 
 ## “Wear the damn mask.”
 
@@ -63,9 +63,9 @@ This has undoubtedly been a case-driven pandemic. Lockdowns, public health manda
 
 >Officials at the Wadsworth Center, New York’s state lab, have access to C.T. values from tests they have processed, and analyzed their numbers at The Times’s request. In July, the lab identified 872 positive tests, based on a threshold of 40 cycles. With a cutoff of 35, about 43 percent of those tests would no longer qualify as positive. About 63 percent would no longer be judged positive if the cycles were limited to 30. In Massachusetts, from 85 to 90 percent of people who tested positive in July with a cycle threshold of 40 would have been deemed negative if the threshold were 30 cycles. . .
 
-In the same article Juliet Morrison, virologist at the the University of California, said any PCR tests running more than 35 cycles are too sensitive. Harvard epidemiologist Michael Mina recommended a cycle count threshold of 30 or less.
+In the same article Juliet Morrison, virologist at the University of California, said any PCR tests running more than 35 cycles are too sensitive. Harvard epidemiologist Michael Mina recommended a cycle count threshold of 30 or less.
 
-Ultra sensitive PCR testing leads to an artificially high "case" count, which translates into an artifically high number of Covid-19 hospitalizations&mdash;an excellent analysis of inflated Covid hopsitalization numbers can be found [here](https://alachuachronicle.com/death-certificate-review-raises-questions-about-official-number-of-covid-19-deaths/). Simply lowering the sensitivity of PCR tests to realistic levels would crumble Covidian dogmata and end this baseless panic almost instantly. Surprisingly, despite these inflated numbers, United States hospitalization utilization rates [remain under 80 percent](https://twitter.com/SWAtlasHoover/status/1327828349641773058?s=20) in all areas except Rhode Island and Washington, D.C. In some regions, this represents an improvement over the same time period in previous years. 
+Ultra sensitive PCR testing leads to an artificially high "case" count, which translates into an artificially high number of Covid-19 hospitalizations&mdash;an excellent analysis of inflated Covid hospitalization numbers can be found [here](https://alachuachronicle.com/death-certificate-review-raises-questions-about-official-number-of-covid-19-deaths/). Simply lowering the sensitivity of PCR tests to realistic levels would crumble Covidian dogmata and end this baseless panic almost instantly. Surprisingly, despite these inflated numbers, United States hospitalization utilization rates [remain under 80 percent](https://twitter.com/SWAtlasHoover/status/1327828349641773058?s=20) in all areas except Rhode Island and Washington, D.C. In some regions, this represents an improvement over the same time period in previous years. 
 
 ## Returning to normal life
 
