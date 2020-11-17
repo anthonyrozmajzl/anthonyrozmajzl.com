@@ -45,7 +45,7 @@ Quite clearly the lockdowns are doing more harm than good. Even the Atlantic [ad
 
 ## “Wear the damn mask.”
 
-This past Wednesday governor Mike DeWine of Ohio went on a lengthy Twitter tirade about the importance of wearing masks. Among many remarks he most foolishly [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the impression that wearing masks slows the spread of Covid-19. The data consistently refute this imaginary claim:
+This past Wednesday governor Mike DeWine of Ohio went on a lengthy Twitter tirade about the importance of wearing masks. Among many remarks he most foolishly [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the impression that wearing masks slows the spread of Covid-19. The data consistently refute this preposterous claim:
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
 ![Europe Mask Usage](/images/Europe-Mask-Usage.png)
