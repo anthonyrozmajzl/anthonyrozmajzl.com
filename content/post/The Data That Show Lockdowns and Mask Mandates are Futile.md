@@ -55,7 +55,7 @@ This past Wednesday governor Mike DeWine of Ohio went on a lengthy Twitter tirad
 ![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
 ![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
 
-Even in the face of these charts&mdash;more to be found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash; we are repeatedly told to trust the Science<sup>TM</sup>, wear the damn mask, and flat out just ["Do what you're told."](https://twitter.com/deaceproducer/status/1327256913248198661?s=21)
+Even in the face of these charts&mdash;more to be found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash; we are repeatedly told to trust the Science<sup>TM</sup>, wear the damn mask, and now to simply ["Do what you're told."](https://twitter.com/deaceproducer/status/1327256913248198661?s=21)
 
 ## A brief note on "cases"
 
