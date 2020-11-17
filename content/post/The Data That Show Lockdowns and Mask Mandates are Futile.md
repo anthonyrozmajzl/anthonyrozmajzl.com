@@ -20,7 +20,7 @@ It has been [nearly a year](https://www.bbc.com/news/world-52103747) since the f
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
-Locking down quickly clearly did not matter, but what about locking down in general? Surely the strictest lockdowns would save more lives, right? Hardly.
+The abysmally low R<sup>2</sup> value shows that locking down quickly clearly did not matter, but what about locking down in general? Surely the strictest lockdowns would save more lives, right? Hardly.
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
