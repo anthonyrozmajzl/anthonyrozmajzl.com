@@ -24,7 +24,7 @@ The abysmally low R<sup>2</sup> value shows that locking down quickly clearly di
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-If Covidian lockdown dogma were true, this plot would unambiguously slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" the Covidians will say. Sound familiar? 
+If Covidian lockdown dogma were true, this plot would unambiguously slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the Church of St. Fauci. "They didn't have a *real* lockdown!" the Covidian will retort. Sound familiar? 
 
 ### The costs of locking down
 
