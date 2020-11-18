@@ -70,7 +70,7 @@ Ultra sensitive PCR testing leads to an artificially high "case" count, which tr
 
 ## Returning to normal life
 
-The data have spoken, and we are long overdue for a return to normal life, not some dystopian, Covidian, and inhuman "new normal" where strangers are faceless pathogens and gatherings are limited to 10 people. The Church of Saint Fauci has the Covidians not only [flaunting their own inhumanity](https://twitter.com/chesschick01/status/1327640852865437698?s=21), but eager to reduce the rest of their fellow man to passionless biological entities whose sole purpose is nothing more than to remain fed, hydrated, and "experience" life on a laptop screen. 
+The data have spoken, and we are long overdue for a return to normal life, not some dystopian, Covidian, and inhuman "new normal" where strangers are faceless pathogens and gatherings are limited to 10 people. The Church of Saint Fauci has the Covidians not only [flaunting their own inhumanity](https://pbs.twimg.com/media/Emy53iyXMAITHFf?format=jpg&name=large), but eager to reduce the rest of their fellow man to passionless biological entities whose sole purpose is nothing more than to remain fed, hydrated, and "experience" life on a laptop screen. 
 
 The world desperately needs more anti-Science<sup>TM</sup> individuals like New York City Councilman Joe Borelli, who recently Tweeted the following:
 
