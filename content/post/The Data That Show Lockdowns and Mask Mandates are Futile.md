@@ -45,9 +45,10 @@ Quite clearly the lockdowns are doing more harm than good. Even the Atlantic [ad
 
 ## “Wear the damn mask.”
 
-This past Wednesday governor Mike DeWine of Ohio went on a lengthy Twitter tirade about the importance of wearing masks. Among many remarks he most foolishly [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” These statements give the impression that wearing masks slows the spread of Covid-19. The data consistently refute this preposterous claim:
+Governor Mike DeWine of Ohio has embarked on a few lengthy Twitter tirades about the importance of wearing masks. Among his many Covidian talking points regarding masks, he most foolishly [tweeted](https://twitter.com/GovMikeDeWine/status/1326657870667128841?s=20) that we now know "mask wearing . . . is the chief way of slowing this virus.” Statements like these give the impression that wearing masks slows the spread of Covid-19. The data consistently refute this preposterous claim:
 
 ![Kentucky Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-9-Kentucky-Cases-2048x1476.png)
+![Johnson County, Kansas](https://pbs.twimg.com/media/En7UUjcVgAEF-QG?format=jpg&name=medium)
 ![Europe Mask Usage](/images/Europe-Mask-Usage.png)
 ![Florida and Georgia v Others](https://pbs.twimg.com/media/Emz1SqjUYAAC9tZ?format=jpg&name=large)
 ![New Jersey Mask Chart](https://pbs.twimg.com/media/EnI4x_fVcAAB0es?format=jpg&name=4096x4096)
@@ -55,8 +56,12 @@ This past Wednesday governor Mike DeWine of Ohio went on a lengthy Twitter tirad
 ![Utah Mask Chart](/images/utah-mask-chart.png)
 ![Czech Republic Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-17-Czech-vs-Sweden-2048x1384.png)
 ![Argentina Mask Chart](https://rationalground.com/wp-content/uploads/2020/10/10-14-Argentina-Cases-2048x1503.png)
+![Mississippi and Alabam](https://pbs.twimg.com/media/EnzxRthUYAALZp4?format=jpg&name=large)
+![Kansas Mask v No Mask](https://pbs.twimg.com/media/En2pfCQVoAEicc9?format=jpg&name=4096x4096)
+![Arizona Mask v No Mask](https://pbs.twimg.com/media/EoBL6wbVcAAJp6v?format=jpg&name=large)
+![Masks v No Masks](https://pbs.twimg.com/media/EoFsianVcAIzKIP?format=jpg&name=large)
 
-If masks play such a huge role in disease mitigation, then these charts;more to be found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash;should look *nothing* like they do. These charts are especially embarrassing for our CDC director, Dr. Robert Redfield, who [stated](https://www.cbsnews.com/news/covid-face-mask-protection-vaccine-cdc-director/) that face masks may even be more effective than a vaccine. Were these charts to be left blank, there is no chance that the Covidians would accurately be able to pin the mask mandate on the graph. Nevertheless, we will certainly still be told to trust the Science<sup>TM</sup>, wear the damn mask, and ["Do what you're told."](https://twitter.com/deaceproducer/status/1327256913248198661?s=21)
+Were these charts to be left blank, not a single soul could accurately pin the mask mandate on the graph. If masks truly played such a huge role in disease mitigation, then these charts;more to be found [here](https://rationalground.com/mask-charts/), [here](https://rationalground.com/more-mask-charts/), [here](https://pjmedia.com/news-and-politics/matt-margolis/2020/10/06/do-masks-really-work-heres-what-the-charts-tell-us-n1009481), and [here](https://twitter.com/ianmSC/media)&mdash;should look nothing like they do. These visualization show that regardless of when a mask mandate went into effect and how long it went into effect has no impact on cases. The virus runs its course regardless of our leaders' failed attempts to control it. Nevertheless, we are still told to trust the Science<sup>TM</sup>, wear the damn mask, and [do what we're told.](https://twitter.com/deaceproducer/status/1327256913248198661?s=21)
 
 ## A brief note on "cases"
 
@@ -76,6 +81,6 @@ The world desperately needs more anti-Science<sup>TM</sup> individuals like New 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ll be having more than 10 ppl at my house on Thanksgiving. My address is public record. Some family will come from (gasp!) New Jersey.<br><br>Kids will see their grandparents, cousins will play in the yard, sis in law will bring strawberry rhubarb pie, &amp; a turkey will be overcooked.</p>&mdash; Joe Borelli (@JoeBorelliNYC) <a href="https://twitter.com/JoeBorelliNYC/status/1326608051739234304?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Of course this led to infuriated responses like "You're siding with the virus!", which you will find is the extent of the Covidians' Scientific<sup>TM</sup> rebuttal of anyone who desires their own humanity and doesn't blindly submit to the authority of the Church of Saint Fauci. Imagine telling our ancestors who fought the Revolutionary War against the world's most powerful empire that we also rebelled against our government by, wait for it, hosting a Thanksgiving dinner with *more* than ten people!
+Of course this led to infuriated responses like "You're siding with the virus!", which you will find is the extent of the Covidians' Scientific<sup>TM</sup> rebuttal of anyone who desires their own humanity and doesn't blindly submit to the authority of the Church of Saint Fauci. 
 
 Joe Borelli is doing what we should all be doing: fighting for a return to normal life, a life that includes things that give it meaning, like musicals, concerts, professional sporting events, large family gatherings and celebrations, recreational travel, attending religious services, going to comedy gigs, and so much more. Thanks to the Church of Saint Fauci, these things now exist as mere shadows in Plato's cave.
