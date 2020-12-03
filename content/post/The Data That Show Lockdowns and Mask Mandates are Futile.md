@@ -10,7 +10,7 @@ tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts"]
 title = "Mask Mandates and Lockdowns: Both Are Futile, The Latter is Deadly"
 +++
 
-Data visualization is a wonderful thing. It helps us understand important trends that would otherwise be invisible in raw data alone. Now more than ever, data analysts have been instrumental in providing data visualizations that rebut two of the most widely accepted, baseless slogans of the pro-lockdown, militant mask-wearing crowd: "Lockdowns save lives" and "Wear the damn mask." But what can data analysis and predictive modeling tell us about the effectiveness of mask mandates and lockdowns in stopping the spread of Covid-19? The answer is clear: both are futile, and the latter is deadly.
+Data visualization is a wonderful thing. It helps us understand important trends that would otherwise be invisible in raw data alone. Now more than ever, data analysts have been instrumental in providing data visualizations that rebut two of the most widely accepted, baseless slogans of the pro-lockdown, militant mask-wearing crowd: "Lockdowns save lives" and "Wear the damn mask." But what can simple data analysis tell us about the effectiveness of mask mandates and lockdowns in stopping the spread of Covid-19? The data paint a clear picture: both are futile, and the latter is deadly.
 
 ## “Lockdowns save lives.”
 
