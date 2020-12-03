@@ -7,7 +7,7 @@ draft = false
 feature = "/images/stock-1863880_1920.png"
 slug = "lockdowns and mask wearing refuted by data"
 tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts"]
-title = "Mask Mandates and Lockdowns: The Data Say Both are Futile"
+title = "Mask Mandates and Lockdowns: Both Are Futile, The Latter is Deadly"
 +++
 
 Data visualization is a wonderful thing. It helps us understand important trends that would otherwise be invisible in raw data alone. Now more than ever, data analysts have been instrumental in providing data visualizations that rebut two of the most widely accepted, baseless slogans of the pro-lockdown, militant mask-wearing crowd: "Lockdowns save lives" and "Wear the damn mask." But what can data analysis and predictive modeling tell us about the effectiveness of mask mandates and lockdowns in stopping the spread of Covid-19? The answer is clear: both are futile, and the latter is deadly.
@@ -24,7 +24,7 @@ The abysmally low R<sup>2</sup> value shows that locking down quickly clearly di
 
 If the science was settled on lockdown efficacy, this plot should unambiguously slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the mainstream media. For a population-adjusted visualization that shows, yet again, zero correlation between lockdown stringency and deaths per million, we have the following visualization from [PANDA](http://pandata.org/), which can be found on the "Lockdown" tab of their live data page.
 
-
+![Stringency vs Deaths Per Million](/images/PopulationAdjustedStringency.png)
 
 ### The costs of locking down
 
