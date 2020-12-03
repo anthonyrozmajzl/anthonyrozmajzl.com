@@ -14,7 +14,7 @@ Data visualization is a wonderful thing. It helps us understand important trends
 
 ## “Lockdowns save lives.”
 
-Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors single-handedly shut down their economies in an effort to quickly do something, *anything* to slow the spread. Questioning these orders on moral or utilitarian grounds quickly became "questioning the science", an exceptionally strange slogan for its assumption that any evidence existed which vindicatied the efficacy of lockdowns. After only a few months of lockdown, it first became apparent that there was no correlation between how soon a region locked down and that region's death toll:
+Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors single-handedly shut down their economies in an effort to quickly do something, *anything* to slow the spread. Questioning these orders on moral or utilitarian grounds quickly became "questioning the science", an exceptionally strange slogan for its assumption that any evidence existed which vindicatied the efficacy of lockdowns. But after only a few months of lockdown, it first became apparent that there was no correlation between how soon a region locked down and that region's death toll:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
@@ -22,9 +22,11 @@ The abysmally low R<sup>2</sup> value shows that locking down quickly clearly di
 
 ![Lockdown Stringecy vs Case Change](/images/stringency-vs-change.png)
 
-If the science was settled on lockdown efficacy, this plot should unambiguously slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists, and to point out the obvious lack of correlation in either of the above charts will have you anathematized by the mainstream media. For a population-adjusted visualization that shows, yet again, zero correlation between lockdown stringency and deaths per million, we have the following visualization from [PANDA](http://pandata.org/), which can be found on the "Lockdown" tab of their live data page.
+If the science was settled on lockdown efficacy, this plot should unambiguously slope downwards, indicating that more stringent lockdowns are more effective at mitigating cases. No such trend exists. Here is a population-adjusted visualization, courtesy of [PANDA](http://pandata.org/), that compares lockdown stringency with deaths per million.
 
 ![Stringency vs Deaths Per Million](/images/PopulationAdjustedStringency.png)
+
+Again, if the science has been settled on lockdowns, 
 
 ### The costs of locking down
 
