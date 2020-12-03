@@ -14,7 +14,7 @@ Data visualization is a wonderful thing. It helps us understand important trends
 
 ## “Lockdowns save lives.”
 
-Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors single-handedly shut down their economies in an effort to quickly do something, *anything* to slow the spread. Questioning these orders on either moral or utilitarian grounds became "questioning the science", an exceptionally strange slogan because it assumes there is even an iota of evidence vindicating the efficacy of lockdowns. However, after only a few months of lockdown, it became apparent that there was no correlation between how soon a region locked down and its death toll:
+Without any historical or scientific precedent indicating that lockdowns were even remotely effective at saving lives, governors single-handedly shut down their economies in an effort to quickly do something, *anything* to slow the spread. Questioning these orders on moral or utilitarian grounds became "questioning the science", an exceptionally strange slogan because it assumes there is even an iota of evidence vindicating the efficacy of lockdowns. However, after only a few months of lockdown, it became apparent that there was no correlation between how soon a region locked down and its death toll:
 
 ![Days to Lockdown](https://www.aier.org/wp-content/uploads/2020/05/ED-AZ636_Rodger_16U_20200426130615-1-1.jpg)
 
