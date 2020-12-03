@@ -1,7 +1,7 @@
 +++
 author = "Anthony Rozmajzl"
 categories = ["Covid-19", "Coronavirus", "lockdown", "mask mandates"]
-date = 2020-11-18T17:56:33Z
+date = 2020-12-03T17:39:33Z
 description = ""
 draft = false
 feature = "/images/stock-1863880_1920.png"
