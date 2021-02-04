@@ -1,6 +1,6 @@
 # INTRO
 
-The gender wage gap used to be a popular topic of discussion. Back then, don't hear much about gender wage gap since it has been so thoroughly debunked over public airwaves/debates/interviews. Back then, proponents of the gender wage gap actually made their case, and publicly so, against intellectuals with whom they disagreed. Through lively debates and [fiery interviews](https://www.youtube.com/watch?v=aMcjxSThD54) eventually led to the collapse of the mainstream narrative that the gender wage gap was due solely to our nation's oppressive patriarchy. It became clear&mdash;not overnight, but through a continued dismantaling of the mainstream narrative&;mdashthat the gender wage gap was due to a variety of voluntary decisions made on behalf of women.
+A few years ago, the gender wage gap was a popular, and often heated, topic of discussion. Back then, proponents of the idea that the gender wage gap was the result of an oppressive patriarchy actually made their case, often publicly, against intellectuals with whom they disagreed. Through rigorous discussions, lively debates, uncensored article posts, and [fiery interviews](https://www.youtube.com/watch?v=aMcjxSThD54), it became clear that the gender wage gap was the result of the voluntary and decisions made by men and women rather than 
 
 Dismantling the approved Covid-19 narrative&mdash;mask madnates and lockdowns&;mdash appears to be a more formidable challenge. Propagators of the approved Covid-19 narrative enjoy the benefit of having their voices uncensored and echoed across all major news outlets and social media platforms, essentially shielded from the burden of proof that naturally arises from the introduction and continued support of novel virus mitigation strategies that have no scientific or historical precedent. The result is a seemingly unalterable, white hot cultural divide between those who approve of the official Covid-19 narrative and those who see mask mandates and lockdowns as ineffective and, in the case of lockdowns, disproportionately deadly strategies.here have been no debates between intellectuals on both sides of the issue. 
 
@@ -8,6 +8,6 @@ Now, despite numbers that are currently worse than the first half of 2020, gover
 
 
 ## Florida Is the State To Watch
-To those following the official narrative, the mask confers the social status of "good person" upon its wearer, while those who say masks aren't doing anything to get Covid under control are considered soulless
+- reference old article and how more data is needed
 - before presenting the graph, explain the restrictions with other graph from hold2llc
 - Hold2LLC graph comparing FL to NY and CA regarding hospitalizations and deaths/M
