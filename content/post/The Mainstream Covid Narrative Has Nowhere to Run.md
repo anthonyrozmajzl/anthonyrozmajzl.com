@@ -14,9 +14,15 @@ But there is one visualization in particular, courtesy of [Hold2](https://twitte
 
 How is it even remotely possible for Florida, a popular travel destination with one of the oldest populations in the country and no travel restrictions, to outperform California, with one of the youngest populations in the country, in current hospitalizations and deaths per million? The establishment-approved science simply cannot answer this question. Yes, over all California does slightly better than Florida in deaths per million, but this can be explained away be the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-On a national level, there likewise still remains zero correlation between the intensity of states' restrictions and deaths per million.
+Invariably, an attempt will always be made, with no hint of sarcasm, to claim that California's results are due to a lack of compliance. The whole compliance schtick rears its head whenever an undesirable trend appears in a state or county that was "following the science." 
+
+- LA county compared to Florida
+
+On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
+
+In fact, if we visualize the trend in cases across all fifty states, all with varying levels of restrictions, a pattern quickly presents itself.
 
 We can even take a look at counties within particular states to see whether or not mask mandates have had any noticeable impact on cases. I'll leave it to the reader to guess whether or not we will see any meaningful correlation.
 
