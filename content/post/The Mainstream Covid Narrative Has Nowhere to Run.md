@@ -6,7 +6,7 @@ Dismantling the approved Covid-19 narrative&mdash;mask mandates and lockdowns be
 
 ## One Chart to Rule Them All
 
-The problem with accepting that the Covid-19 narrative is unalterable is that there is simply too much data&mdash;much more than was needed to suppress the patriarchal theory of the gender wage gap%mdash; to come to any other conclusion than mask mandates and lockdowns being incredibly ineffective virus mitigation strategies. There is one visualization in particular, courtesy of (Hold2)[https://twitter.com/Hold2llc], that puts the official Covid-19 to rest:
+The problem with accepting that the Covid-19 narrative is unalterable is that there is simply too much data&mdash;much more than was needed to suppress the patriarchal theory of the gender wage gap%mdash; to come to any other conclusion than mask mandates and lockdowns being incredibly ineffective virus mitigation strategies. There is one visualization in particular, courtesy of [Hold2](https://twitter.com/Hold2llc), that puts the official Covid-19 to rest:
 
 
 (https://mises.org/wire/theres-still-no-evidence-either-lockdowns-or-masks-are-game-changers)
@@ -20,5 +20,6 @@ Responses to Murphy's tweet, as with other governors' announcements of plans to 
 
 - before presenting the graph, explain the restrictions with other graph from hold2llc
 - Hold2LLC graph comparing FL to NY and CA regarding hospitalizations and deaths/M
+https://onlinelibrary.wiley.com/doi/10.1111/eci.13484
 - reference old article and how more data is needed
 - show grocery store video
