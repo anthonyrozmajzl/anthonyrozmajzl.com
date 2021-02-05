@@ -8,6 +8,7 @@ Dismantling the approved Covid-19 narrative&mdash;mask mandates and lockdowns be
 
 The problem with accepting that the Covid-19 narrative is unalterable is that there is simply too much data&mdash;much more than was needed to suppress the patriarchal theory of the gender wage gap%mdash; to come to any other conclusion than mask mandates and lockdowns being incredibly ineffective virus mitigation strategies. There is one visualization in particular, courtesy of [Hold2](https://twitter.com/Hold2llc), that puts the official Covid-19 to rest:
 
+![FL vs Others](https://pbs.twimg.com/media/EtUGfNRXIAEaTTl?format=jpg&name=large)
 
 (https://mises.org/wire/theres-still-no-evidence-either-lockdowns-or-masks-are-game-changers)
 
