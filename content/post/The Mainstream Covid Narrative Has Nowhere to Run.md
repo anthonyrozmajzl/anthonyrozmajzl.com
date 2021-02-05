@@ -24,7 +24,7 @@ On a national level, there still remains zero correlation between the intensity 
 
 In fact, if we visualize the trend in cases across all fifty states, all with varying levels of restrictions, a pattern quickly presents itself that justfies the precedeing graph.
 
-![50 State Case Trends]
+![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
 We can even take a look at counties within particular states to see whether or not mask mandates have had any noticeable impact on cases. I'll leave it to the reader to guess whether or not we will see any meaningful correlation.
 
