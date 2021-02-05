@@ -14,15 +14,11 @@ But there is one visualization in particular, courtesy of [Hold2](https://twitte
 
 How is it even remotely possible for Florida, a popular travel destination with one of the oldest populations in the country and no travel restrictions, to outperform California, with one of the youngest populations in the country, in current hospitalizations and deaths per million? The establishment-approved science simply cannot answer this question. Yes, over all California does slightly better than Florida in deaths per million, but this can be explained away be the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-Invariably, an attempt will always be made, with no hint of sarcasm, to claim that California's results are due to a lack of compliance. The whole compliance schtick rears its head whenever an undesirable trend appears in a state or county that was "following the science." 
-
-- LA county compared to Florida
-
 On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
-In fact, if we visualize the trend in cases across all fifty states, all with varying levels of restrictions, a pattern quickly presents itself that justfies the precedeing graph.
+In fact, if we visualize the trend in cases across all fifty states, each of which has varying levels of restrictions, a pattern quickly presents itself that justfies the precedeing graph.
 
 ![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
@@ -32,10 +28,13 @@ We can even take a look at counties within particular states to see whether or n
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
-Not surprisingly, whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
+Lastly, we can look on a national level to see the wonderful effects of mask mandates. Prepare yourself, dear reader, the following is intended for mature audiences only.
+
+Not surprisingly, whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. Invariably, an attempt will be made, with no hint of sarcasm, to claim that states and counties with bad outcomes can chalk them up to a lack of compliance, a convenient excuse for explaining away any undesirable trend that appears in a state or county that was heralded as having "followed the science." But if compliance can't be achieved with a mask mandate, then why does the mandate exist? Do proponents of mask mandates simply believe that they are better than no mandate at all and would, on average, create enough social pressure to induce at least *some* increased level of mask-wearing? If so, what can they make of the county-level charts showing no discernable difference&mdash;often times, non-mask wearing counties have better results than mask-wearing counties&mdash; between mask-wearing and non-mask-wearing counties? 
+
+Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
 
 If you want evidence of the national psychosis surrounding masks, take a look at some of the responses to the following video of a maskless supermarket in Florida:
 
-
-Responses to Murphy's tweet, as with other governors' announcements of plans to ease restrictions, are generally negative and indicative of a covid-panicked population that prefers to remain under their safety blanket of social regulations that have been in place for almost an entire year.
+Finish with dailymail article (https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html)
 
