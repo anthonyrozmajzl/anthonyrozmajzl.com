@@ -12,11 +12,9 @@ But there is one visualization in particular, courtesy of [Hold2](https://twitte
 
 ![FL vs Others](https://pbs.twimg.com/media/EtUGfNRXIAEaTTl?format=jpg&name=large)
 
-How is it even remotely possible for Florida, a popular travel destination with one of the oldest populations in the country and no travel restrictions, to outperform California, with one of the youngest populations in the country, in current hospitalizations and deaths per million? The establishment-approved science simply cannot answer this question. Yes, over all California does slightly better than Florida in deaths per million, but this can be explained away be the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's.
+How is it even remotely possible for Florida, a popular travel destination with one of the oldest populations in the country and no travel restrictions, to outperform California, with one of the youngest populations in the country, in current hospitalizations and deaths per million? The establishment-approved science simply cannot answer this question. Yes, over all California does slightly better than Florida in deaths per million, but this can be explained away be the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-The same people who predicted death and destruction as a consequence of Flordia's September reopening, if they are being honest with the narrative they have adopted, cannot see these results as anything other than utterly remarkable. 
-
-On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
+On a national level, there likewise still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
@@ -26,18 +24,10 @@ We can even take a look at counties within particular states to see whether or n
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
-Whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
+Not surprisingly, whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
 
 If you want evidence of the national psychosis surrounding masks, take a look at some of the responses to the following video of a maskless supermarket in Florida:
 
 
 Responses to Murphy's tweet, as with other governors' announcements of plans to ease restrictions, are generally negative and indicative of a covid-panicked population that prefers to remain under their safety blanket of social regulations that have been in place for almost an entire year.
 
-
-## Florida Is the State To Watch
-
-- before presenting the graph, explain the restrictions with other graph from hold2llc
-- Hold2LLC graph comparing FL to NY and CA regarding hospitalizations and deaths/M
-https://onlinelibrary.wiley.com/doi/10.1111/eci.13484
-- reference old article and how more data is needed
-- show grocery store video
