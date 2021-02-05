@@ -8,12 +8,15 @@ Dismantling the approved Covid-19 narrative&mdash;mask mandates and lockdowns be
 
 The problem with accepting that the Covid-19 narrative is unalterable is that there is simply too much data to come to any other conclusion than mask mandates and lockdowns being incredibly ineffective virus mitigation strategies, and this data must continue to be pushed as it becomes available. There is the recent [study](https://www.newsweek.com/covid-lockdowns-have-no-clear-benefit-vs-other-voluntary-measures-international-study-shows-1561656) published by the European Journal of Clinical Investigation showing no clear benefit to state-imposed lockdowns as opposed to other voluntary measures; I've written in the past [demonstrating](https://mises.org/wire/theres-still-no-evidence-either-lockdowns-or-masks-are-game-changers) the ineffectiveness of mask mandates and lockdowns through a plethora of data visualizations; and we know of the disproportionately deadly [costs](https://rationalground.com/lockdowns-pros-and-cons/) associated with lockdowns. 
 
-But there is one visualization in particular, courtesy of [Hold2](https://twitter.com/Hold2llc), that lays the official Covid-19 narrative to rest:
+But there is one visualization in particular, courtesy of [Hold2](https://twitter.com/Hold2llc), that lays the official Covid-19 narrative to rest. It compares hospitalizations and death in Flordia, recently demonized for a [video](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20) depicting supermarket cashiers smiling maskless at customers, with hospitalizations and deaths in New York and California, both perfect examples of states that "followed the science." If mask mandates and lockdowns worked, as the official science dictates, we can expect New York and California to be performing much better than a state that has been open since September. Nevertheless:
+
+![FL vs Others](https://pbs.twimg.com/media/EtUGfNRXIAEaTTl?format=jpg&name=large)
+
 
 
 ![FL vs Others Restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large)
 
-![FL vs Others](https://pbs.twimg.com/media/EtUGfNRXIAEaTTl?format=jpg&name=large)
+
 But there remains hope for the tides to turn. Despite numbers that are worse than the first half of 2020, governors are starting to push for the reopening of their economies and the easing of restrictions on gathering sizes. In particular, New Jersey governor Phil Murphy [recently tweeted](https://twitter.com/GovMurphy/status/1356998994006794243?s=20) that on Feburary 5, gyms and restaurants can increase capacity to 35% while indoor performance venues and indoor gatherings for activities such as weddings or political events can host up to 150 people. This announcement comes at a time when New Jersey has [higher](https://covidtracking.com/data/state/new-jersey) case counts, deaths, and hospitalizations than it did during the entire stretch from June to October, where more severe restrictions were in place. 
 
 Responses to Murphy's tweet, as with other governors' announcements of plans to ease restrictions, are generally negative and indicative of a covid-panicked population that prefers to remain under their safety blanket of social regulations that have been in place for almost an entire year.
