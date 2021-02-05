@@ -20,20 +20,16 @@ On a national level, there still remains zero correlation between the intensity 
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
-But that's just a function of compliance, right? We can take a look at counties within particular states to see whether or not mask mandates have had any noticeable impact on cases. I'll leave it to the reader to guess whether or not we will see any meaningful correlations.
+We can even take a look at counties within particular states to see whether or not mask mandates have had any noticeable impact on cases. I'll leave it to the reader to guess whether or not we will see any meaningful correlation.
 
 ![Southern CA Counties](https://pbs.twimg.com/media/EtaAjIbXcAIDmI6?format=jpg&name=large)
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
-Whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the virus's path. Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
+Whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
 
 If you want evidence of the national psychosis surrounding masks, take a look at some of the responses to the following video of a maskless supermarket in Florida:
 
-
-
-
-But there remains hope for the tides to turn. Despite numbers that are worse than the first half of 2020, governors are starting to push for the reopening of their economies and the easing of restrictions on gathering sizes. In particular, New Jersey governor Phil Murphy [recently tweeted](https://twitter.com/GovMurphy/status/1356998994006794243?s=20) that on Feburary 5, gyms and restaurants can increase capacity to 35% while indoor performance venues and indoor gatherings for activities such as weddings or political events can host up to 150 people. This announcement comes at a time when New Jersey has [higher](https://covidtracking.com/data/state/new-jersey) case counts, deaths, and hospitalizations than it did during the entire stretch from June to October, where more severe restrictions were in place. 
 
 Responses to Murphy's tweet, as with other governors' announcements of plans to ease restrictions, are generally negative and indicative of a covid-panicked population that prefers to remain under their safety blanket of social regulations that have been in place for almost an entire year.
 
