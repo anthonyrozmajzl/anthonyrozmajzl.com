@@ -12,7 +12,18 @@ The problem with accepting that the Covid-19 narrative is unalterable is that th
 
 How is possible that Florida, a popular travel destination with one of the oldest populations in the country and no travel restrictions, currently has lower hospitalizations and deaths per million than California, a state with one of the youngest populations in the country? The establishment-approved science simply cannot answer this question. Yes, over all California does slightly better than Florida in deaths per million, but this can be explained away be the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in all of these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's and New York's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-Invariably, this graph will invoke the response, "Californians and New Yorkers aren't complying." Relative to Florida, this claim seems patently absurd given the fact that Florida has been fully open since mid-September. Are individuals sincerely trying to claim that Flordia's numbers are lower because they're doing a better job complying? Let's compare compliance data between Florida and California as of December 20, 2020, the period of time when Florida's deaths per million and hospitalizations per million were consistently lower than California's.
+Invariably, this graph will invoke the response, "Californians and New Yorkers aren't complying." Relative to Florida, this claim seems patently absurd given the fact that Florida has been fully open since mid-September. Are individuals sincerely trying to claim that Flordia's numbers are lower because they're doing a better job complying? Let's take a look at some of the different indicators that could tell us how heavily Florida and California are compliying with measures that supposedly help reduce covid-19 transmission. The following survey data is taken from Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu/covidcast/survey-results/?date=20210201&region=FL). To the right of the red vertical line in each of the following graphs is roughly the time when Florida had consistently lower hospitalizations and deaths per million.
+
+#### Mask Compliance
+
+![Mask Compliance FL vs CA]
+
+![Bar Vists FL vs CA]
+
+![Away Locations FL vs CA]
+
+![Restaurant Visits Fl vs CA]
+
 
 On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
