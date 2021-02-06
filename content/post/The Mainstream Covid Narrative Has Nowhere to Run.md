@@ -41,9 +41,12 @@ Let's take a look at some of the different indicators that could tell us how hea
 ![Away Locations FL vs CA](/images/AwayLocationsFLvsCA.png)
 
 #### Restaurant Visits
+
 ![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
 
-As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away any undesirable trend. Prior to November 5, when California had lower hopitalizations and deaths per million, On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
+As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away undesirable trends. Californians, realtive to Floridians, have consistently been doing a much better job of avoiding social behaviors that allegedly fuel the spread of covid-19. Are we supposed to believe that prior to November 5, when California had *lower* hopitalizations and deaths per million than Florida, that Californians were doing a great job complying? Then, less than two months later, Californians unanimously and suddenly stopped complying as Florida overtook them in both metrics? This ridiculously dubious claim is at direct odds with the behavioral patterns shown above. 
+
+Moving away from the Flordia-California comparison, there still remains zero correlation on the national level between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
