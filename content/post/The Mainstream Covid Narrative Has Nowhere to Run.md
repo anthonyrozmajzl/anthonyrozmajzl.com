@@ -22,7 +22,7 @@ Invariably, this graph will invoke the response, "Californians and New Yorkers a
 
 ![Away Locations FL vs CA](/images/Away Locations FL vs CA.png)
 
-![Restaurant Visits Fl vs CA](/images/Restaurant Visits Fl vs CA.png)
+![Restaurant Visits Fl vs CA](/images/Restaurant Visits FL vs CA.png)
 
 
 On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
