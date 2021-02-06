@@ -16,13 +16,13 @@ Invariably, this graph will invoke the response, "Californians and New Yorkers a
 
 #### Mask Compliance
 
-![Mask Compliance FL vs CA](/images/Mask Compliance FL vs CA.png)
+![Mask Compliance FL vs CA](/images/MaskComplianceFLvsCA.png)
 
-![Bar Vists FL vs CA](/images/Bar Vists FL vs CA.png)
+![Bar Vists FL vs CA](/images/BarVistsFLvsCA.png)
 
-![Away Locations FL vs CA](/images/Away Locations FL vs CA.png)
+![Away Locations FL vs CA](/images/AwayLocationsFLvsCA.png)
 
-![Restaurant Visits Fl vs CA](/images/Restaurant Visits FL vs CA.png)
+![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
 
 
 On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
