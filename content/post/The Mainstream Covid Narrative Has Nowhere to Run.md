@@ -52,11 +52,11 @@ Moving away from the Flordia-California comparison, on the national level there 
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
-In fact, if we visualize the trend in cases across all fifty states, each with varying levels of restrictions, you'll quickly notice a pattern that presents itself nearly identically across all fifty states: 
+In fact, if we visualize the trend in cases across all fifty states, each with varying levels of restrictions, you'll quickly notice a pattern that presents itself nearly identically across all fifty states: a bump in cases early in the year followed by a much bigger surge in cases during winter months. It would seem that seasonality is the key factor here.
 
 ![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
-Circling back to the supermarket video from Collier County, FL, it would be suspected, according to the mainstream narrative, that this defiant county is raking in deaths faster than they can count them. Below is a graph comparing deaths in science-denying Collier County to science-following Imperial County, CA, which has had a mask mandate since April.
+Circling back to Collier County, FL, it would be suspected, according to the mainstream narrative, that this defiant county is raking in deaths faster than they can count them. Let's compare deaths in science-denying Collier County to science-following Imperial County, CA, which has had a mask mandate since April.
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
@@ -74,7 +74,7 @@ Here are few more county-level charts showing, yet again, that regardless of the
 
 Lastly, we can look on a national level to see the wonderful effects of mask mandates. Prepare yourself, dear reader, the following is intended for mature audiences only.
 
-Not surprisingly, whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. Invariably, an attempt will be made, with no hint of sarcasm, to claim that states and counties with bad outcomes can chalk those bad outcomes up to a lack of compliance, a convenient excuse for explaining away any undesirable trend that appears in a state or county that was heralded as having "followed the science." But if compliance can't be achieved with a mask mandate, then why does the mandate exist? Do proponents of mask mandates simply believe that they are better than no mandate at all and would, on average, create enough social pressure to induce at least *some* increased level of mask-wearing? If so, what can they make of the county-level charts showing no discernable difference&mdash;often times, non-mask wearing counties have better results than mask-wearing counties&mdash; between mask-wearing and non-mask-wearing counties? 
+Much in line with what rational voices have been saying for the better part of a year, whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. If compliance can't be achieved with a mask mandates, why do they exist? Proponents of mask mandates have to believe that they are better than no mandate at all and would, on average, create enough social pressure to induce at least *some* increased level of mask-wearing. If that's the case, what can they make of the county-level charts showing no discernable difference&mdash;often times, non-mask wearing counties have better results than mask-wearing counties&mdash; between mask-wearing and non-mask-wearing counties? 
 
 Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
 
