@@ -56,13 +56,15 @@ In fact, if we visualize the trend in cases across all fifty states, each with v
 
 ![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
-We can even take a look at counties within particular states&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not mask mandates have had any noticeable impact on cases. Circling back to the supermarket video from Collier County, FL, it would be suspected, according to the mainstream narrative, that this defiant county is raking in deaths faster than they can count them. Below is graph comparing deaths in science-denying Collier County, FL to science-following Imperial County, CA, which has had a mask mandate since April.
+Circling back to the supermarket video from Collier County, FL, it would be suspected, according to the mainstream narrative, that this defiant county is raking in deaths faster than they can count them. Below is a graph comparing deaths in science-denying Collier County to science-following Imperial County, CA, which has had a mask mandate since April.
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
-We can even compare Collier County, FL to its neighboring county of Charlotte, which has had a mask mandate since late July.
+We can even take a look at counties within particular states&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not mask mandates have had any noticeable impact on cases. Let's look at Collier County, FL compared to its neighboring county of Charlotte, which has had a mask mandate since late July.
 
 ![Collier, FL vs Charlotte, FL](https://pbs.twimg.com/media/EtaYwP-UcAACDpW?format=jpg&name=4096x4096)
+
+Here are few more county-level charts showing, yet again, that regardless of the timing or existence of mask mandates, similar regions follow the same patterns.
 
 ![Southern CA Counties](https://pbs.twimg.com/media/EtaAjIbXcAIDmI6?format=jpg&name=large)
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
