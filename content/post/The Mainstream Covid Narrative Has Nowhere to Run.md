@@ -52,7 +52,7 @@ Moving away from the Flordia-California comparison, on the national level there 
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
-In fact, if we visualize the trend in cases across all fifty states, each with varying levels of restrictions, you'll quickly notice the pattern that most states seem to follow
+In fact, if we visualize the trend in cases across all fifty states, each with varying levels of restrictions, you'll quickly notice a pattern that presents itself nearly identically across all fifty states: 
 
 ![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
