@@ -12,19 +12,23 @@ The problem with accepting that the Covid-19 narrative is unalterable is that th
 
 How is possible that Florida, a popular travel destination with one of the oldest populations in the country and no travel restrictions, currently has lower hospitalizations and deaths per million than California, a state still with heavy restrictions and one of the youngest populations in the country? The establishment-approved science simply cannot answer this question. Yes, over all California does slightly better than Florida in deaths per million, but this can be explained away largely in part by the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in all of these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's and New York's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-Invariably, this graph will invoke the response, "Californians and New Yorkers aren't complying." Relative to Florida, this claim is patently absurd on its face given the fact that Florida has been fully open since mid-September. Are individuals sincerely trying to claim that Florida's numbers are lower because they're doing a better job complying with mask mandates and social regulations? Certainly nobody believes this. Floridians are demonized on a daily basis as backwards, anti-science hicks who deserve what they have coming to them. A recent [video](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20) of a maskless supermarket in Collier County, Florida has drawn responses that truly shock the conscience. Surely this defiant county is raking in deaths faster than they can count them, right? Let's take a look. Below is graph comparing deaths in science-denying Collier County, FL to Imperial County, CA, which has had a mask mandate since April.
+Invariably, this graph will invoke the response, "Californians and New Yorkers aren't complying." Relative to Florida, this claim is patently absurd on its face given the fact that Florida has been fully open since mid-September. Are individuals sincerely trying to claim that Florida's numbers are lower because they're doing a better job complying with mask mandates and social regulations? Certainly nobody believes this. Floridians are demonized on a daily basis as backwards, anti-science hicks who deserve what they have coming to them. A recent [video](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20) of a maskless supermarket in Collier County, Florida, having been viewed millions of times, reinforces the steretoype surrounding Florida and their backwards citizenry. 
 
-
-Turning Let's take a look at some of the different indicators that could tell us how heavily Floridians and Californians are compliying with measures that supposedly help reduce covid-19 transmission. The following survey data is taken from Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu/covidcast/survey-results/?date=20210201&region=FL). To the right of the red vertical line in each of the following graphs is roughly the time when Florida had consistently lower hospitalizations and deaths per million.
+Let's take a look at some of the different indicators that could tell us how heavily Floridians and Californians are compliying with measures that supposedly help reduce covid-19 transmission. The following survey data is taken from Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu/covidcast/survey-results/?date=20210201&region=FL). To the right of the red vertical line in each of the following graphs is roughly the time when Florida had consistently lower hospitalizations and deaths per million than California
 
 #### Mask Compliance
 
 ![Mask Compliance FL vs CA](/images/MaskComplianceFLvsCA.png)
 
+#### Bar Vists
+
 ![Bar Vists FL vs CA](/images/BarVistsFLvsCA.png)
+
+#### Traveling
 
 ![Away Locations FL vs CA](/images/AwayLocationsFLvsCA.png)
 
+#### Restaurant Visits
 ![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
 
 
@@ -36,8 +40,7 @@ In fact, if we visualize the trend in cases across all fifty states, each of whi
 
 ![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
-We can even take a look at counties within particular states to see whether or not mask mandates have had any noticeable impact on cases. I'll leave it to the reader to guess whether or not we will see any meaningful correlation.
-
+We can even take a look at counties within particular states&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not mask mandates have had any noticeable impact on cases. Circling back to the supermarket video from Collier County, FL, it would be suspected, according to the mainstream narrative, that this defiant county is raking in deaths faster than they can count them. Below is graph comparing deaths in science-denying Collier County, FL to science-following Imperial County, CA, which has had a mask mandate since April.
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
@@ -55,7 +58,5 @@ Not surprisingly, whether or not counties or states mandate masks at different t
 
 Instead of recognizing the futility of these mandates, a vast majority of people prefer to remain wrapped in a security blanket of social regulations that confer upon the swaddled a sense of safety and moral superiority.
 
-If you want evidence of the national psychosis surrounding masks, take a look at some of the responses to the following video of a maskless supermarket in Florida:
-
-Finish with dailymail article (https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html)
+Finish with dailymail article (https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) and mention responses to Phil Murphy's tweet.....people prefer the feeling of control and safety that comes with remaining wrapped up in a safety blanket of social regulations.
 
