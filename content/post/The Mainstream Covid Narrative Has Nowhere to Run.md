@@ -1,3 +1,15 @@
++++
+author = "Anthony Rozmajzl"
+categories = ["Covid-19", "Coronavirus", "lockdowns", "mask mandates", "Florida", "California", "county comparison"]
+date = 2021-02-06T17:39:33Z
+description = ""
+draft = false
+feature = "/images/stock-1863880_1920.png"
+slug = "Still No Data Vindicating Lockdowns and Mask Mandates"
+tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts", "Florida", "California", "county comparison"]
+title = "Almost a Year Later, There is Still No Evidence Vindicating Mask Mandates or Lockdowns"
++++
+
 # INTRO
 
 A few years ago, the gender wage gap was a popular and often heated topic of discussion. On one side of the debate were those who believed that the gender wage gap was the result of an oppressive patriarchy. On the other side of the discussion were those who believed that different ambitions, personality traits, and voluntary decisions of men and women explained the gap. Back then, intellectuals on both sides made their case, often publicly, against those with whom they disagreed. Eventually, through rigorous discussions, lively debates, uncensored article posts, and [fiery interviews](https://www.youtube.com/watch?v=aMcjxSThD54), the idea that women's earnings had anything to do with "the patriarchy" had been so thoroughly debunked that all discussion around it has ceased. 
