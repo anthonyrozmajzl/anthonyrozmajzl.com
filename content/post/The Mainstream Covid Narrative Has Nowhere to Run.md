@@ -74,9 +74,9 @@ Here are few more county-level charts showing, yet again, that regardless of the
 
 Much in line with what rational voices have been saying for the better part of a year, whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. If lack of compliance nullifies the effectiveness of mask mandates, why not remove the mandates and leave it up to the voluntary decisions of individuals? However, proponents of mask mandates have to believe that these mandates are better than nothing and would create enough social pressure to induce at least *some* increased compliance with mask mandates. If that's the case, how do proponents of mask mandates explain the population-adjusted comparisons of counties within the same state that show counties without mask mandates following the same case patterns and often achieving better results than counties with mask mandates? It simply cannot be done. Achieving the level of compliance needed to satisfy proponents of mask mandates would take nothing less than 24/7 state surveillance of every household, sidewalk, and place of business.
 
-## Do People Really Want A Return To Normalcy?
-
-After nearly a year's worth of behavioral mandates, there is still no data proving that mask mandates and lockdown are game-changing strategies for mitigating the spread of Covid-19. Seasonality appears to be the best explanation for the nearly identical case trends appearing across all fifty states.
+## Conclusion
 
 Finish with dailymail article (https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) and mention responses to Phil Murphy's tweet.....people prefer the feeling of control and safety that comes with remaining wrapped up in a safety blanket of social regulations.
+
+After nearly a year's worth of behavioral mandates, lockdowns, and business closures, there is still no data proving that mask mandates and lockdown are game-changing strategies for mitigating the spread of Covid-19. Seasonality appears to be the best explanation for the nearly identical case trends appearing across all fifty states.
 
