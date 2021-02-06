@@ -43,7 +43,7 @@ Let's take a look at some of the different indicators that could tell us how hea
 #### Restaurant Visits
 ![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
 
-As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away any undesirable trend. Prior toOn a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
+As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away any undesirable trend. Prior to November 5, when California had lower hopitalizations and deaths per million, On a national level, there still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
