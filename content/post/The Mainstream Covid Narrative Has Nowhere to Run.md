@@ -26,7 +26,7 @@ A couple months ago, the author had [demonstrated](https://mises.org/wire/theres
 
 How is possible that Florida, a popular travel destination with one of the oldest populations in the country that has been fully open since September, currently has lower hospitalizations and deaths per million than California, a state with heavy restrictions and one of the youngest populations in the country? The establishment-approved science simply cannot answer this question. Yes, overall California does slightly better than Florida in deaths per million, but this can be explained away largely in part by the vast age discrepancy which heavily favors youthful California. Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. On the other hand, California and New York still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in all of these areas and have much stronger social pressure to mask up. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's and New York's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-Invariably, this graph will invoke responses pointing to Californians' and New Yorkers' supposed lack of compliance. Relative to Florida, this claim is patently absurd on its face given the fact that Florida has been fully open since mid-September. Are individuals sincerely trying to claim that Florida's numbers are lower because they're doing a better job complying with mask mandates and social regulations? Certainly nobody believes this. Floridians are demonized on a daily basis as selfish, anti-science hicks who deserve what's supposedly coming to them. Reactions to a recent [video](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20) of a maskless supermarket in Collier County, Florida, which has been viewed millions of times, are highly indicative of the steretoype surrounding Florida's purportedly backwards, non-compliant citizenry. 
+Invariably, this graph will invoke responses pointing to Californians' and New Yorkers' supposed lack of compliance. Relative to Florida, this claim is patently absurd on its face given the fact that Florida has been fully open since mid-September. Are individuals sincerely trying to claim that Florida's numbers are lower because they're doing a better job complying with mask mandates and social regulations? Certainly nobody believes this. Floridians are demonized on a daily basis as selfish, anti-science hicks who deserve every death coming their way. Reactions to a recent [video](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20) of a maskless supermarket in Collier County, Florida, which has been viewed millions of times, are highly indicative of the steretoype surrounding Florida's purportedly backwards, non-compliant citizenry. 
 
 Let's take a look at a few indicators that would tell us how heavily Floridians and Californians are compliying with measures that supposedly help reduce covid-19 transmission. The following survey data is taken from Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu/covidcast/survey-results/?date=20210201&region=FL). To the right of the red vertical line in each of the following graphs is roughly the time when Florida had consistently lower hospitalizations and deaths per million than California. 
 
@@ -46,9 +46,9 @@ Let's take a look at a few indicators that would tell us how heavily Floridians 
 
 ![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
 
-As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away undesirable trends. Californians, realtive to Floridians, have consistently been doing a much better job of avoiding social behaviors that allegedly fuel the spread of covid-19. Are we supposed to believe that prior to November 5, when California had *lower* hopitalizations and deaths per million than Florida, that Californians were doing a great job complying? Then, less than two months later, Californians unanimously stopped complying as Florida overtook them in both metrics? This ridiculously dubious claim is at direct odds with the behavioral patterns shown above. 
+As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away undesirable trends. Californians, realtive to Floridians, have consistently been doing a much better job of avoiding social behaviors that allegedly fuel the spread of covid-19. Are we supposed to believe that prior to November 5, when California had *lower* hopitalizations and deaths per million than Florida, that Californians were doing a great job complying? Then, less than two months later, Californians unanimously stopped complying as they fell behing Florida in both metrics? This ridiculously dubious claim is at direct odds with the behavioral patterns shown above. 
 
-If we move away from the Flordia-California comparison, on the national level there still remains zero correlation between the intensity of states' restrictions and deaths per million.
+Moving away from the Flordia-California comparison, on the national level there still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
@@ -64,10 +64,12 @@ We can even take a look at counties within particular states&mdash;removing the 
 
 ![Collier, FL vs Charlotte, FL](https://pbs.twimg.com/media/EtaYwP-UcAACDpW?format=jpg&name=4096x4096)
 
-Here are few more county-level charts showing, yet again, that regardless of the timing or existence of mask mandates, similar regions follow the same patterns.
+Here are few more county-level charts showing, yet again, that regardless of the timing or existence of mask mandates, similar regions follow the same case growth patterns.
 
 ![Southern CA Counties](https://pbs.twimg.com/media/EtaAjIbXcAIDmI6?format=jpg&name=large)
+
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
+
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
 Lastly, we can look on a national level to see the wonderful effects of mask mandates. Prepare yourself, dear reader, the following is intended for mature audiences only.
