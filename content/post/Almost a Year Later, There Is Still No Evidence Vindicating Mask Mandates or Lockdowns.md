@@ -72,6 +72,12 @@ Here are few more county-level charts showing, yet again, that regardless of the
 
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
+Lastly, some of you may be wondering why we no longer hear about the "holiday surge" that was predicted to ravage our hospitals. Simply put, the surge never happened. Not only did the rate of covid-19 hospitalization growth *decline* after Thanksgiving, they actually peaked less than two weeks after Christmas and have been sharply plummeting since. 
+
+![The "Holiday Surge"](https://pbs.twimg.com/media/EtV5wO2VkAAq_cO?format=jpg&name=medium)
+
+Given the time period for acquiring covid-19 symptons and reporting hospitalizations, there is What alwa
+
 ![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/Etkd1TBVgAEuAor?format=jpg&name=4096x4096)
 
 If lack of compliance is truly what nullifies the effectiveness of mask mandates, why not remove the mandates and leave the option of wearing a mask up to the individual? Proponents of mask mandates have to believe that having a mandate is better than nothing and would create enough social pressure to induce at least *some* increased level of compliance. If that's the case, how do proponents of mask mandates explain the population-adjusted comparisons of counties within the same state that show counties without mask mandates following the same case patterns and often achieving better results than counties with mask mandates? It simply cannot be done. To achieve the level of compliance needed to satisfy proponents of mask mandates would require nothing short of an Orwellian surveillance state.
