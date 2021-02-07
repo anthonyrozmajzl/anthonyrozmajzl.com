@@ -64,7 +64,7 @@ We can even take a look at counties within particular states&mdash;removing the 
 
 ![Collier, FL vs Charlotte, FL](https://pbs.twimg.com/media/EtaYwP-UcAACDpW?format=jpg&name=4096x4096)
 
-Here are few more county-level charts showing, yet again, that regardless of the timing or existence of mask mandates, similar regions follow the same case growth patterns. Reme
+Here are few more county-level charts showing, yet again, that regardless of the timing or existence of mask mandates, similar regions follow the same case growth patterns. 
 
 ![Southern CA Counties](https://pbs.twimg.com/media/EtaAjIbXcAIDmI6?format=jpg&name=large)
 
@@ -72,15 +72,15 @@ Here are few more county-level charts showing, yet again, that regardless of the
 
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
-
-
-After nearly a year's worth of behavioral mandates, lockdowns, and business closures, there is still no data proving that mask mandates and lockdown are game-changing strategies for mitigating the spread of Covid-19. Seasonality appears to be the most rational explanation for the year's worth of data showing nearly identical case trends across all fifty states. Whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. 
+![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/Etkd1TBVgAEuAor?format=jpg&name=4096x4096)
 
 If lack of compliance is truly what nullifies the effectiveness of mask mandates, why not remove the mandates and leave the option of wearing a mask up to the individual? Proponents of mask mandates have to believe that having a mandate is better than nothing and would create enough social pressure to induce at least *some* increased level of compliance. If that's the case, how do proponents of mask mandates explain the population-adjusted comparisons of counties within the same state that show counties without mask mandates following the same case patterns and often achieving better results than counties with mask mandates? It simply cannot be done. To achieve the level of compliance needed to satisfy proponents of mask mandates would require nothing short of an Orwellian surveillance state.
+
+
 
 ## Conclusion
 
 Finish with dailymail article (https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) and mention responses to Phil Murphy's tweet.....people prefer the feeling of control and safety that comes with remaining wrapped up in a safety blanket of social regulations.
 
-
+After nearly a year's worth of behavioral mandates, lockdowns, and business closures, there is still no data proving that mask mandates and lockdown are game-changing strategies for mitigating the spread of Covid-19. Seasonality appears to be the most rational explanation for the year's worth of data showing nearly identical case trends across all fifty states. It is abundantly clear that whether or not counties or states mandate masks at different times, for different periods of time, or mandate them at all has no bearing on the path the virus takes. 
 
