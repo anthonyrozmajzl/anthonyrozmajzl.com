@@ -48,11 +48,11 @@ Let's take a look at a few indicators that would tell us how heavily Floridians 
 
 As you can see, the whole non-compliance schtick appears to be nothing more than a convenient excuse to explain away undesirable trends. Californians, realtive to Floridians, have consistently been doing a much better job of avoiding social behaviors that allegedly fuel the spread of covid-19. Are we supposed to believe that prior to November 5, when California had *lower* hopitalizations and deaths per million than Florida, that Californians were doing a great job complying? Then, less than two months later, Californians unanimously stopped complying as they fell behing Florida in both metrics? This ridiculously dubious claim is at direct odds with the behavioral patterns shown above. 
 
-Moving away from the Flordia-California comparison, on the national level there still remains zero correlation between the intensity of states' restrictions and deaths per million.
+Moving away briefly from the Flordia-California comparison, national metrics show that there still remains zero correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
-In fact, if we visualize the trend in cases across all fifty states, each with varying levels of restrictions, you'll quickly notice a pattern that presents itself nearly identically across all fifty states: a bump in cases early in the year followed by a much bigger surge in cases during winter months. It would seem that seasonality is the key factor here.
+In fact, if we visualize the trend in cases across all fifty states, each with varying levels of restrictions, you'll quickly notice a pattern that presents itself nearly identically across all fifty states: a bump in cases early in the year followed by a much bigger surge in cases during winter months. This pattern is much more a function of seasonality than one of lends no support to the idea that governments can change the path of the virus; it supports the idea that seasonality is the driving force.
 
 ![50 State Case Trends](/images/Case_Trends_All_50_States.png)
 
@@ -72,11 +72,9 @@ Here are few more county-level charts showing, yet again, that regardless of the
 
 ![Arizona Counties](https://pbs.twimg.com/media/EtaAsvYXUAASBnE?format=jpg&name=4096x4096)
 
-Lastly, some of you may be wondering why we no longer hear about the "holiday surge" that was predicted to ravage our hospitals. Simply put, the surge never happened. Not only did the rate of covid-19 hospitalization growth *decline* after Thanksgiving, they actually peaked less than two weeks after Christmas and have been sharply plummeting since. 
+Lastly, some of you may be wondering why we no longer hear about the "holiday surge" that was predicted to ravage our hospitals. Simply put, the surge never happened. Not only did the rate of covid-19 hospitalization growth *decline* after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since!
 
 ![The "Holiday Surge"](https://pbs.twimg.com/media/EtV5wO2VkAAq_cO?format=jpg&name=medium)
-
-Given the time period for acquiring covid-19 symptons and reporting hospitalizations, there is What alwa
 
 ![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/Etkd1TBVgAEuAor?format=jpg&name=4096x4096)
 
