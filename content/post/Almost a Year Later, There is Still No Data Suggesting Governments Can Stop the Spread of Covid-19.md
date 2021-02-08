@@ -84,7 +84,7 @@ It is quite strange that different cities/counties within the same area, all wit
 
 ## Update on the Holiday Surge and Alabama Superspreader Event
 
-Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth *decline* after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! 
+Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth *decline* after Thanksgiving, hospitalizations peaked less than two weeks after Christmas&mdash;hardly enough time to account for symptom onset and reporting lag&mdash;and have been sharply plummeting since! 
 
 ![The "Holiday Surge"](https://pbs.twimg.com/media/EtV5wO2VkAAq_cO?format=jpg&name=medium)
 
