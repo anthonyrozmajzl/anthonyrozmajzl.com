@@ -74,7 +74,7 @@ We can even take a look at counties within the same state&mdash;removing the cli
 
 Here are few more charts showing, yet again, that regardless of the timing or existence of mask mandates, similar regions follow the same case growth patterns, again strongly supporting the notion of seasonality
 
-![Southern CA Counties](https://pbs.twimg.com/media/EtaAjIbXcAIDmI6?format=jpg&name=large)
+![Southern CA Counties](https://pbs.twimg.com/media/EtvCJl_VcAMq7jx?format=jpg&name=small)
 
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
 
