@@ -48,9 +48,11 @@ If it one's genuine belief that Californians are doing a worse job complying tha
 
 ![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
 
-As you can see, the whole non-compliance schtick is nothing more than a convenient excuse to explain away undesirable trends. Californians, realtive to Floridians, have consistently been doing a much better job of avoiding social behaviors that allegedly fuel the spread of covid-19. Are we supposed to believe that prior to November 5, when California had *lower* hopitalizations and deaths per million than Florida, that Californians were doing a great job complying? Then, less than two months later, Californians unanimously stopped complying as they fell behind Florida in both metrics? This ridiculously dubious claim is at direct odds with the behavioral patterns shown above. 
+As you can see, the whole non-compliance schtick is nothing more than a convenient excuse to explain away undesirable trends. Californians, realtive to Floridians, have consistently been doing a better job of avoiding social behaviors that allegedly fuel the spread of covid-19. 
 
-Moving away briefly from the Flordia-California comparison, national metrics highlight the lack of correlation between the intensity of states' restrictions and deaths per million.
+Are we expected to believe that prior to November 5, when California had *lower* hopitalizations and deaths per million than Florida, that Californians were doing a great job complying? Then, less than two months later, Californians unanimously stopped complying as they fell behind Florida in both metrics? This ridiculously dubious claim is at direct odds with the behavioral patterns shown above. 
+
+Moving away briefly from the Flordia-California comparison, national metrics also highlight the lack of correlation between the intensity of states' restrictions and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
