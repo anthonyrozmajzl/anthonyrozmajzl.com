@@ -26,7 +26,7 @@ How is it possible that Florida, a fully open and popular travel destination wit
 
 Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. California and New York, on the other hand, still retain [heavy restrictions](https://pbs.twimg.com/media/EtUGlYbXUAcyNrK?format=jpg&name=large) in all of these areas. At the *very* least, Florida's hospitalizations and deaths per million should be phenomenally worse than California's and New York's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
-## Is Compliance The Secret Behind Florida's Success?
+## Is Compliance The Secret To Florida's Success?
 
 Invariably, this graph will invoke responses pointing to Californians' and New Yorkers' supposed lack of compliance. Relative to Florida, this claim is patently absurd on its face given the fact that Florida has been fully open since mid-September. Does anybody sincerely believe that Florida's numbers are lower because they're complying with mask mandates and social regulations better than California and New York? Certianly not. Floridians are consistently demonized as selfish, anti-science individuals who deserve every death coming their way. A quick glance at the reactions to a [recent video](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20) of a maskless supermarket in Collier County, Florida should be enough to convince you of the general animosity held by most towards Floridians. 
 
