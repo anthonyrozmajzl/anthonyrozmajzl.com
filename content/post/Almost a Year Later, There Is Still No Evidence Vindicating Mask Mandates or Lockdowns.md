@@ -66,7 +66,7 @@ Circling back to Collier County, FL, home of the infamous maskless supermarket, 
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
-Based on everything we're supposed to believe about the virus, there is no reason to expect the trend shown above. 
+Based on everything we're supposed to believe about the virus, the above should be an utter impossibility. 
 
 We can even take a look at counties within the same state&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not mask mandates have had any noticeable impact on cases. Let's compare Collier County, FL with its neighbor Charlotte County, which has had a mask mandate since late July.
 
