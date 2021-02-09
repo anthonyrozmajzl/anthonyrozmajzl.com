@@ -80,7 +80,7 @@ Here are few more charts showing, yet again, that regardless of the timing or ex
 
 ![DC Metro](https://twitter.com/ianmsc/status/1358685783666745345?s=21)
 
-It is quite strange that different cities and counties of similar regions, all with varying timings and degrees of certain restrictions, just happened to follow nearly identical case patterns. Your health officials cannot this.
+It is quite strange that different cities and counties of similar regions, all with varying timings and degrees of certain restrictions, just happened to follow nearly identical case patterns. It is exceedingly misleading for government officials and their health experts to suggest that politically charged behavioral mandates could alter these patterns. The data do not support this idea.  
 
 ## Update on the Holiday Surge and Alabama Superspreader Event
 
