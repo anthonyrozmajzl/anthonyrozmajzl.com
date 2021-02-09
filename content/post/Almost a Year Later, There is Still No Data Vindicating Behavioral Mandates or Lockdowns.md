@@ -78,7 +78,7 @@ Here are few more charts showing, yet again, that regardless of the timing or ex
 
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
 
-![DC Metro](https://pbs.twimg.com/media/EtsFhImVkAQYFhA?format=jpg&name=medium1)
+![DC Metro](https://pbs.twimg.com/media/EtsFhImVkAQYFhA?format=jpg&name=large)
 
 It is quite strange that different cities and counties of similar regions, all with varying timings and degrees of certain restrictions, just happened to follow nearly identical case patterns. It is exceedingly misleading for government officials and their health experts to suggest that politically charged behavioral mandates could alter these patterns. The data do not support this idea.  
 
