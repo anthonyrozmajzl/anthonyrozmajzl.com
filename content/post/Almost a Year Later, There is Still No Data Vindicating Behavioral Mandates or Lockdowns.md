@@ -60,7 +60,7 @@ Moving away briefly from the Flordia-California comparison, national metrics als
 
 In fact, if we visualize case trends across all fifty states, each state having varying levels of restrictions, you'll quickly notice a pattern that presents itself quite similarly across all fifty states: a bump in cases early in the year followed by a much bigger surge in cases during winter months. 
 
-![50 State Case Trends](/images/Case_Trends_All_50_States.png)
+![50 State Case Trends](/images/Case_Trend_All_50_States.png)
 
 Nearly identical case patterns across fifty states is hardly an indicator of a government that is able to influence the course of the virus. Rather, it appears that a simple changing of seasons, or "seasonality," is the key variable affecting case patterns. [Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in *Evolutionary Bioinformatics* also shows that case counts and mortaility rates are strongly correlated with temperature and latitude, again reinforcing the claim that legislation is futile in the battle with covid-19. Once seasonality is recognized, it is very likely that we will start speaking of "covid season" in the same way we speak of "flu season." A helpful visual of what covid season might look like can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21).
 
@@ -78,11 +78,11 @@ Here are few more charts showing, yet again, that regardless of the timing or ex
 
 ![Florida Counties](https://pbs.twimg.com/media/EtaAYFyXEAsiUbA?format=jpg&name=large)
 
-![DC Metro](https://twitter.com/ianmsc/status/1358685783666745345?s=21)
+![DC Metro](https://pbs.twimg.com/media/EtsFhImVkAQYFhA?format=jpg&name=medium1)
 
 It is quite strange that different cities and counties of similar regions, all with varying timings and degrees of certain restrictions, just happened to follow nearly identical case patterns. It is exceedingly misleading for government officials and their health experts to suggest that politically charged behavioral mandates could alter these patterns. The data do not support this idea.  
 
-## Update on the Holiday Surge and Alabama Superspreader Event
+## Update on the Holiday Surge and Alabama Superspreader
 
 Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth *decline* after Thanksgiving, hospitalizations peaked less than two weeks after Christmas&mdash;hardly enough time to account for symptom onset and reporting lag&mdash;and have been sharply plummeting since! 
 
