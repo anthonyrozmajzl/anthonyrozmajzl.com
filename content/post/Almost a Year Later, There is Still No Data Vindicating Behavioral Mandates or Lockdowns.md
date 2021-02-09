@@ -46,7 +46,7 @@ However, there are a few relevant metrics that would shed some light on just how
 
 ##### Restaurant Visits
 
-![Restaurant Visits Fl vs CA](/images/RestaurantVisitsFLvsCA.png)
+![Restaurant Visits Fl vs CA](/images/RestaurantVistsFLvsCA.png)
 
 At no point in these charts was there an apparent change in behavior indicating that Floridians suddenly started avoiding the behaviors supposedly linked to covid transmission. Are we expected to believe that prior to November 5, when California had lower hopitalizations and deaths per million than Florida, that Californians were more serious about the virus? Then, less than two months later, Californians unanimously stopped caring as they fell behind Florida in both metrics? This incredibly dubious claim is at direct odds with beahvioral patterns depicted above.
 
