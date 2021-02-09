@@ -48,7 +48,7 @@ However, there are a few relevant metrics that would shed some light on just how
 
 ![Restaurant Visits Fl vs CA](/images/RestaurantVistsFLvsCA.png)
 
-We can see that, relative to Floridians, Californians have consistently been doing a better job of avoiding social behaviors that allegedly fuel the spread of covid-19, but with no results to show for it. At no point in these charts was there an apparent change in behavior after December 17 indicating that Floridians suddenly started avoiding the behaviors supposedly linked to covid transmission.
+We can see that, relative to Floridians, Californians have consistently been doing a better job of avoiding social behaviors that allegedly fuel the spread of covid-19, but with no results to show for it. At no point in these charts was there an apparent change in behavior after December 17 indicating that Floridians had suddenly started to avoid the behaviors supposedly linked to covid transmission.
 
 Additionally, a quick glance at each state's ["social distancing score"](https://www.unacast.com/covid19/social-distancing-scoreboard) indicates, yet again, that Californians have been doing a better job avoiding activities meant to facilitate the spread of covid-19. Finally, Google's [covid mobility reports](https://www.google.com/covid19/mobility/) as of February 2, 2021, show that Californians have fewer retail and recreational visits&mdash;restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters&mdash; as well as fewer grocery store and pharmacy visits, which include farmers markets, food warehouses, and speciality food shops. Clearly, the whole non-compliance schtick is fraudulent excuse for explaining away undesirable trends. 
 
