@@ -68,8 +68,6 @@ Circling back to Collier County, FL, home of the infamous maskless supermarket, 
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
-Based on everything we're supposed to believe about the virus, there is no explanation for the fact that Collier County is outperforming Imperial County, and by a long shot. 
-
 We can even take a look at counties within the same state&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not mask mandates have had any noticeable impact on cases. Let's compare Collier County, FL with its neighbor Charlotte County, which has had a mask mandate since late July.
 
 ![Collier, FL vs Charlotte, FL](https://pbs.twimg.com/media/EtaYwP-UcAACDpW?format=jpg&name=4096x4096)
@@ -82,7 +80,7 @@ Here are few more charts showing, yet again, that regardless of the timing or ex
 
 ![DC Metro](https://twitter.com/ianmsc/status/1358685783666745345?s=21)
 
-It is quite strange that different cities/counties within the same area, all with varying timings and degrees of certain restrictions, just happened to follow nearly identical case patterns. Instead of accepting our inability to socially engineer a respiratory virus out of existence, sanity and normal life can be quickly restored by embracing the reality of seasonality.
+It is quite strange that different cities and counties of similar regions, all with varying timings and degrees of certain restrictions, just happened to follow nearly identical case patterns. Your health officials cannot this.
 
 ## Update on the Holiday Surge and Alabama Superspreader Event
 
@@ -98,9 +96,6 @@ Miraculously, cases immediately plummeted after the "superspreader" event and co
 
 ## Conclusion
 
-[Recent data](https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) show that in the past few weeks, cases have fallen 45% in the United States, 30% globally, and hospitalizations have dropped 26% since their mid-January peak. The same data also suggest that it's far too soon to attribute this rapid decline to vaccinations, leading to a general confusion as to how we've achieved these numbers. Are we going to hear that populations around the world unanimoulsy began complying with covid regulations, or that governments are finally cracking down and getting serious about enforcing their mandates? Possibly, but only as long as cases and hospitalizations continue to trend downwards. It is very unlikely, however, that health officials will start admitting that seasonality appears to be the most rational explanation for the year's worth of data showing very similar case trends across all fifty states, despite a myriad of mitigation strategies. Accepting that seasonality was primarily responsible for case fluctuations will be an exceptionally bitter pill to swallow and nearly impossible to reconcile with the emotional attachment to mask mandates and other non-pharmaceuticl interventions. It would mean that nearly a year's worth of heavily politicized behavioral mandates, life-destroying lockdowns, and devastating business closures were all for naught. 
+[Recent data](https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) show that in the past few weeks, cases have fallen 45% in the United States, 30% globally, and hospitalizations have dropped 26% since their mid-January peak. Yet there appears to be a general confusion as to how we've achieved these numbers. Did populations around the world unanimoulsy began complying with covid regulations, or did governments finally get serious about enforcing their mandates? That's one explanation we may hear, but only as long as cases and hospitalizations continue to trend downwards. 
 
-Even if trends continue such that a return to normalcy seems more likely, it's not clear that everyone would prefer a return to normal life. New Jersey Governor Phil Murphy recently [tweeted](https://twitter.com/GovMurphy/status/1357082538020339712?s=20) plans to ease current restrictions on gathering capacities. Responses to this's tweet&mdash;as with responses to similar tweets from other governors&mdash;indicate that many people still prefer to remain wrapped up in their safety blanket of social regulations. This is a significant challenge to overcome, but with the sheer amount of data which consistently show the futility of both mask mandates and lockdowns, the challenege is certainly not insurmountable. The truths embedded in the data cannot be kept hidden forever.
-
-
-
+It is very unlikely, however, that health officials will start pointing to seasonality as the most rational explanation for the year's worth of data showing very similar case trends across fifty diverse states. Accepting this reality would mean that nearly a year's worth of heavily politicized behavioral mandates, life-destroying lockdowns, and devastating business closures were all for naught. Fortunately, there is far too much data to avoid coming to this bitter conclusion. At some point, we will have realized that attempting to socially engineer a respiratory virus out of existence was nothing short of a fool's errand.
