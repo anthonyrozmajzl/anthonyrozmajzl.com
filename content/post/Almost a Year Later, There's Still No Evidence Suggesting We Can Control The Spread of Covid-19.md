@@ -7,7 +7,7 @@ draft = false
 feature = "/images/graph.jpg"
 slug = "Still No Data Vindicating Lockdowns and Mask Mandates"
 tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts", "Florida", "California", "county comparison"]
-title = "Almost a Year Later, There is Still No Data Vindicating Behavioral Mandates or Lockdowns"
+title = "Almost a Year Later, There's Still No Evidence Suggesting We Can Control The Spread of Covid-19"
 +++
 
 Dismantling the approved Covid-19 narrative, that behavioral mandates and lockdowns have been effective virus mitigation strategies, has proven to be a formidable challenge. Propagators of this narrative have enjoyed total censorship immunity and the benefit of having their voices unanimously echoed across all major news outlets and social media platforms. They have avoided the burden of proof that naturally arises from the introduction and continued support of novel virus mitigation strategies having neither scientific nor historical precedent. 
