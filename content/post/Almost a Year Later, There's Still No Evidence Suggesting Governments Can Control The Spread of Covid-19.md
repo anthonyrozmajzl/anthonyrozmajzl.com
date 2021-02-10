@@ -78,7 +78,7 @@ We can even look at similar regions&mdash;removing the climate/seasonality discr
 
 ![DC Metro](https://pbs.twimg.com/media/EtsFhImVkAQYFhA?format=jpg&name=large)
 
-It is quite strange that different cities and counties of similar regions, all with varying timings and degrees of covid restrictions, just happened to follow nearly identical case patterns. It is exceedingly misleading for government officials and their health experts to suggest that politically charged behavioral mandates could alter these patterns. The data simply do not support this idea. .  
+For the firm believer in NPIs, it must be quite strange seeing similar regions, each with varying timings and degrees of covid restrictions, following nearly identical case patterns. The data continue to reinforce the argument that seasonality is the driving factor behind case fluctuations.  
 
 ## Update on the Holiday Surge and Alabama Superspreader
 
