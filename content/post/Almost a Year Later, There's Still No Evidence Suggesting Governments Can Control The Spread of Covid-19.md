@@ -70,9 +70,7 @@ Circling back to Collier County, FL, home of the infamous maskless supermarket, 
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
-We can even look at similar regions&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not varying degrees of behavioral mandates have had any noticeable impact on cases. What you’ll find, yet again, is that regardless of the timing or existence of mask mandates and other behavioral mandates, similar regions follow the same case growth patterns, again supporting the notion of seasonality.
-
-![Collier, FL vs Charlotte, FL](https://pbs.twimg.com/media/EtaYwP-UcAACDpW?format=jpg&name=4096x4096)
+We can even look at similar regions&mdash;removing the climate/seasonality discrepancy&mdash;to see whether or not varying degrees of behavioral mandates have had any noticeable impact on cases. What you’ll find, yet again, is that regardless of the timing or existence of mask mandates and other behavioral mandates, similar regions tend to follow similar case growth patterns, again supporting the notion of seasonality.
 
 ![Southern CA Counties](https://pbs.twimg.com/media/EtvCJl_VcAMq7jx?format=jpg&name=4096x4096)
 
