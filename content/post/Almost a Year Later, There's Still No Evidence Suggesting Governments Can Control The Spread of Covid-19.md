@@ -62,9 +62,11 @@ In fact, if we visualize case trends across all fifty states, each state having 
 
 ![50 State Case Trends](/images/Case_Trend_All_50_States.png)
 
-Nearly identical case patterns across fifty states is hardly an indicator of a government capable of influencing the course of the virus. Rather, it appears that a simple changing of seasons, or "seasonality," is the key variable affecting case patterns. [Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in *Evolutionary Bioinformatics* also shows that case counts and mortality rates are strongly correlated with temperature and latitude, again reinforcing the claim that legislation is futile in the battle with covid-19. Once seasonality is recognized, it is very likely that we will start speaking of "covid season" in the same way we speak of "flu season." A helpful visual of what covid season might look like can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21).
+Nearly identical case patterns across fifty states is hardly an indicator of a government capable of influencing the course of the virus. Rather, it appears that a simple changing of seasons, or "seasonality," is the key variable affecting case patterns. 
 
-Circling back to Collier County, FL, home of the infamous maskless supermarket, it would be suspected, according to the mainstream narrative, that this defiant county is experiencing deaths on a massive scale. Let's compare deaths in science-denying Collier County to science-following Imperial County, CA, which has had a mask mandate since April, the earliest in the country.
+[Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in *Evolutionary Bioinformatics* also shows that case counts and mortality rates are strongly correlated with temperature and latitude, again reinforcing the claim that legislation is futile in the battle with covid-19. Once seasonality is recognized, it is very likely that we will start speaking of "covid season" in the same way we speak of "flu season." A helpful visual of what covid season might look like can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21).
+
+Circling back to Collier County, FL, home of the infamous maskless supermarket, it would be suspected, according to the mainstream narrative, that this defiant county is experiencing deaths on a massive scale. Let's compare deaths in science-denying Collier County to science-following Imperial County, CA, which had the earliest mask mandate in the country.
 
 ![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
 
