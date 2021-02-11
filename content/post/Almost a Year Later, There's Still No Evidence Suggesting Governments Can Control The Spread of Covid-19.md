@@ -82,7 +82,7 @@ Now let’s briefly turn our attention to Collier County, Florida, home of the i
 
 ## Update on the Holiday Surge and Alabama Superspreader
 
-Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! We at least should have seen a rapid increase in the hospitalization growth rate after Christmas. 
+Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate after Christmas. 
 
 ![The "Holiday Surge"](https://pbs.twimg.com/media/EtV5wO2VkAAq_cO?format=jpg&name=medium)
 
