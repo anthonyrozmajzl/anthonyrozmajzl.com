@@ -54,7 +54,7 @@ Moving away briefly from the Florida-California comparison, national metrics als
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
-In fact, if we visualize case trends across all fifty states, each state having varying levels of restrictions, you'll quickly notice a pattern that presents itself quite similarly across all fifty states: a bump in cases early in the year followed by a much bigger surge in cases during winter months. 
+In fact, if we visualize case trends across all fifty states, each state having varying levels of restrictions, you'll quickly notice a pattern that presents itself quite similarly across all fifty states: a bump in cases early to midway through the year followed by a much bigger surge in cases during winter months. 
 
 ![50 State Case Trends](/images/Case_Trend_All_50_States.png)
 
