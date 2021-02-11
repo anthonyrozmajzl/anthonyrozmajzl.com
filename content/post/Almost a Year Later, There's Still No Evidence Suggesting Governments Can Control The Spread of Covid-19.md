@@ -60,9 +60,7 @@ In fact, if we visualize case trends across all fifty states, each state having 
 
 ![50 State Case Trends](/images/Case_Trend_All_50_States.png)
 
-Nearly identical case patterns across fifty states is hardly an indicator of a government capable of influencing the course of the virus. Instead, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are strongly correlated with temperature and latitude. This is the concept known as “seasonality,” which, once recognized, largely explains the failure of the past year's NPIs. 
-
-After recognizing seasonality as one of the driving factors behind case fluctuations, it is very likely that we will start speaking of "covid season" as pragmatically and cautiously as we speak of "flu season." A helpful visual of what covid season might look like can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21). 
+Highly similar case patterns across fifty states is hardly an indicator of a government capable of influencing the course of the virus. Instead, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are strongly correlated with temperature and latitude. This is the concept known as “seasonality,” which, once recognized, largely explains the failure of the past year's NPIs. 
 
 Meanwhile, we can look at seasonally congruent regions to see whether or not varying degrees of behavioral mandates have had any noticeable impact on cases. What we find, thanks to seasonality, is that regardless of the timing or existence of mask mandates and other behavioral mandates, similar regions tend to follow similar case growth patterns.
 
@@ -74,7 +72,7 @@ Meanwhile, we can look at seasonally congruent regions to see whether or not var
 
 ![DC Metro](https://pbs.twimg.com/media/EtsFhImVkAQYFhA?format=jpg&name=large)
 
-For the firm believer in NPIs, these simultaneous and nearly identical fluctuations are inexplicable. More specific seasonality visualizations, which compare regions to their expected latitudinal patterns, can be found [here](https://twitter.com/Hold2LLC/media)
+For the firm believer in NPIs, these simultaneous and nearly identical fluctuations are inexplicable. After recognizing seasonality as one of the driving factors behind case fluctuations, it is very likely that we will start speaking of "covid season" as pragmatically as we speak of "flu season." A helpful visual of what covid season might look like can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21); more specific seasonality visualizations comparing regional outcomes to their expected latitudinal patterns can be found [here](https://twitter.com/Hold2LLC/media)
 
 Now let’s briefly turn our attention to Collier County, Florida, home of the infamous [maskless supermarket](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20). It would be suspected, according to the mainstream narrative, that this defiant county is experiencing deaths on a massive scale. However, if we compare deaths per million in science-denying Collier County with those in Imperial County, CA, which had the earliest mask mandate in the country, we find, predictably, another hole in the mainstream narrative.
 
