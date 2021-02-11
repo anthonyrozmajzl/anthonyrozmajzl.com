@@ -26,7 +26,7 @@ Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of
 
 ## Does Compliance Explain the Discrepancy?
 
-Invariably, the above graph will invoke responses pointing to Californians supposed lack of compliance relative to Floridians as justification for their poor numbers. On its face, this claim is patently absurd given that Florida has been fully open since September. But if we dig into the data a bit more, we find some relevant metrics that shed light on how frequently Floridians and Californians engage in behaviors that supposedly fuel covid-19 transmission. The following survey data--California is shown in blue, Florida in gray--is taken from Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu/covidcast/survey-results/?date=20210201&region=FL). The red vertical line is the point at which Florida had lower hospitalizations and deaths per million than California. 
+Invariably, the above graph will invoke responses pointing to Californians supposed lack of compliance relative to Floridians as justification for their poor numbers. On its face, this claim is patently absurd given that Florida has been fully open since September. But if we dig into the data a bit more, we find some relevant metrics that shed light on how frequently Floridians and Californians are engaging in behaviors that supposedly fuel covid-19 transmission. The following survey data--California is shown in blue, Florida in gray--is taken from Carnegie Mellon University's [Delphi Research Group](https://delphi.cmu.edu/covidcast/survey-results/?date=20210201&region=FL). The red vertical line is the point at which Florida had lower hospitalizations and deaths per million than California. 
 
 ##### Mask Compliance
 
