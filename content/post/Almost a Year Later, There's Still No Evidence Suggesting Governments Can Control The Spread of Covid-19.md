@@ -84,7 +84,7 @@ Some of you may be wondering what happened to the "holiday surge" that was suppo
 
 Finally, as a bonus for those who like to keep up to date with the latest installment of The Media Who Cried Superspreader, Alabama recently came under heavy fire after [thousands of maskless football fans](https://www.cbsnews.com/news/tuscaloosa-celebration-alabama-national-championship-covid-19-concerns/) took to the streets to celebrate their team winning the national college football title. Fansided was [quick to label](https://fansided.com/2021/01/12/alabama-football-fans-defy-covid-guidelines-super-spreader-celebration-strip-videos/) the large celebration as a superspreader event, and health officials were [worried](https://www.beckershospitalreview.com/public-health/health-officials-worry-alabama-football-celebration-was-superspreader-event.html) that the Alabama superspreader was going to result in a huge case spike. Here's what really happened.
 
-![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/Etkd1TBVgAEuAor?format=jpg&name=4096x4096)
+![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/EuDW7DNVgAAJ9fC?format=jpg&name=4096x4096)
 
 Miraculously, cases immediately plummeted after the "superspreader" event and continue to plummet to this day. If that wasn't enough, Mississippi, Alabama's next-door neighbor, followed a nearly identical case pattern despite hosting no superspreader events. But don't hold your breath for any sort of apology from the health officials or media outlets that predicted doom and gloom for Alabama. 
 
