@@ -18,11 +18,11 @@ Government officials, in lockstep with big tech and nearly all major news outlet
 
 If there is one visualization the reader should become familiar with to understand the ineffectiveness of NPIs, it would be the following chart comparing hospitalizations and deaths per million in Florida with those in New York and California, however we will be focusing solely on the comparison between Florida and California.
 
-![FL vs Others](https://pbs.twimg.com/media/Et4h_3mXUAMpcu3?format=jpg&name=large)
+![FL vs California](https://pbs.twimg.com/media/EuSdmF5WQAgIGm2?format=jpg&name=large)
 
 In light of everything our officials have taught us about how this virus spreads, it defies reality that Florida, a fully open and popular travel destination with one of the oldest populations in the country currently has lower hospitalizations and deaths per million than California, a state with much heavier restrictions and one of the youngest populations in the country. While it is true that, overall, California does slightly better than Florida in deaths per million, simply [acounting for](https://pbs.twimg.com/media/Et4iEGKXIAgpu2S?format=jpg&name=large) California’s much younger population tips the scales in Florida's favor.
 
-Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. California, on the other hand, retains [heavy restrictions](https://pbs.twimg.com/media/Et4iIg5XUAY6od-?format=jpg&name=large) in each of these areas. At the *very* least, Florida's hospitalizations and deaths per million should be substantially worse than California's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
+Florida has zero restrictions on bars, breweries, indoor dining, gyms, places of worship, gathering sizes, and almost all schools are offering in-person instruction. California, on the other hand, retains [heavy restrictions](https://pbs.twimg.com/media/EuSeU9vXMAMRGxy?format=jpg&name=large) in each of these areas. At the *very* least, Florida's hospitalizations and deaths per million should be substantially worse than California's. Those who predicted death and destruction as a consequence of Flordia's September reopening simply cannot see these results as anything other than utterly remarkable. 
 
 ## Does Compliance Explain the Discrepancy?
 
