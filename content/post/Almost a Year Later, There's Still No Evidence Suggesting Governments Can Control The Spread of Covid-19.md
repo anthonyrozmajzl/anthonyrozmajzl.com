@@ -30,19 +30,19 @@ Invariably, the above graph will invoke responses pointing to Californians suppo
 
 ##### Mask Compliance
 
-![Mask Compliance FL vs CA](/images/MaskComplianceFLvsCA.png)
+![Mask Compliance FL vs CA](/images/MaskCompliance.png)
 
 ##### Bar Vists
 
-![Bar Vists FL vs CA](/images/BarVistsFLvsCA.png)
+![Bar Vists FL vs CA](/images/BarVists.png)
 
 ##### Traveling
 
-![Away Locations FL vs CA](/images/AwayLocationsFLvsCA.png)
+![Away Locations FL vs CA](/images/Travel.png)
 
 ##### Restaurant Visits
 
-![Restaurant Visits Fl vs CA](/images/RestaurantVistsFLvsCA.png)
+![Restaurant Visits Fl vs CA](/images/RestaurantVists.png)
 
 We can see that, relative to Floridians, Californians have consistently been doing a better job of avoiding social behaviors that allegedly fuel the spread of covid-19. Moreover, at no point was there a drastic change in behavioral patterns after December 17 indicating that Floridians had suddenly begun avoiding activities purportedly linked to covid transmission.
 
