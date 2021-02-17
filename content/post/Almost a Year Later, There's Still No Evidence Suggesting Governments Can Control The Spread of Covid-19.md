@@ -14,7 +14,7 @@ As we approach the one-year anniversary of "fifteen days to slow the spread," we
 
 Government officials, in lockstep with big tech and nearly all major news outlets, have controlled this narrative to such an extent that its proponents have simply sidestepped the burden of proof naturally arising from the introduction and continued support of novel virus mitigation strategies, happily pointing to the fact that their ideas enjoy unanimous support from the media and government officials all over the world. This seemingly impenetrable narrative rests, of course, on the critical assumption that NPIs, or behavioral mandates, have protected us from covid-19. 
 
-## One Chart to Rule Them All
+## The One Chart That Covid Doomsdayers Can't Explain
 
 If there is one visualization the reader should become familiar with to understand the ineffectiveness of NPIs, it would be the following chart comparing hospitalizations and deaths per million in Florida with those in New York and California, however we will be focusing solely on the comparison between Florida and California.
 
