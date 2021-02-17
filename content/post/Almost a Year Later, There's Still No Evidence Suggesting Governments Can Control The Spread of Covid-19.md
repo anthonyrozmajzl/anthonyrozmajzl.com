@@ -80,7 +80,7 @@ Let's briefly turn our attention to Collier County, Florida, home of the infamou
 
 Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate after Christmas. 
 
-![The "Holiday Surge"](https://pbs.twimg.com/media/EtV5wO2VkAAq_cO?format=jpg&name=medium)
+![The "Holiday Surge"](/images/US_Hospital.png)
 
 Finally, as a bonus for those who like to keep up to date with the latest installment of The Media Who Cried Superspreader, Alabama recently came under heavy fire after [thousands of maskless football fans](https://www.cbsnews.com/news/tuscaloosa-celebration-alabama-national-championship-covid-19-concerns/) took to the streets to celebrate their team winning the national college football title. Fansided was [quick to label](https://fansided.com/2021/01/12/alabama-football-fans-defy-covid-guidelines-super-spreader-celebration-strip-videos/) the large celebration as a superspreader event, and health officials were [worried](https://www.beckershospitalreview.com/public-health/health-officials-worry-alabama-football-celebration-was-superspreader-event.html) that the Alabama superspreader was going to result in a huge case spike. Here's what really happened.
 
