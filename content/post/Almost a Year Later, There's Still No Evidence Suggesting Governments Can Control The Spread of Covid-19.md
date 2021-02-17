@@ -86,7 +86,7 @@ Finally, as a bonus for those who like to keep up to date with the latest instal
 
 ![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/EuDW7DNVgAAJ9fC?format=jpg&name=4096x4096)
 
-Miraculously, cases immediately plummeted after the "superspreader" event and continue to plummet to this day. If that wasn't enough, Mississippi, Alabama's next-door neighbor, followed a nearly identical case pattern despite hosting no superspreader events. But don't hold your breath for any sort of apology from the health officials or media outlets that predicted doom and gloom for Alabama. 
+Miraculously, cases immediately plummeted after the "superspreader" event and continue to plummet to this day. If that wasn't enough, Mississippi, Alabama's next-door neighbor, followed a nearly identical case pattern despite hosting no superspreader events. These failed predictions should hardly surprise us.
 
 ## Conclusion
 
