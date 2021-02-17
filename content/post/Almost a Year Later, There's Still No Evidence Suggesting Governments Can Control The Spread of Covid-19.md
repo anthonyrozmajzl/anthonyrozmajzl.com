@@ -62,7 +62,7 @@ Similar case patterns across fifty diverse states is hardly an indicator of a go
 
 Meanwhile, we can look at seasonally congruent regions to see whether or not varying degrees of behavioral mandates have had any noticeable impact on cases. What we find, thanks to seasonality, is that regardless of the timing or existence of mask mandates and other behavioral mandates, similar regions follow similar case growth patterns.
 
-![US Midwest States](https://pbs.twimg.com/media/Etu1NTbWgAAp1_J?format=jpg&name=medium)
+![US Midwest States](https://pbs.twimg.com/media/EuYhfpCUUAANhjf?format=jpg&name=large)
 
 ![Southern CA Counties](https://pbs.twimg.com/media/EtvCJl_VcAMq7jx?format=jpg&name=4096x4096)
 
@@ -70,7 +70,7 @@ Meanwhile, we can look at seasonally congruent regions to see whether or not var
 
 ![DC Metro](https://pbs.twimg.com/media/EtsFhImVkAQYFhA?format=jpg&name=large)
 
-For the firm believer in NPIs, these simultaneous and nearly identical fluctuations between cities within the same state, or states having [similar climates](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096), is inexplicable. After accepting seasonality as one of the driving factors behind case fluctuations, it is very likely that we will start speaking of "covid season" as pragmatically as we speak of "flu season." A helpful visual of what covid season might look like, based on the [Hope-Simpson seasonality model](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) for influenza, can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21).
+For the firm believer in NPIs, these simultaneous and nearly identical case fluctuations between cities within the same state and states with [similar climates](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) are inexplicable. After accepting seasonality as one of the driving factors behind case fluctuations, it is very likely that we will start speaking of "covid season" as pragmatically as we speak of "flu season." A helpful visual of what covid season might look like, based on the [Hope-Simpson seasonality model](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) for influenza, can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21).
 
 Let's briefly turn our attention to Collier County, Florida, home of the infamous [maskless supermarket](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20). It would be suspected, according to the mainstream narrative, that this defiant county is experiencing deaths on a massive scale. However, if we compare deaths per million in science-denying Collier County with those in Imperial County, CA, which had the earliest mask mandate in the country, we find, predictably, another hole in the mainstream narrative.
 
@@ -92,4 +92,5 @@ Miraculously, cases immediately plummeted after the "superspreader" event and co
 
 [Data show](https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) that from the few weeks prior to February 4, cases have fallen 45% in the United States&mdash;cases are [*still* declining](https://pbs.twimg.com/media/EuYD20cVoAACUv2?format=jpg&name=small) at a rapid pace despite mid-January warnings that the new variant would create a new surge in cases&mdash;30% globally, and hospitalizations have dropped 26% since their mid-January peak. Yet there appears to be a general confusion as to how we've achieved these numbers. Did populations around the world unanimously begin complying with covid regulations? Did governments finally get serious about enforcing their mandates? These are some explanations we might hear, but only so long as cases and hospitalizations continue to trend downwards. 
 
-It is very unlikely, however, that health officials will start pointing to seasonality as the most rational explanation for the numbers at hand. Doing so would mean that nearly a year's worth of heavily politicized behavioral mandates, life-destroying lockdowns, and devastating business closures were all for naught. In light of all the data before us, we must accept that attempting to socially engineer a respiratory virus out of existence is nothing short of a fool's errand.
+t is very unlikely, however, that health officials will start pointing to seasonality as an alternative explanation for our improving numbers. Doing so would mean that nearly a year's worth of heavily politicized behavioral mandates, life-destroying lockdowns, and devastating business closures were all for naught. It is perfectly clear, however, that attempting to socially engineer a respiratory virus out of existence is nothing short of a fool's errand.
+
