@@ -18,7 +18,7 @@ Government officials, in lockstep with big tech and nearly all major news outlet
 
 If there is one visualization the reader should become familiar with to understand the ineffectiveness of NPIs, it would be the following chart comparing hospitalizations and deaths per million in Florida with those in New York and California, however we will be focusing solely on the comparison between Florida and California.
 
-![FL vs California](https://pbs.twimg.com/media/EuY8xuaWYAESAIY?format=jpg&name=large)
+![FL vs California](https://pbs.twimg.com/media/EucCTkuWYAIItfT?format=jpg&name=large)
 
 In light of everything our officials have taught us about how this virus spreads, it defies reality that Florida, a fully open and popular travel destination with one of the oldest populations in the country, has lower hospitalizations and deaths per million than California, a state with much heavier restrictions and one of the youngest populations in the country. While it is true that, overall, California does slightly better than Florida in deaths per million, simply [acounting for](https://pbs.twimg.com/media/Et4iEGKXIAgpu2S?format=jpg&name=large) California’s much younger population tips the scales in Florida's favor.
 
