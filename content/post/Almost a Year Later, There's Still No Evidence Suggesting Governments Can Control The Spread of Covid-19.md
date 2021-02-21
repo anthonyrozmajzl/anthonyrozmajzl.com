@@ -1,7 +1,7 @@
 +++
 author = "Anthony Rozmajzl"
 categories = ["Covid-19", "Coronavirus", "lockdowns", "mask mandates", "Florida", "California", "county comparison"]
-date = 2021-02-10T17:39:33Z
+date = 2021-02-21T17:39:33Z
 description = ""
 draft = false
 feature = "/images/graph.jpg"
