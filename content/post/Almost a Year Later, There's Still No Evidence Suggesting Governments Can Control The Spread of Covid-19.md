@@ -16,7 +16,7 @@ Government officials, in lockstep with big tech and nearly all major news outlet
 
 ## The One Chart That Covid Doomsdayers Can't Explain
 
-If there is one visualization the reader should become familiar with to understand the ineffectiveness of NPIs, it would be the following chart comparing hospitalizations and deaths per million in Florida with those in New York and California, however we will be focusing solely on the comparison between Florida and California.
+If there is one visualization the reader should become familiar with to understand the ineffectiveness of nearly a year's worth of NPIs, it would be the following chart comparing hospitalizations and deaths per million in Florida with those in New York and California, however we will be focusing solely on the comparison between Florida and California.
 
 ![FL vs California](https://pbs.twimg.com/media/Euh76iXXEAIzdK2?format=jpg&name=large)
 
