@@ -78,7 +78,7 @@ Let's briefly turn our attention to Collier County, Florida, home of the infamou
 
 ## Update on the Holiday Surge and Alabama Superspreader
 
-Some of you may be wondering what happened to the "holiday surge" that was supposed to be ravaging our hospitals right about now. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate after Christmas. 
+Some of you may be wondering what happened to the "holiday surge" that was supposed to have ravaged our hospitals. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate in the few weeks following Christmas. 
 
 ![The "Holiday Surge"](/images/US_Hospital.png)
 
@@ -86,8 +86,7 @@ Finally, as a bonus for those who like to keep up to date with the latest instal
 
 ![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/EuDW7DNVgAAJ9fC?format=jpg&name=4096x4096)
 
-Miraculously, cases immediately plummeted after the "superspreader" event and continue to plummet to this day. If that wasn't enough, Mississippi, Alabama's next-door neighbor, followed a nearly identical case pattern despite hosting no superspreader events. These failed predictions should hardly surprise us.
-
+Miraculously, cases immediately plummeted after Alabama's "superspreader" event and continue to plummet to this day. If that wasn't enough, Mississippi, Alabama's next-door neighbor, followed a nearly identical case pattern despite hosting no superspreader events.
 ## Conclusion
 
 [Data show](https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) that from the few weeks prior to February 4, cases have fallen 45% in the United States&mdash;cases are [*still* declining](https://twitter.com/ianmsc/status/1362109767800397826?s=21) at a rapid pace despite mid-January warnings that the new variant would create a new surge in cases&mdash;30% globally, and hospitalizations have dropped 26% since their mid-January peak. Yet there appears to be a general confusion as to how we've achieved these numbers. Did populations around the world unanimously begin complying with covid regulations? Did governments finally get serious about enforcing their mandates? These are some explanations we might hear, but only so long as cases and hospitalizations continue to trend downwards. 
