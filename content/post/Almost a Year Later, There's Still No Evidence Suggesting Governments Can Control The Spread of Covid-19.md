@@ -74,21 +74,25 @@ Meanwhile, we can look at seasonally congruent regions to see whether or not var
 
 For the firm believer in NPIs, these simultaneous and nearly identical fluctuations between cities within the same state and states having [similar climates](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) are inexplicable. After accepting seasonality as one of the driving factors behind case fluctuations, it is very likely that we will start speaking of "covid season" as pragmatically as we speak of "flu season." A helpful visual of what covid season might look like, based on the [Hope-Simpson seasonality model](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) for influenza, can be found [here](https://twitter.com/hold2llc/status/1358658394564009985?s=21).
 
-Let's briefly turn our attention to Collier County, Florida, home of the infamous [maskless supermarket](https://twitter.com/SamBrockNBC/status/1357047400548950023?s=20). It would be suspected, according to the mainstream narrative, that this defiant county is experiencing deaths on a massive scale. However, if we compare deaths per million in science-denying Collier County with those in Imperial County, CA, which had the earliest mask mandate in the country, we find, predictably, another hole in the mainstream narrative.
-
-![Collier, FL vs Imperial County, CA](https://pbs.twimg.com/media/EtWicZrVgAMRrTI?format=jpg&name=4096x4096)
-
 ## Update on the Holiday Surge and Alabama Superspreader
 
 Some of you may be wondering what happened to the "holiday surge" that was supposed to have ravaged our hospitals. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate in the few weeks following Christmas. 
 
-![The "Holiday Surge"](/images/US_Hospital.png)
+![The "Holiday Surge"](/images/US_Hospitalized.png)
 
 Finally, as a bonus for those who like to keep up to date with the latest installment of The Media Who Cried Superspreader, Alabama recently came under heavy fire after [thousands of maskless football fans](https://www.cbsnews.com/news/tuscaloosa-celebration-alabama-national-championship-covid-19-concerns/) took to the streets to celebrate their team winning the national college football title. Fansided was [quick to label](https://fansided.com/2021/01/12/alabama-football-fans-defy-covid-guidelines-super-spreader-celebration-strip-videos/) the large celebration as a superspreader event, and health officials were [worried](https://www.beckershospitalreview.com/public-health/health-officials-worry-alabama-football-celebration-was-superspreader-event.html) that the Alabama superspreader was going to result in a huge case spike. Here's what really happened.
 
 ![Alabama vs Missisippi Nat'l Championship](https://pbs.twimg.com/media/EuDW7DNVgAAJ9fC?format=jpg&name=4096x4096)
 
 Miraculously, cases immediately plummeted after Alabama's "superspreader" event and continue to plummet to this day. If that wasn't enough, Mississippi, Alabama's next-door neighbor, followed a nearly identical case pattern despite hosting no superspreader events.
+
+Finally, in our most recent installment of The Media Who Cried Superspreader, we see that two weeks&mdash;two weeks being the establishment’s preferred lag time between superspreaders and their supposed consequences&mdash;after millions of people gathered with friends and family to watch Superbowl LV, cases, hospitalizations, and deaths continue to plummet.
+
+![US Metrics](/images/US_Metrics.png
+
+Despite the scary warnings and grim predictions of Superbowl gatherings, we find, yet again, a gaping hole in the mainstream covid-19 narrative. It would appear safe to conclude that the worst of covid season is behind us.
+
+
 ## Conclusion
 
 [Data show](https://www.dailymail.co.uk/health/article-9219379/Why-coronavirus-cases-falling-fast-New-infections-drop-44-three-weeks.html) that from the few weeks prior to February 4, cases have fallen 45% in the United States&mdash;cases are [*still* declining](https://twitter.com/ianmsc/status/1362109767800397826?s=21) at a rapid pace despite mid-January warnings that the new variant would create a new surge in cases&mdash;30% globally, and hospitalizations have dropped 26% since their mid-January peak. Yet there appears to be a general confusion as to how we've achieved these numbers. Did populations around the world unanimously begin complying with covid regulations? Did governments finally get serious about enforcing their mandates? These are some explanations we might hear, but only so long as cases and hospitalizations continue to trend downwards. 
