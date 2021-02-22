@@ -88,7 +88,7 @@ Miraculously, cases immediately plummeted after Alabama's "superspreader" event 
 
 Finally, in our most recent installment of The Media Who Cried Superspreader, we see that two weeks&mdash;two weeks being the establishment’s preferred lag time between superspreaders and their supposed consequences&mdash;after millions of people gathered with friends and family to watch Superbowl LV, cases, hospitalizations, and deaths continue to plummet.
 
-![US Metrics](/images/US_Metrics.png
+![US Metrics](/images/US_Metrics.png)
 
 Despite the scary warnings and grim predictions of Superbowl gatherings, we find, yet again, a gaping hole in the mainstream covid-19 narrative. It would appear safe to conclude that the worst of covid season is behind us.
 
