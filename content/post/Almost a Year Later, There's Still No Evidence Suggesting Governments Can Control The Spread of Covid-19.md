@@ -76,7 +76,7 @@ For the firm believer in NPIs, these simultaneous and nearly identical fluctuati
 
 ## Update on the Holiday Surge and Alabama Superspreader
 
-Some of you may be wondering what happened to the "holiday surge" that was supposed to have ravaged our hospitals. Well, it never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate in the few weeks following Christmas. 
+Some of you may be wondering about the "holiday surges" that were supposed to have ravaged our hospitals following Thanksgiving and Christmas. Well, they never happened. Not only did the rate of covid-19 hospitalization growth decline after Thanksgiving, hospitalizations peaked less than two weeks after Christmas and have been sharply plummeting since! At the very least we should have seen a rapid increase in the hospitalization growth rate in the few weeks following Christmas. 
 
 ![The "Holiday Surge"](/images/US_Hospitalized.png)
 
