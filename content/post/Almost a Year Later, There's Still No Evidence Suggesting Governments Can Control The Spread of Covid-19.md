@@ -50,7 +50,7 @@ A quick glance at each state's ["social distancing score"](https://www.unacast.c
 
 ## More Metrics Rebutting the Mainstream Covid-19 Narrative
 
-Moving on from the Florida-California comparison, national metrics also highlight the lack of correlation between the [intensity of states' NPIs](https://wallethub.com/edu/states-coronavirus-restrictions/73818) and deaths per million.
+Moving on from the Florida-California comparison, national metrics also highlight the lack of correlation between the intensity of states' NPIs&mdash;methodology for determining this can be found [here](https://wallethub.com/edu/states-coronavirus-restrictions/73818)&mdash;and deaths per million.
 
 ![50 States Restriction vs Deaths Per Million](https://pbs.twimg.com/media/Eqf4ZzjW4AAtgwQ?format=jpg&name=900x900)
 
