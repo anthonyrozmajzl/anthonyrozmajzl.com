@@ -3,7 +3,7 @@ If the past year has taught us anything, it is that the vast majority of America
 
 It's one thing to speak out against these mandates, but an entirely different thing to publicly oppose them. The cult of unqeustioned obedience, sustained entirely by a false sense of moral superiority, has effectively privatized the government's role in enforcing covid-19 mandates. Whether or not a state mandates mask restrictions is largely irrelevant to 
 
-
+## The Criminal and Unscientific Shut Down of a Missouri Bar Chain
 
 
 
