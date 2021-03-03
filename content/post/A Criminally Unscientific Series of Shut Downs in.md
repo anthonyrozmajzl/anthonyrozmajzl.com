@@ -1,11 +1,13 @@
 
-If the covid-19 pandemic has reminded us of one thing, it is how easily and quickly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, have achieved this level of obedience by spending the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that all good, rational citizens must take in the name of preserving "public health." This narrative has become so thoroughly embedded in our culture that it is now widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, a science-denier fully deserving of legal punishment and public scorn. This new version of public health has brushed aside basic freedoms and completed ignored any and all data showing the utter futility of the past year's worth of behavioral mandates. We are living in a world where to preserve public health simply means offering our unquestioned compliance to the powers that be.
+If the covid-19 pandemic has reminded us of one thing, it is how easily and quickly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, have achieved this level of obedience by spending the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that all good, rational citizens must take in the name of preserving "public health." This narrative has become so thoroughly embedded in our culture that it is now widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, a science-denier fully deserving of legal punishment and public scorn. 
 
 ## A Criminally Unscientific Series of Shut Downs in Missouri
 
 Nobody understands this better than the owners of Wheelhouse, The Midwestern, and Start Bar, a chain of restaurants located in the
 
 ## NOTES
+
+This new version of public health has brushed aside basic freedoms and completed ignored any and all data showing the utter futility of the past year's worth of behavioral mandates in favor of the feeling of safety that comes with living in a culture of unquestioned compliance to the powers that be.
 
 spent the majority of 2020 unleashing a successful campaign of [mass hysteria](https://www.mdpi.com/1660-4601/18/4/1376/htm?fbclid=IwAR3hKqZ614zBr9zHXBOuaxTA8Z0Dt9Hb-TxObCY3qdpCJFuqh_Mmh3jCdtQ) and continue to berate the public with pithy slogans like "Wear a mask, slow the spread", and 
 
