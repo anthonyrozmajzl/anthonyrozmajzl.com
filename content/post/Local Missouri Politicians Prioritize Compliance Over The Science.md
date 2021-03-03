@@ -3,7 +3,9 @@ If the covid-19 pandemic has reminded us of one thing, it is how easily and quic
 
 ## A Criminally Unscientifc Series of Shutdowns in St. Louis, Missouri
 
-Public health has revealed iteslf to be a hegemon of unquestioned compliance with government mandates, completely ingorning any and all data showing the utter futility of mask mandates and business closures. Nobody understands this better than the owners of a chain of restaurants in St. Louis, Missouri.
+Nobody understands this dynamic better than the owners of The Wheelhouse, a 1,000-person venue located in St. Louis, Missouri that has been suffering due to health mandates from the local government. While the state of Missouri has [no mask mandate](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html), the city of St. Louis has been more than willing to ensure that The Wheelhouse, along with their sister venues Start Bar and The Midwestern, comply with their punitive mandates. 
+
+The Wheelhouse not only commands a respectable portion of the night life in St. Louis, it is also a historical sports venue that was home to the Blues' 2019 Stanley Cup celebration, further affirming the Wheelhouse's prominence as the go-to sports venue in the city. Naturally, all eyes would remain on the Wheelhouse as the pandemic rolled in. The Wheelhouse remained compliant with regulations but were soon prohibited from having anyone inside. Having over 100 employees with families to support and a 7 year-old business to sustain, The Wheelhouse, along with its sister venues, slowly began catering back to the comfort of customers beginning in May. As June came by, crowds were growing to such an extent that 
 
 ## NOTES
 
