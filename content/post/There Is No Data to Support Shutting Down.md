@@ -1,7 +1,7 @@
 
-If the covid-19 pandemic has reminded us of one thing, it is how easily and quickly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, have achieved this level of obedience by spending the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that all good, rational citizens must take in the name of preserving "public health." Consequently, it is widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health and a science-denier who is fully deserving of legal punishment and public scorn. 
+If the covid-19 pandemic has reminded us of one thing, it is how easily and quickly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, have achieved this level of obedience by spending the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that all good, rational citizens must take in the name of preserving "public health." This narrative has become so thoroughly embedded in our culture that it is now widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, a science-denier fully deserving of legal punishment and public scorn. 
 
-
+ 
 
 
 
@@ -15,6 +15,7 @@ spent the majority of 2020 unleashing a successful campaign of [mass hysteria](h
 
 Private citizens, now emboldened by their establishment-backed narrative that compliance with behavioral mandates is the selfless and scientifically prudent path to defeating covid, find it their duty to publicly berate non-mask-wearers and rat out non-compiant businesses, convincing others that both as menaces to society. As a result, many individuals and private businesses, whether to avoid shutdowns, heated public confrontations, or deter fines, are forced to reluctantly fall in line with government mandates.
 
+While states such as Texas and Mississippi are making phenomenal progress in [rolling back covid-19 mandates](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329), Andrew Cuomo [recently anounced](https://nypost.com/2021/03/02/new-yorkers-must-flash-covid-19-passport-to-enter-venues-under-new-program/) a new pilot program that would require New Yorkers to show a covid-19 passport before entering certain venues. 
 
 
 decentralized the government's role of enforcing covid-19 mandates. 
