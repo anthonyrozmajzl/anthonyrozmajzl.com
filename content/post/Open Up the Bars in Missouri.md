@@ -1,13 +1,17 @@
 
-If the covid-19 pandemic has reminded us of one thing, it is how quickly government officials can command a culture of practically unquestioned obedience. Over the past year political actors, in conjunction with big tech and the corporate press, have unleashed a campaign of [mass hysteria](https://www.mdpi.com/1660-4601/18/4/1376/htm?fbclid=IwAR3hKqZ614zBr9zHXBOuaxTA8Z0Dt9Hb-TxObCY3qdpCJFuqh_Mmh3jCdtQ), continue to berate the public with pithy slogans like "Wear a mask, slow the spread", and proceed to frame the argument for various behavioral controls such as mask mandates and business closures as the scientifically-backed and morally upright position that all good, rational citizens must take in the name of preserving "public health." Consequently, it is widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, fully deserving of legal punishment and public scorn. 
+If the covid-19 pandemic has reminded us of one thing, it is how quickly government officials can command a culture of practically unquestioned obedience. Throughout the past year political actors, in conjunction with big tech and the corporate press, have unleashed a campaign of [mass hysteria](https://www.mdpi.com/1660-4601/18/4/1376/htm?fbclid=IwAR3hKqZ614zBr9zHXBOuaxTA8Z0Dt9Hb-TxObCY3qdpCJFuqh_Mmh3jCdtQ), continue to berate the public with pithy slogans like "Wear a mask, slow the spread", and proceed to frame the argument for various behavioral controls such as mask mandates and business closures as the scientifically-backed and morally upright position that all good, rational citizens must take in the name of preserving "public health." Consequently, it is widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, fully deserving of legal punishment and public scorn. 
 
-Private citizens, now emboldened by their establishment-backed narrative that compliance with behavioral mandates is the selfless and scientifically prudent path to defeating covid, find it easy to publicly berate non-mask-wearers and rat out non-compiant businesses, treating both as menaces to society. As a result, many individuals and private businesses, whether to avoid shutdowns, heated public confrontations, or deter fines, are forced to reluctantly fall in line with government mandates.
+
+
+
 
 ## A Criminally Unscientific Series of Shut Downs in Missouri
 
 
 
+## NOTES
 
+Private citizens, now emboldened by their establishment-backed narrative that compliance with behavioral mandates is the selfless and scientifically prudent path to defeating covid, find it their duty to publicly berate non-mask-wearers and rat out non-compiant businesses, convincing others that both as menaces to society. As a result, many individuals and private businesses, whether to avoid shutdowns, heated public confrontations, or deter fines, are forced to reluctantly fall in line with government mandates.
 
 
 
