@@ -20,7 +20,7 @@ Echols' consent order, combined with the dozens of complaints filed to local aut
 
 Plain as day, despite having both a mask mandate and capacity restrictions in place since the end of summer, the city of St. Louis saw a massive explosion in cases as October rolled around. The Science<sup>TM</sup> has no explanation for this, other than the pitiful excuse that people suddenly stopped complying with the mask mandate in early October. However, if we look at the mask data for St. Louis during this time, you will see that public mask compliance has remained exceptionally high, thwarting any attempted defense for the October surge. 
 
-![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080369/st_louis_missouri_mask_wearing.pdf)
+![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080558/st_louis_missouri_mask_wearing.pdf)
 
 Rather, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely with that of the United States as a whole.
 
