@@ -17,7 +17,7 @@ Echols' consent order, combined with the dozens of complaints filed to local aut
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, 
+Plain as day, despite having both a mask mandate and capacity restrictions in place since the end of summer, the city of St. Louis saw a massive explosion in cases as October rolled around. Without a doubt, proponents of mask mandates will claim, in all seriousness, that people just stopped complying with the mask mandate at the start of October. However, if we look at mask data for St. Louis during this time, you will see that public mask compliance has remained exceptionally high, thwarting any attempted defense for the October surge. 
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080299/st_louis_missouri_mask_wearing.pdf)
 
