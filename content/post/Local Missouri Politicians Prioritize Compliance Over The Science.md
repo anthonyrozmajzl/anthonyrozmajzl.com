@@ -12,27 +12,29 @@ Naturally, all eyes would remain on the Wheelhouse as the pandemic rolled in. Th
 
 Complaints of the bars' continued operation have continued into the new year, resulting in St. Louis' acting Director of Health Dr. Fredrick Echols' most ridiculous punishment to date: a [one-year closure](https://www.riverfronttimes.com/musicblog/2021/01/21/wheelhouse-start-bar-ordered-to-close-until-2022-for-covid-19-violations) of both The Wheelhouse and Start Bar unless the owners agree to a consent order that requires their businesses to purchase social distancing security officers, install additional video surveillance equipment that must be accessible to health inspeactors and city police on demand, and operate 33 percent capacity, which is more restrictive than other bars in the area. With financial destitution on the line for the owners and their employees&mdash;revenue has fallen 70% since the closure notice&mdash;the owners had no choice but to bend the knee to Echols' demands.
 
-## The Science<sup>TM</sup> vs. The Science
+## The Science<sup>TM</sup> vs. The Science In Missouri
 
 Echols' consent order, combined with the dozens of complaints filed to local authorities on behalf of private citizens, are perfectly emblematic of the national attitude toward covid-19 mandates: follow The Science<sup>TM</sup> or be punished. To follow The Science<sup>TM</sup> requires that you, without question, wear the mask, stand six feet apart, operate your business according to the guidelines handed down by your government officials, and refrain from discussing your loss of personal freedoms or the disatrous costs of such mandates. In stark contrast, actual scientific investigation of the data pertaining to the effectiveness of mask mandates, business closures, and operational capacity guidlines show that none of theses mandates played any role in keeping the citizens of St. Louis, Missouri and surrounding areas safe. We'll begin with the city of St. Louis.
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, despite having both a mask mandate and capacity restrictions in place since the end of summer, the city of St. Louis saw a massive explosion in cases as October rolled around. The Science<sup>TM</sup> has no explanation for this, other than the pitiful excuse that people suddenly stopped complying with the mask mandate in early October. However, if we look at the mask data for St. Louis during this time, you will see that public mask compliance has remained exceptionally high, thwarting any attempted defense for the October surge. 
+Plain as day, despite having both a mask mandate and capacity restrictions in place since the end of summer, the city of St. Louis saw a massive explosion in cases as October rolled around. The Science<sup>TM</sup> has no explanation for this aside from the fraudulent excuse that people suddenly stopped complying with the city's mask mandate in early October. However, if we look at the mask data for St. Louis during this time, you will see that public mask compliance has remained exceptionally high, thwarting the non-compliance excuse for the October surge. 
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080558/st_louis_missouri_mask_wearing.pdf)
 
-Rather, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely with that of the United States as a whole.
+Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
 
-The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, neither of which even the most pretentious of politicians claim can be manipulated. This research, combined with the trends depcited above, lends overwhelming support to the idea that the past year's worth of behavioral mandates were all for naught, and that Echols' shutdown of the Wheelhouse and Start Bar was nothing short of criminal behavior. 
+The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, neither of which even the most pretentious of politicians claim can be manipulated. This research, combined with the trends depcited above, lends overwhelming support to the idea that the past year's worth of behavioral mandates in St. Louis were all for naught, and that Echols' shutdown of the Wheelhouse and Start Bar was nothing short of criminal. 
 
-Moving away briefly from the city of St. Louis, we find even more data from surrounding areas highlighting the futility of the government's attempts to socially engineer covid-19 out of existence.
+Moving away briefly from the city of St. Louis, we find even more data from surrounding areas highlighting the futility of the government's attempts to socially engineer this respiratory virus out of existence.
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
 ![MO_Restaurant](https://user-images.githubusercontent.com/5093552/109894599-c68e1300-7c5b-11eb-8703-6042ebcce01a.PNG)
+
+## State and National Metrics Still Don't Vindicate The Science<sup>TM</sup>
 
 ## NOTES
 
