@@ -1,5 +1,6 @@
 
 
+# Local Missouri Politicians Prioritize Compliance Over The Science
 
 If the covid-19 pandemic has reminded us of one thing, it is how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that any good, rational citizens would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health; a science-denier fully deserving of legal punishment and public scorn.  
 
@@ -25,7 +26,7 @@ Instead, if we look at the covid-19 seasonality trend for the United States as a
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
 
-The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. [Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are actually very strongly correlated with temperature and latitude. Good luck finding even a politician who claims the ability to control the weather.
+The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are actually very strongly correlated with temperature and latitude, neither of which can be manipulated by even the most pretentious of politicians. This research, combined with the trends depcited above, lends overwhelming support to the idea that the past year's worth of behavioral mandates were all for naught and that Echols' shutdown of the Wheelhouse and Start Bar were nothing short of criminal. 
 
 Moving away briefly from the city of St. Louis, we find even more data from surrounding counties highlighting the futility of the government's attempts to socially engineer a respiratory virus out of existence.
 
