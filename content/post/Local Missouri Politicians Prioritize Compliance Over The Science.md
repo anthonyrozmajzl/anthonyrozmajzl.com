@@ -21,11 +21,13 @@ Plain as day, despite having both a mask mandate and capacity restrictions in pl
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080369/st_louis_missouri_mask_wearing.pdf)
 
-Instead, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited for the city of St. Louis matches almost perfectly with that of the United States as a whole.
+Instead, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited for the city of St. Louis matches quite nicely with that of the United States as a whole.
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
 
+The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. [Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are actually very strongly correlated with temperature and latitude. Good luck finding even a politician who claims the ability to control the weather.
 
+Moving away briefly from the city of St. Louis, we find even more data from surrounding counties highlighting the futility of the government's attempts to socially engineer a respiratory virus out of existence.
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
