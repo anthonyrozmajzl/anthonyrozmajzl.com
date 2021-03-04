@@ -1,4 +1,6 @@
 
+
+
 If the covid-19 pandemic has reminded us of one thing, it is how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that any good, rational citizens would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any individual or business that questions or defies forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health; a science-denier fully deserving of legal punishment and public scorn.  
 
 ## The Struggle of St. Louis' Most Prominent Venues
@@ -17,7 +19,7 @@ Echols' consent order, combined with the dozens of complaints filed to local aut
 
 Plain as day, 
 
-![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080284/st_louis_missouri_mask_wearing.pdf)
+![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080299/st_louis_missouri_mask_wearing.pdf)
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
