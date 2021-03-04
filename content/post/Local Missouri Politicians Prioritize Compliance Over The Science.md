@@ -11,9 +11,13 @@ Complaints of the bars' continued operation have continued into the new year, re
 
 ## The Science<\sup>TM<\sup> vs. The Science
 
-Echols' consent order, combined with the dozens of complaints filed to local authorities on behalf of private citizens, are perfectly emblematic of the national attitude toward covid-19 mandates: comply or face punishment. To follow The Science<\sup>TM<\sup> requires that you, without question, wear the mask, stand six feet apart, operate your business according to the guidelines handed down by your government officials, and avoid any dicussions about loss of personal freedoms or the costs of these mandates. In stark contrast, actual scientific investigation of the data pertaining to the effectiveness of mask mandates, business closures, and operational capacity guidlines show that none of the mandates kept the citizens of St. Louis, Missouri safe. 
+Echols' consent order, combined with the dozens of complaints filed to local authorities on behalf of private citizens, are perfectly emblematic of the national attitude toward covid-19 mandates: comply or face punishment. To follow The Science<\sup>TM<\sup> requires that you, without question, wear the mask, stand six feet apart, operate your business according to the guidelines handed down by your government officials, and avoid any dicussions about loss of personal freedoms or the costs of these mandates. In stark contrast, actual scientific investigation of the data pertaining to the effectiveness of mask mandates, business closures, and operational capacity guidlines show that none of theses mandates played any role in keeping the citizens of St. Louis, Missouri safe. Let's first take a look at the city of St. Louis.
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
+
+Plain as day, 
+
+![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080284/st_louis_missouri_mask_wearing.pdf)
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
