@@ -16,19 +16,19 @@ Echols' consent order, along with the dozens of complaints filed to local author
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate and stopped taking the virus seriosuly. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained above 90 percent.
+Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate when October began. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained above 90 percent.
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087851/st_louis_missouri_mask_wearing.pdf)
 
-Moreover, mobility and social distancing metrics&mdash;data provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) from January 1, 2020 through March 1, 2021&mdash;show no drastic behavioral changes at the start of October, which is denoted by the red line. 
+Maybe the citizens of St. Louis just all happened to stop taking the virus seriosuly as October rolled around. Well, not exactly. Mobility and social distancing metrics provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) show no drastic behavioral changes at the start of October, which is denoted by the red line. 
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picutre as to how much more seriously the citizens of St. Louis are taking this virus compared to the rest of the state. Despite their exemplary behavior, the citizens of St. Louis could not escape the October surge. In the chart below, Missouri's numbers appear in red.
+To put the non-compliance narrative to rest, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picutre as to how much more seriously the citizens of St. Louis are taking this virus compared to the rest of the state. As is shown below, despite their exemplary behavior relative to the rest of the state, the citizens of St. Louis could not escape the October surge. In the chart below, Missouri's numbers appear in red.
 
 ![St  Louis vs MO as a whole](https://user-images.githubusercontent.com/5093552/110154646-7bd2df00-7db2-11eb-86f9-a6927bedb7f0.png)
 
-Based on an actual investigation of the data, it is abundantly clear that the political leadership in St. Louis has made no meaningful impact on cases, but instead have needlessly shut down businesses and enforced punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions would be nothing short of criminal.
+Based on an actual investigation of the data, it is abundantly clear that the political leadership in St. Louis has made no meaningful impact on cases, but instead have needlessly shut down businesses and enforced punitive mandates under the guise of preserving "public health." For local authorities to simply get away with their castigatory  and scientifically unwarranted behavior would be nothing short of criminal.
 
 If Echols and his crew are still not convinced, maybe they can start looking at the data from surrounding counties to see that, yet again, there is no meaningful correlation between government mandates and case growth patterns.
 
