@@ -30,7 +30,7 @@ Finally, if you check [Google's Covid-19 mobility report](https://www.google.com
 
 Based on an actual investigation of the data, it is abundantly clear that the political leadership in St. Louis has made no meaningful impact on cases, but instead have needlessly shut down businesses and enforced punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions would be nothing short of criminal.
 
-If this data doesn't convince Echols and his crew, maybe they can start looking at the data from surrounding counties which show, yet again, no meaningful correlation between government mandates and case growth patterns.
+If Echols and his crew are still not convinced, maybe they can start looking at the data from surrounding counties to see that, yet again, there is no meaningful correlation between government mandates and case growth patterns.
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
