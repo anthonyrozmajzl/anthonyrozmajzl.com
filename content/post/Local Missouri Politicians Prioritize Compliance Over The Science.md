@@ -22,11 +22,11 @@ Plain as day, despite having both a mask mandate and capacity restrictions in pl
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080558/st_louis_missouri_mask_wearing.pdf)
 
-Moving away momentarily from the city of St. Louis, we find even more data from surrounding areas highlighting the futility of the government's attempts to mitigate the spread of covid-19.
+Turning our attention away momentarily from the city of St. Louis to surrounding areas, we find, yet again, no meaningful correlation between government mandates and case growth patterns
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
-For those keeping up with statewide and national trends, the above chart should hardly come as a surprise. 
+For those who have been closely following state and national trends, the above chart should hardly come as a surprise. 
 
 Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
 
