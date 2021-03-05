@@ -1,6 +1,6 @@
 
 
-# Local Missouri Politicians Prioritize Compliance Over The Science. There's No Data To Support Their Actions
+# Local Missouri Politicians Still Haven't Figured Out They Can't Slow the Spread of Covid-19
 
 The covid-19 pandemic should serve as a sober reminder for how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that any good, rational citizen would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any state, individual, or business that refuses to implement or adhere to forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health and a science-denier who is fully deserving of legal punishment and public scorn.  
 
