@@ -24,13 +24,13 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19.
+Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19, further dismantling the claim that St. Louis' numbers were due to non-compliance
 
 ![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
 
-By way of comparison, here are Missouri's results as a whole..
+By way of comparison, here are the results for Missouri as a whole.
 
-![missouri](https://user-images.githubusercontent.com/5093552/110152755-1da4fc80-7db0-11eb-8a01-94e8e6fe94e1.png)
+![missouri](https://user-images.githubusercontent.com/5093552/110152934-5cd34d80-7db0-11eb-8433-bde7e4857792.png)
 
 No matter how you want to slice the data, it is clear as day that the political leadership in St. Louis has made no meaningful impact on cases, but have thoroughly succeeded in unnecessarily shutting down businesses and enforcing punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions against the owners of Wheelhouse and their 100+ employess would be nothing short of criminal.
 
