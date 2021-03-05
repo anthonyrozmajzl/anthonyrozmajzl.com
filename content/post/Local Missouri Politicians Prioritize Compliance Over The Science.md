@@ -24,9 +24,11 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, [Google's Covid-19 mobility report] for the city of St. Louis, although spanning a narrower observation window, tells us that St. Louis residents are thoroughly beating the state average and surrounding counties when it comes to avoiding the behaviors that supposedly fuel the spread of covid-19. What more information does one need to conclude that the political leadership in St. Louis has made no meaningful impact on cases while unnecessarily shutting down businesses and enforcing punitive mandates in the name of preserving "public health"?
+Finally, [Google's Covid-19 mobility report] for the city of St. Louis, although spanning a narrower observation window, tells us that St. Louis residents are thoroughly beating the state average and surrounding counties when it comes to avoiding the behaviors that supposedly fuel the spread of covid-19. 
 
 ![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
+
+What more information does one need to conclude that the political leadership in St. Louis has made no meaningful impact on cases while unnecessarily shutting down businesses and enforcing punitive mandates in the name of preserving "public health"? To simply get away with this type of behavior would be nothing short of criminal.
 
 Turning our attention away momentarily from the city of St. Louis to surrounding areas, we find, yet again, no meaningful correlation between government mandates and case growth patterns
 
