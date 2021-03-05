@@ -24,7 +24,7 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, [Google's Covid-19 mobility report] for the city of St. Louis, although spanning a narrower observation window, tells us that St. Louis residents are thoroughly beating the state average and surrounding counties when it comes to avoiding the behaviors that supposedly fuel the spread of covid-19. 
+Finally, [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, although spanning a narrower observation window, tells us that St. Louis residents are thoroughly beating the state average and surrounding counties when it comes to avoiding the behaviors that supposedly fuel the spread of covid-19. 
 
 ![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
 
@@ -53,7 +53,7 @@ The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/cor
 
 To make things easier, why don't we just take a look at a number of midwestern states [roughly in the same climate region](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
 
-[Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
+![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
 ### Nationwide
 ![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
