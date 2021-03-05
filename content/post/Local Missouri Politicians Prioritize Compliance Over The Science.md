@@ -26,7 +26,7 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 Finally, [Google's Covid-19 mobility report] for the city of St. Louis, although spanning a narrower observation window, tells us that St. Louis residents are thoroughly beating the state average and surrounding counties when it comes to avoiding the behaviors that supposedly fuel the spread of covid-19. What more information does one need to conclude that the political leadership in St. Louis has made no meaningful impact on cases while unnecessarily shutting down businesses and enforcing punitive mandates in the name of preserving "public health"?
 
-![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110057779-2e615e00-7d2f-11eb-89c8-8be641e69883.png)
+![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
 
 Turning our attention away momentarily from the city of St. Louis to surrounding areas, we find, yet again, no meaningful correlation between government mandates and case growth patterns
 
