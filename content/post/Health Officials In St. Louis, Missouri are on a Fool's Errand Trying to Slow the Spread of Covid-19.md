@@ -24,7 +24,7 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picutre as to how much more seriously the citizens of St. Louis are taking this virus compared to the rest of the state. Numbers for the state of Missouri as a whole appear in red.
+Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picutre as to how much more seriously the citizens of St. Louis are taking this virus compared to the rest of the state. Numbers for Missouri as a whole appear in red.
 
 ![St  Louis vs MO as a whole](https://user-images.githubusercontent.com/5093552/110154646-7bd2df00-7db2-11eb-86f9-a6927bedb7f0.png)
 
