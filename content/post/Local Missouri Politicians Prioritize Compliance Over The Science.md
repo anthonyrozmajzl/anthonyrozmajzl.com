@@ -16,9 +16,15 @@ Echols' consent order, along with the dozens of complaints filed to local author
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate and stopped taking the virus seriosuly. However, mask and mobility data for St. Louis show that the public mask compliance has always remained exceptionally high, thwarting the non-compliance excuse for the October surge. 
+Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate and stopped taking the virus seriosuly. However, mask and mobility data for St. Louis show that public mask compliance has always remained exceptionally high while mobility metrics have remained largely unchanged, thwarting the non-compliance excuse for the October surge. 
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080558/st_louis_missouri_mask_wearing.pdf)
+![St Louis Mobility MD Report](https://user-images.githubusercontent.com/5093552/110057537-c448b900-7d2e-11eb-9cfd-b4761ed927da.png)
+
+Additionally, Google's Mobility report for the city of St. Louis, although spanning a narrower observation window, tells us that St. Louis residents are thoroughly beating the state average and surrounding counties when it comes to avoiding the behaviors that supposedly fuel the spread of covid-19.
+
+![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110057779-2e615e00-7d2f-11eb-89c8-8be641e69883.png)
+
 
 Turning our attention away momentarily from the city of St. Louis to surrounding areas, we find, yet again, no meaningful correlation between government mandates and case growth patterns
 
