@@ -28,7 +28,7 @@ Finally, if you check [Google's Covid-19 mobility report](https://www.google.com
 
 ![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
 
-Quite clearly, the political leadership in St. Louis has made no meaningful impact on cases, all while unnecessarily shutting down businesses and enforcing punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions against the owners of Wheelhouse and their 100+ employess, is nothing short of a criminal miscarriage of justice.
+Quite clearly, the political leadership in St. Louis has made no meaningful impact on cases, all while unnecessarily shutting down businesses and enforcing punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions against the owners of Wheelhouse and their 100+ employess, is nothing short of criminal activity.
 
 If this data doesn't convince Echols and his crew, maybe they can start looking at the data from surrounding areas which show, yet again, no meaningful correlation between government mandates and case growth patterns.
 
