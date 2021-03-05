@@ -36,6 +36,7 @@ If Echols and his crew are still not convinced, maybe they can start looking at 
 
 For those who have been closely following state and national trends, the above chart should hardly come as a surprise. Here we have three different counties with three very different levels of restrictions, yet they all follow nearly identical case growth patterns. In July, St. Louis County introduced a mask mandate and saw worse case growth in the following month than both Jefferson County and St. Charles County, neither of which had a mask mandate in place. Almost two months later, St. Louis County attempted an "enhanced" mask mandate that again did nothing to prevent the massive case spike in mid-October. In a last-breath effort near the end of November, St. Louis County proceeded to close indoor dining while Jefferson County introduced a mask mandate; St. Charles County continued to do nothing. Miraculously, all three counties saw their cases plummet at the exact same time despite three very different levels of mitigation strategies&mdash;the jump in cases around January 8 is likely due to [holiday reporting lag](https://pbs.twimg.com/media/EvlnPdDXEAAbeqT?format=jpg&name=large). Note how the blatant lack of restrictions in St. Charles County had absolutely no impact on the intensity of their case growth patterns relative to St. Charles and St. Louis County.
 
+![3 counties restuarant](https://user-images.githubusercontent.com/5093552/110173783-20621a80-7dcd-11eb-9f1d-ad86e904146f.png)
 
 
 
