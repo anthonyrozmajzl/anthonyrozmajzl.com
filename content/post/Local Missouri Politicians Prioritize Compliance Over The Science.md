@@ -20,7 +20,7 @@ Plain as day, despite having both a mask mandate and capacity restrictions in pl
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087851/st_louis_missouri_mask_wearing.pdf)
 
-Moreover, mobility and social distancing metrics&mdash;data provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) from January 1, 2020 through March 1, 2021&mdash;show drastic behavioral changes at the start of October, denoted by the red line. 
+Moreover, mobility and social distancing metrics&mdash;data provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) from January 1, 2020 through March 1, 2021&mdash;show no drastic behavioral changes at the start of October, which is denoted by the red line. 
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
