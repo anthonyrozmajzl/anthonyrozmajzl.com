@@ -18,7 +18,7 @@ Echols' consent order, along with the dozens of complaints filed to local author
 
 Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate and stopped taking the virus seriosuly. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained exceptionally high.
 
-!st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087851/st_louis_missouri_mask_wearing.pdf)
+![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087851/st_louis_missouri_mask_wearing.pdf)
 
 Moreover, mobility and social distancing metrics&mdash;data provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) from January 1, 2020 through March 1, 2021&mdash;show drastic behavioral changes at the start of October, denoted by the red line. 
 
