@@ -24,7 +24,7 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19, further dismantling the claim that St. Louis' numbers were due to non-compliance
+Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19, further dismantling the claim that St. Louis' October surge was the result of non-compliance.
 
 ![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
 
