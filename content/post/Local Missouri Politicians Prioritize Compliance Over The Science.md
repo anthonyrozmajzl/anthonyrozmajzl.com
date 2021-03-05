@@ -1,6 +1,6 @@
 
 
-# Local Missouri Politicians Prioritize Compliance Over The Science
+# Local Missouri Politicians Prioritize Compliance Over The Science. There's No Data To Support Their Actions
 
 The covid-19 pandemic should serve as a sober reminder for how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that any good, rational citizen would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any state, individual, or business that refuses to adhere to forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, a science-denier fully deserving of legal punishment and public scorn.  
 
@@ -50,10 +50,9 @@ To make things easier, why don't we just take a look at a number of midwestern s
 ### Nationwide
 ![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
   Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
-![ALL_US_STATES_CASE_PATTERNS]
+![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
 ![All_US_STATES_MASK_REQUIREMENTS](https://pbs.twimg.com/media/EvMDzT2VgAAN9gJ?format=jpg&name=large)
 
-<img width="676" alt="Screen Shot 2021-03-04 at 7 56 23 PM" src="https://user-images.githubusercontent.com/5093552/110051396-ca856800-7d23-11eb-8422-ae0cd55d7d87.png">
 
 
 ### International
