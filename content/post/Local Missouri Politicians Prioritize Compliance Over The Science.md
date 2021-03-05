@@ -2,7 +2,7 @@
 
 # Local Missouri Politicians Prioritize Compliance Over The Science
 
-The covid-19 pandemic should serve as a sober reminder for how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that any good, rational citizen would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any state, individual, or business that refuses to adhere to forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, a science-denying ["neanderthal"](https://apple.news/AFIRA-QvPSFSM2s1Nsyox2A) fully deserving of legal punishment and public scorn.  
+The covid-19 pandemic should serve as a sober reminder for how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year framing the argument for various behavioral controls such as mask mandates and business closures as the scientifically validated and morally upright position that any good, rational citizen would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any state, individual, or business that refuses to adhere to forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto an enemy of public health, a science-denier fully deserving of legal punishment and public scorn.  
 
 ## The Struggle of St. Louis' Most Prominent Venues
 
@@ -38,9 +38,26 @@ The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/cor
 
 ![MO_Restaurant](https://user-images.githubusercontent.com/5093552/109894599-c68e1300-7c5b-11eb-8703-6042ebcce01a.PNG)
 
-## State and National Metrics Still Don't Vindicate The Mainstream Narrative
+## State, National, and Worldwide Metrics Still Don't Vindicate Covid-19 Restrictions
 
-![Missouri_vs_Illinois]https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large
+![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
+![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
+
+To make things easier, why don't we just take a look at a number of midwestern states [roughly in the same climate region](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
+
+[Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
+
+### Nationwide
+![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
+  Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
+![ALL_US_STATES_CASE_PATTERNS]
+![All_US_STATES_MASK_REQUIREMENTS](https://pbs.twimg.com/media/EvMDzT2VgAAN9gJ?format=jpg&name=large)
+
+<img width="676" alt="Screen Shot 2021-03-04 at 7 56 23 PM" src="https://user-images.githubusercontent.com/5093552/110051396-ca856800-7d23-11eb-8422-ae0cd55d7d87.png">
+
+
+### International
+![US_vs_Czech](https://pbs.twimg.com/media/EvnHVsxWgAMcJ1Q?format=jpg&name=medium)
 
 ## NOTES
 
@@ -50,7 +67,7 @@ spent the majority of 2020 unleashing a successful campaign of [mass hysteria](h
 
 Private citizens, now emboldened by their establishment-backed narrative that compliance with behavioral mandates is the selfless and scientifically prudent path to defeating covid, find it their duty to publicly berate non-mask-wearers and rat out non-compiant businesses, convincing others that both as menaces to society. As a result, many individuals and private businesses, whether to avoid shutdowns, heated public confrontations, or deter fines, are forced to reluctantly fall in line with government mandates.
 
-While  states such as Texas and Mississippi are making phenomenal progress in [rolling back covid-19 mandates](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329) and returning basic freedoms to their citizens, Andrew Cuomo [recently anounced](https://nypost.com/2021/03/02/new-yorkers-must-flash-covid-19-passport-to-enter-venues-under-new-program/) a new pilot program that would require New Yorkers to show a covid-19 passport before entering certain venues. 
+While ["neanderthal"](https://apple.news/AFIRA-QvPSFSM2s1Nsyox2A) states such as Texas and Mississippi (now Connecticut, a democratic state.....gonna be called a neanderthal?) are making phenomenal progress in [rolling back covid-19 mandates](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329) and returning basic freedoms to their citizens, Andrew Cuomo [recently anounced](https://nypost.com/2021/03/02/new-yorkers-must-flash-covid-19-passport-to-enter-venues-under-new-program/) a new pilot program that would require New Yorkers to show a covid-19 passport before entering certain venues. 
 
 
 decentralized the government's role of enforcing covid-19 mandates. 
