@@ -24,15 +24,11 @@ Moreover, mobility and social distancing metrics&mdash;data provided by the [Uni
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19, further dismantling the claim that St. Louis' October surge was the result of non-compliance.
+Finally, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing the state as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picutre as to how much more seriously the citizens of St. Louis are taking this virus compared to the rest of the state. Numbers for the state of Missouri as a whole appear in red.
 
-![St Louis Google Mobility](https://user-images.githubusercontent.com/5093552/110060701-51424100-7d34-11eb-9678-3050b774211c.png)
+![St  Louis vs MO as a whole](https://user-images.githubusercontent.com/5093552/110154646-7bd2df00-7db2-11eb-86f9-a6927bedb7f0.png)
 
-By way of comparison, here are the results for Missouri as a whole.
-
-![missouri](https://user-images.githubusercontent.com/5093552/110152934-5cd34d80-7db0-11eb-8433-bde7e4857792.png)
-
-No matter how you want to slice the data, it is clear as day that the political leadership in St. Louis has made no meaningful impact on cases, but have thoroughly succeeded in unnecessarily shutting down businesses and enforcing punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions against the owners of Wheelhouse and their 100+ employess would be nothing short of criminal.
+Based on an actual investigation of the data, it is abundantly clear that the political leadership in St. Louis has made no meaningful impact on cases, but instead have needlessly shut down businesses and enforced punitive mandates under the guise of preserving "public health." For local authorities to simply get away with these castigatory punishments and scientifically unwarranted restrictions would be nothing short of criminal.
 
 If this data doesn't convince Echols and his crew, maybe they can start looking at the data from surrounding counties which show, yet again, no meaningful correlation between government mandates and case growth patterns.
 
