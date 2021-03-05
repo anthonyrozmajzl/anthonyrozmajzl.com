@@ -16,7 +16,7 @@ Echols' consent order, along with the dozens of complaints filed to local author
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, people will drum up the fraudulent excuse that people suddenly stopped complying and refused to take the mask mandate seriously. However, mask data for St. Louis shows that public mask compliance has always remained exceptionally high, thwarting the non-compliance excuse for the October surge. 
+Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate and stopped taking the virus seriosuly. However, mask and mobility data for St. Louis show that the public mask compliance has always remained exceptionally high, thwarting the non-compliance excuse for the October surge. 
 
 ![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6080558/st_louis_missouri_mask_wearing.pdf)
 
