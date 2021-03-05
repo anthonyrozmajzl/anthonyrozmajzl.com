@@ -26,7 +26,7 @@ Turning our attention away momentarily from the city of St. Louis to surrounding
 
 ![StLouisMetro](https://user-images.githubusercontent.com/5093552/109894589-c261f580-7c5b-11eb-90d5-d34df89ee894.jpeg)
 
-For those who have been closely following state and national trends, the above chart should hardly come as a surprise. Here we have three different counties with three very different levels of restrictions, yet they all follow nearly identical case patterns. In July, St. Louis County introduced a mask mandate and saw worse case growth in the following month than both Jefferson County and St. Charles County, neither of which had a mask mandate in place. Almost two months later, St. Louis County attempted an "enhanced" mask mandate that did nothing to prevent the massive case spike in mid-October. St. Louis County then closed indoor dining while Jefferson County introduced a mask mandate and St. Charles County continued to do nothing. Miraculously, all three counties saw their cases plummet despite three very different strategies.
+For those who have been closely following state and national trends, the above chart should hardly come as a surprise. Here we have three different counties with three very different levels of restrictions, yet they all follow nearly identical case patterns. In July, St. Louis County introduced a mask mandate and saw worse case growth in the following month than both Jefferson County and St. Charles County, neither of which had a mask mandate in place. Almost two months later, St. Louis County attempted an "enhanced" mask mandate that did nothing to prevent the massive case spike in mid-October. St. Louis County then closed indoor dining while Jefferson County introduced a mask mandate and St. Charles County continued to do nothing. Miraculously, all three counties saw their cases plummet despite three very different strategies&mdash;the jump in cases around June 8 is likely due to [holiday reporting lag](https://pbs.twimg.com/media/EvlnPdDXEAAbeqT?format=jpg&name=large)
 
 Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
 
@@ -38,7 +38,9 @@ The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/cor
 
 ![MO_Restaurant](https://user-images.githubusercontent.com/5093552/109894599-c68e1300-7c5b-11eb-8703-6042ebcce01a.PNG)
 
-## State and National Metrics Still Don't Vindicate The Science<sup>TM</sup>
+## State and National Metrics Still Don't Vindicate The Mainstream Narrative
+
+![Missouri_vs_Illinois]https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large
 
 ## NOTES
 
