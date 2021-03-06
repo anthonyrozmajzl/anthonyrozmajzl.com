@@ -42,7 +42,11 @@ Moreover, the wildly different levels of mask compliance across these three coun
 
 While there seems to be a happy correlation between peak case count and mask usage, there is no good explanation as to why St. Louis County, the most restricted of the three counties with the highest level of mask compliance, had worse numbers than St. Charles County, the land of no restrictions, from mid-January through the end of February. Even more, why didn't St. Charles and Jefferson Counties, each with far worse levels of mask compliance through October than St. Louis County, experience practically identical case growth rate patterns? If the science professed to us by our health experts in the government were true, how can either of the scenarios be explained? They simply can't.
 
-![StLouisRestaurant](https://user-images.githubusercontent.com/5093552/110191138-e99ffa80-7df4-11eb-8cd0-cb226cb675a7.PNG)
+Another telling compliance trend would be the number of restaurant visits for each of these three counties.  
+
+![image](https://user-images.githubusercontent.com/5093552/110211750-0b859580-7e66-11eb-9419-cb11ff09bbbc.PNG)
+
+From April through July, Jefferson and St. Charles Counties were far more active in the restaurant scene than St. Louis County
 
 
 Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
