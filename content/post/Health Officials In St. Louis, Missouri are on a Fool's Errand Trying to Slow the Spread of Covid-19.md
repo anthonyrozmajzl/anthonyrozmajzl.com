@@ -60,6 +60,8 @@ The claim that government intervention has done anything to slow the spread of c
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
 
+To no surprise, Missouri and Illinois experienced almost identical case patterns despite drastically varying levels of intervention. Illinois even had a higher peak and is still underperforming Missouri
+
 ![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
 ![Iowa vs Midwestern](https://pbs.twimg.com/media/Evuxs9NXIAU6iww?format=jpg&name=medium)
   - Iowa doesn't care if you live or die (https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/)
