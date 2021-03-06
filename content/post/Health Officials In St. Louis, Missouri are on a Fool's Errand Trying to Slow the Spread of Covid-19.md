@@ -16,9 +16,8 @@ Echols' consent order, along with the dozens of complaints filed to local author
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate when October began. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained above 90 percent.
+Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October. Invairably, the above chart will drum up the fraudulent excuse that people suddenly refuesd to comply with the mask mandate when October began. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained [above 90 percent since September](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=29510).
 
-![st_louis_missouri_mask_wearing.pdf](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087851/st_louis_missouri_mask_wearing.pdf)
 
 Maybe the citizens of St. Louis just all happened to stop taking the virus seriosuly as October rolled around. Well, not exactly. Mobility and social distancing metrics provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) show no drastic behavioral changes at the start of October, which is denoted by the red line. 
 
