@@ -54,6 +54,8 @@ The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/cor
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
 ![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
+![Iowa vs Midwestern](https://pbs.twimg.com/media/Evuxs9NXIAU6iww?format=jpg&name=medium)
+  - Iowa doesn't care if you live or die (https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/)
 
 To make things easier, why don't we just take a look at a number of midwestern states [roughly in the same climate region](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
 
@@ -63,6 +65,7 @@ To make things easier, why don't we just take a look at a number of midwestern s
 ![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
   Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
 ![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
+![US MASK USE VS CASE COUNTS](https://pbs.twimg.com/media/EvuxH3fXMAgU1yV?format=jpg&name=large)
 ![All_US_STATES_MASK_REQUIREMENTS](https://pbs.twimg.com/media/EvMDzT2VgAAN9gJ?format=jpg&name=large)
 
 
@@ -70,6 +73,7 @@ To make things easier, why don't we just take a look at a number of midwestern s
 ### International
 ![US_vs_Czech](https://pbs.twimg.com/media/EvnHVsxWgAMcJ1Q?format=jpg&name=medium)
 ![Sweden vs LA](https://pbs.twimg.com/media/EuZhMGGXAAAR_0Y?format=jpg&name=large)
+![Germany vs USA](https://pbs.twimg.com/media/EvvHfTCVkAEAMxA?format=jpg&name=4096x4096)
 
 ## NOTES
 
@@ -80,6 +84,10 @@ spent the majority of 2020 unleashing a successful campaign of [mass hysteria](h
 Private citizens, now emboldened by their establishment-backed narrative that compliance with behavioral mandates is the selfless and scientifically prudent path to defeating covid, find it their duty to publicly berate non-mask-wearers and rat out non-compiant businesses, convincing others that both as menaces to society. As a result, many individuals and private businesses, whether to avoid shutdowns, heated public confrontations, or deter fines, are forced to reluctantly fall in line with government mandates.
 
 While ["neanderthal"](https://apple.news/AFIRA-QvPSFSM2s1Nsyox2A) states such as Texas and Mississippi (now Connecticut, a democratic state.....gonna be called a neanderthal?) are making phenomenal progress in [rolling back covid-19 mandates](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329) and returning basic freedoms to their citizens, Andrew Cuomo [recently anounced](https://nypost.com/2021/03/02/new-yorkers-must-flash-covid-19-passport-to-enter-venues-under-new-program/) a new pilot program that would require New Yorkers to show a covid-19 passport before entering certain venues. 
+
+Newsome [easing restrictions](https://twitter.com/JordanSchachtel/status/1367926978733555716?s=20) amid recall pressure almost immediately after referring to Texas' decision to reopen as reckless.
+
+
 
 
 decentralized the government's role of enforcing covid-19 mandates. 
