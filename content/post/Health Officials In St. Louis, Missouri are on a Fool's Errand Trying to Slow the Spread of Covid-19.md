@@ -48,14 +48,11 @@ Right off the bat, from April through July, Jefferson and St. Charles Counties w
 
 It is plain as day that neither the level of restaurant activity, mask compliance, nor the number of covid-19 regulations put in place had any bearing on case growth rates in any of these areas. Echols' punitive consent order levied against the owners of The Wheelhouse, Start Bar, and the Midwestern, along with their 100+ employees, was the result of either a gross misunderstanding of basic summary statistics, or a criminal campaign against those who didn't reflexively bow down to their superiors in the government. Echols and other health officials must be held accountable for the unnecessary damage they've inflicted on their constituents.
 
-Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
+Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the cases patterns depcited above match quite nicely.
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
 
 The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, neither of which even the most pretentious of politicians claim can be manipulated. This research, combined with the trends depcited above, lends overwhelming support to the idea that the past year's worth of behavioral mandates in St. Louis were all for naught, meaning that Echols' shutdown of the Wheelhouse and Start Bar was not only completely unscientfic, but nothing short of criminal. 
-
-
-
 
 
 ## State, National, and Worldwide Metrics Still Don't Vindicate Covid-19 Restrictions
