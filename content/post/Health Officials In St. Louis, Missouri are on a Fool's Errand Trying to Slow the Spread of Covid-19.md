@@ -56,9 +56,10 @@ The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/cor
 
 ## State, National, and Worldwide Metrics Further Implicate Echols' Punitive Actions
 
-The claim that government intervention has done anything to slow the spread of covid-19 in the city of St. Louis and surrounding areas has no scientific backing whatsoever. This claim becomes even more dubious if we look at similar metrics from Missouri's neighboring states, or at least those with similar climates. For example, here 
+The claim that government intervention has done anything to slow the spread of covid-19 in the city of St. Louis and surrounding areas has no scientific backing whatsoever. This claim becomes even more dubious if we look at similar metrics from Missouri's neighboring states, or at least those with [similar climates](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096). For example, here are the population-adjusted case trends for Missouri and Illinois, the latter being a far more restricted state.
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
+
 ![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
 ![Iowa vs Midwestern](https://pbs.twimg.com/media/Evuxs9NXIAU6iww?format=jpg&name=medium)
   - Iowa doesn't care if you live or die (https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/)
