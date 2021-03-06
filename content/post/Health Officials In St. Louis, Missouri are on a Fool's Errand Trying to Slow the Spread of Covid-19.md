@@ -60,7 +60,7 @@ The claim that government intervention has done anything to slow the spread of c
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
 
-To no surprise, Missouri and Illinois experienced almost identical case patterns despite drastically varying levels of intervention. Illinois even had a higher peak and is still underperforming Missouri
+The establishment-approved narrative has no explanation for why Missouri and Illinois experienced almost identical case growth patterns despite drastically varying levels of intervention. Illinois even had a higher peak case count and is underperforming Missouri to this day. 
 
 ![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
 ![Iowa vs Midwestern](https://pbs.twimg.com/media/Evuxs9NXIAU6iww?format=jpg&name=medium)
@@ -85,6 +85,10 @@ To make things easier, why don't we just take a look at a number of midwestern s
 
 ## NOTES
 
+Years from now, nobody will recognize the government's response to the covid-19 pandemic as anything other than the greatest public health failure in human history. None of the recommendations from our political leaders and health experts about how to beat this pandemic have worked, and we have an entire year's worth of data on a local, statewide, national, and international scale to prove it. The return to normal life is promising, however. ["Neanderthal"](https://apple.news/AFIRA-QvPSFSM2s1Nsyox2A) states like [Texas](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329) and [Missisippi](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329), along with [West Viriginia](https://www.wpxi.com/news/top-stories/west-virginia-is-lifting-restrictions-opening-businesses-full-capacity/PCAECM3WOZHZHKUWKV2ZGYMKRA/), [Arizona](https://www.dailywire.com/news/arizonas-governor-lifts-restrictions-on-businesses-that-limit-capacity), and [Connecticut](https://www.forbes.com/sites/alisondurkee/2021/03/04/connecticut-lifting-all-covid-19-capacity-restrictions-on-businesses-including-restaurants-and-gyms/?sh=42fec94115e9), are beginning to let business operate a full capacity. Even Governor Newsom, albeit under pressure of recall, is [announcing plans](https://deadline.com/2021/03/newsom-announces-plan-to-loosen-californias-lockdown-requirements-amid-recall-pressure-1234706693/) to ease restrictions. Most surprisingly, the Washington Post [recently published an article](https://www.wsj.com/articles/vindication-for-ron-desantis-11614986751) saying that Ron DeSantis of Florida can claim vindication given his success relative to California and New York. 
+
+While some states are starting on the right path towards normalcy, the vast majority have a long way to go. For most people, until their governor, an official in the Biden administartion, or some doctor in a white coat appears on national television granting them the ability to resume a life free from masks and social distancing guidelines, they will continue to believe ##### themseleves adminstration or somebody in a white coat appears on national television telling us we no longer need to wear mas and social
+
 This new version of public health has brushed aside basic freedoms and completed ignored any and all data showing the utter futility of the past year's worth of behavioral mandates in favor of the feeling of safety that comes with living in a culture of unquestioned compliance to the powers that be.
 
 spent the majority of 2020 unleashing a successful campaign of [mass hysteria](https://www.mdpi.com/1660-4601/18/4/1376/htm?fbclid=IwAR3hKqZ614zBr9zHXBOuaxTA8Z0Dt9Hb-TxObCY3qdpCJFuqh_Mmh3jCdtQ) and continue to berate the public with pithy slogans like "Wear a mask, slow the spread", and 
@@ -93,11 +97,6 @@ Private citizens, now emboldened by their establishment-backed narrative that co
 
 While ["neanderthal"](https://apple.news/AFIRA-QvPSFSM2s1Nsyox2A) states such as Texas and Mississippi (now Connecticut, a democratic state.....gonna be called a neanderthal?) are making phenomenal progress in [rolling back covid-19 mandates](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329) and returning basic freedoms to their citizens, Andrew Cuomo [recently anounced](https://nypost.com/2021/03/02/new-yorkers-must-flash-covid-19-passport-to-enter-venues-under-new-program/) a new pilot program that would require New Yorkers to show a covid-19 passport before entering certain venues. 
 
-Newsome [easing restrictions](https://twitter.com/JordanSchachtel/status/1367926978733555716?s=20) amid recall pressure almost immediately after referring to Texas' decision to reopen as reckless.
 
 
 
-
-decentralized the government's role of enforcing covid-19 mandates. 
-
-Years from now, nobody will be able to refute the fact that the government's response to the covid-19 pandemic as some of the greatest public health failures in human history. Not that this shouldn't have been expected; Not only was this one of the greatest failures from a public health standpoint, but just about every little freedom we once took for granted&mdash; going to work, running businesses, visiting family and friends, .....The speed with which politicians and public health experts subdued the social behaviors of states and countries around the world is astonishing. How quickly we went from fiteen days to slow the spread
