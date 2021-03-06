@@ -38,6 +38,8 @@ For those who have been closely following state and national trends, the above c
 
 ![3 counties restuarant](https://user-images.githubusercontent.com/5093552/110173783-20621a80-7dcd-11eb-9f1d-ad86e904146f.png)
 
+![3 counties mask compliance](https://ton.twitter.com/1.1/ton/data/dm/1367940089003802629/1367940079126188032/b6ScKRYd.png:medium)
+
 
 
 Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
