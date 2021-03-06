@@ -46,7 +46,9 @@ Another telling compliance trend would be the number of restaurant visits for ea
 
 ![image](https://user-images.githubusercontent.com/5093552/110211750-0b859580-7e66-11eb-9419-cb11ff09bbbc.PNG)
 
-From April through July, Jefferson and St. Charles Counties were far more active in the restaurant scene than St. Louis County
+Right off the bat, from April through July, Jefferson and St. Charles Counties were far more active in the restaurant scene than St. Louis County, but St. Louis County had consistently higher cases per million during this time. The second point that immediately stands out is that despite no drastic changes in the number of restaurant visits immediately prior to and during October, all three counties still fell prey to the massive October surge. Lastly, you can see the drastic impact that St. Louis County's mid-November indoor dining closure had on their restaurant business, causing the number of restaurant visist to plummet. It would seem that all this business was displaced in favor of Jefferson and St. Charles Countiy, both of which had economies far more conducive to the restaurant industry. Most importantly, the uptick in restaurant visits in St. Charles and Jefferson County had no effect on their case growth rates relative to St. Louis County. In fact, as restaurant visits increased, Jefferson and St. Charles County continue to see cases plummet. 
+
+It is plain as day that the level of restaurant activity had no bearing on case growth rates in these areas. This shows that Echols' punitive consent order levied against the owners of The Wheelhouse, Start Bar, and the Midwestern, along with their 100+ employees, was the result of either a gross misunderstanding of basic summary statistics, or a criminal campaign against those who didn't reflexively bend their knee to their superiors in the government.
 
 
 Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the case pattern depcited above for the city of St. Louis matches quite nicely.
