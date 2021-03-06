@@ -52,10 +52,11 @@ Interestingly, if we look at the covid-19 seasonality trend for the United State
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
 
-The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, neither of which even the most pretentious of politicians claim can be manipulated. This research, combined with the trends depcited above, lends overwhelming support to the idea that the past year's worth of behavioral mandates in St. Louis were all for naught, meaning that Echols' shutdown of the Wheelhouse and Start Bar was not only completely unscientfic, but nothing short of criminal. 
-
+The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, neither of which even the most pretentious of politicians claim the ability to manipulate. This research, combined with the trends depcited above, lends further support to the idea that the past year's worth of behavioral mandates in St. Louis and surrounding area's were all for naught. 
 
 ## State, National, and Worldwide Metrics Still Don't Vindicate Covid-19 Restrictions
+
+The claim that government intervention has done anything to slow the spread of covid-19 becomes even more dubious if we look Missouri's neighboring states, or at least those with similar climates. Take, for example, the 
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
 ![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
