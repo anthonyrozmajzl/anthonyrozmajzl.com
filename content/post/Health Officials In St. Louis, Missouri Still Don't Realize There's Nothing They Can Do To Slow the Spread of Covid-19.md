@@ -60,7 +60,7 @@ The claim that government intervention has done anything to slow the spread of c
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
 
-The establishment-approved narrative has no explanation for why Missouri and Illinois experienced almost identical case growth patterns despite drastically varying levels of intervention. Illinois even had a higher peak case count and is underperforming Missouri to this day. 
+The establishment-approved narrative has no explanation for why Missouri and Illinois experienced almost identical case growth patterns despite drastically varying levels of intervention. Illinois even had a higher peak case count and is still underperforming Missouri. 
 
 ![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
 ![Iowa vs Midwestern](https://pbs.twimg.com/media/Evuxs9NXIAU6iww?format=jpg&name=medium)
@@ -71,6 +71,8 @@ To make things easier, why don't we just take a look at a number of midwestern s
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
 ### Nationwide
+![Age_Adjusted Mortality](https://pbs.twimg.com/media/Ev5UvjMXYAIwpqj?format=png&name=900x900)
+
 ![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
   Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
 ![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
