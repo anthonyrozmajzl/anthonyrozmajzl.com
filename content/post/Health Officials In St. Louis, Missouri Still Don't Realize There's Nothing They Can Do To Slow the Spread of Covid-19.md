@@ -51,7 +51,7 @@ It is plain as day that neither the level of restaurant activity, mask complianc
 Interestingly, if we look at the covid-19 seasonality trend for the United States as a whole, which combines both tropical and temperate climates, we find that the cases patterns depcited above match quite nicely.
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
-![US Seasonality 2](https://pbs.twimg.com/media/Ev91WYGXAAAbWog?format=jpg&name=large)
+
 
 The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. Moreover, [research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, neither of which even the most pretentious of politicians claim the ability to manipulate. This research, combined with the trends depcited above, lends further support to the idea that the past year's worth of behavioral mandates in St. Louis and surrounding area's were all for naught. 
 
