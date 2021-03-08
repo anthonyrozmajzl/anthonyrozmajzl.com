@@ -50,14 +50,11 @@ It is plain as day that neither the level of restaurant activity, mask complianc
 
 #####VDEIO CLIP WITH WOMAN ABOUT ST CHARLES COUNTY>>>>>>GROUP CHAT
 
-
-
-What these politicians are sure to leave out is any discussion around seasonality being a driving factor behind the spread of covid-19. [Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, both of which even the most pretentious of politicians wouldn't claim the ability to manipulate. If you take a look at the covid-19 seasonality trends for the United States as a whole, which takes into account both tropical and temperate climates, you will quickly find that the cases patterns depcited below match quite nicely with those depicted above.
+What these politicians are sure to leave out is any discussion around seasonality being a driving factor behind the spread of covid-19. [Research](https://medicalxpress.com/news/2021-01-global-analysis-covid-seasonal.html) published in Evolutionary Bioinformatics shows that case counts and mortality rates are very strongly correlated with temperature and latitude, both of which even the most pretentious of politicians wouldn't claim the ability to manipulate. If you look at the covid-19 seasonality trends for the United States as a whole, which take into account both tropical and temperate climates, you will quickly find that the cases patterns depcited below match quite nicely with the case patterns for the city of St. Louis and surrounding counties shown above.
 
 ![US_Seasonality](https://pbs.twimg.com/media/EvlnbMPXAAIXJOM?format=jpg&name=large)
 
-
-The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates.  This research, combined with the trends depcited above, lends further support to the idea that the past year's worth of behavioral mandates in St. Louis and surrounding area's were all for naught. 
+The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) shown above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. But, for the officials who aided in the needless ruin of economies and brought social life to a depressing standstill for the better part of a year, seasonality cannot, *must* not, be the explanation. It would mean that the past year's worth of behavioral mandates and mindless economic destruction were all for naught.
 
 ## State, National, and Worldwide Metrics Further Implicate Echols' Punitive Actions
 
