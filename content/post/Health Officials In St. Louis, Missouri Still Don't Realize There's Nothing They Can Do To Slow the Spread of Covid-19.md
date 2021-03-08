@@ -78,7 +78,7 @@ To make things easier, why don't we just take a look at a number of midwestern s
   Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
 ![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
 ![US MASK USE VS CASE COUNTS](https://pbs.twimg.com/media/EvuxH3fXMAgU1yV?format=jpg&name=large)
-![US MASK STATES VS NO MASK STATES])https://pbs.twimg.com/media/EvvPoA1WEAIbTxC?format=jpg&name=900x900)
+![US MASK STATES VS NO MASK STATES](https://pbs.twimg.com/media/EvvPoA1WEAIbTxC?format=jpg&name=900x900)
 
 
 ### International
