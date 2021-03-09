@@ -110,7 +110,7 @@ The return to normal life is promising, however. ["Neanderthal"](https://apple.n
 
 While many states are on the proper path towards normalcy, the vast majority have a long way to go. As is the case with the owners of The Wheelhouse, even if governors lift mask mandates or social distancing guidelines, local authorities can still be a major roadblack on the path towards normal life. And for most individuals, until their governor, mayor, an official in the Biden administartion, or some doctor in a white coat appears on television granting them the ability to resume a life free from masks and social distancing guidelines, they will continue to cling to their safety blanket of social regulations that have had no meaningful impact on the spread of coivd-19. 
 
-In the meantime, we remember those states, cities, and towns that preserved individual liberties and refused to ruin the livelihoods of thousands; we can continue to promulgate the overwhelming amount of data at our disposal which lay the mainstream covid-19 narrative to rest; and we must become emboldened to never again relinquish our most basic freedoms so quickly and so peaceably whenever the ruling elite invoke public health.
+In the meantime, we can remember and take our business those states, cities, and towns that preserved individual liberties and refused to ruin the livelihoods of thousands; we can continue to promulgate the overwhelming amount of data at our disposal which lay the mainstream covid-19 narrative to rest; and we must become emboldened to never again relinquish our most basic freedoms so quickly and so peaceably whenever the ruling elite invoke public health.
 
 
 
