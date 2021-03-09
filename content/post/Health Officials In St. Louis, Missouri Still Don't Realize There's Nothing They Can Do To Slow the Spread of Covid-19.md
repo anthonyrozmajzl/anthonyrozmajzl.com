@@ -56,7 +56,7 @@ What these politicians are sure to leave out is any discussion around seasonalit
 
 The [Hope-Simpson seasonality model for influenze](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) shown above has actually been quite accurate in mapping covid-19 trends to tropical and temperate climates. But, for the officials who aided in the needless ruin of economies and brought social life to a depressing standstill for the better part of a year, seasonality cannot, *must* not, be the explanation. It would mean that the past year's worth of behavioral mandates and mindless economic destruction were all for naught.
 
-## State, National, and Worldwide Metrics Further Implicate Echols' Punitive Actions
+## State and National Metrics Further Implicate Echols' Punitive Actions
 
 The claim that government intervention has done anything to slow the spread of covid-19 in the city of St. Louis and surrounding areas has no scientific backing whatsoever. This claim becomes even more dubious if we look at similar metrics from Missouri's neighboring states, or at least those with [similar climates](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096). To start off, here are the population-adjusted case trends for neighbors Missouri and Illinois, the latter being the far more restricted state.
 
@@ -80,12 +80,12 @@ A second area we find absolutely no correlation is between the intensity of a st
 
 ![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
 
-Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> 
+Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> of 0.005 very clearly indicates that state and local governments are only wasting money and destroying livelihoods by continuing to keep their people economically and socially depressed.
 
-![Age_Adjusted Mortality](https://pbs.twimg.com/media/Ev5UvjMXYAIwpqj?format=png&name=900x900)
+Even more, new deaths, new cases, and new hopsitalizations have also been plummeting since January despite [scary warnings](https://pbs.twimg.com/media/Ev4tT5AWgA8GQtg?format=jpg&name=large) of new variants and the Superbowl Superspreader
 
-![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
-  Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
+![US Metrics](https://user-images.githubusercontent.com/5093552/110402091-c3729880-8048-11eb-937f-c712257a3edd.png)
+
 
 ![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
 
