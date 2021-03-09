@@ -50,7 +50,7 @@ Additionally, the wildly different levels of mask compliance across these three 
 
 While there seems to be a happy correlation between peak case count and mask usage, there is no good explanation as to why St. Louis County, the most restricted of the three counties with the highest level of mask compliance, had worse numbers than St. Charles County, the land of no restrictions, from mid-January through the end of February. Even more, why did St. Charles and Jefferson Counties, each with far worse levels of mask compliance through October, experience practically identical case growth patterns relative to St. Louis County? If the science professed to us by our health experts were true, then there is no good explanation for either of these trends.
 
-Moreover, it would appear that reaturant visits are another useless predictor of covid-19 case patterns.
+Moreover, it would appear that restaurant visits are another useless predictor of covid-19 case patterns.
 
 ![image](https://user-images.githubusercontent.com/5093552/110211750-0b859580-7e66-11eb-9419-cb11ff09bbbc.PNG)
 
