@@ -1,4 +1,14 @@
-
++++
+author = "Anthony Rozmajzl"
+categories = ["Covid-19", "Coronavirus", "social distancing", "mask mandates", "St. Louis", "Missouiri", "MO", "Wheelhouse", "Failure", "St. Louis County", "Jefferson County", "St. Charles County"]
+date = 2021-03-08T17:39:33Z
+description = ""
+draft = false
+feature = "/images/graph.jpg"
+slug = "Health Officials in St. Louis Can't Control Spread"
+tags = ["Covid-19", "Coronavirus", "social distancing", "mask mandates", "St. Louis", "Missouiri", "MO", "Wheelhouse", "Failure", "St. Louis County", "Jefferson County", "St. Charles County"]
+title = "Health Officials In St. Louis, Missouri Still Don't Realize There's Nothing They Can Do To Slow the Spread of Covid-19"
++++
 
 # Health Officials In St. Louis, Missouri Still Don't Realize There's Nothing They Can Do To Slow the Spread of Covid-19
 
