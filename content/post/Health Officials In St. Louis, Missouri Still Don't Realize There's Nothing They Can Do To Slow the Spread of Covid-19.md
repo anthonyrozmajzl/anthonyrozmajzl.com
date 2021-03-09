@@ -78,7 +78,7 @@ Now, if you really want to see your "science-following" friends grasping at stra
 
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
-This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced nearly identical growth patterns. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the midwestern average for cases. Does Echols think that his belligerent retaliation against the owners of The Wheelhouse is going to accomplish something that nine other seasonally congruent states could not?
+This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced nearly identical growth patterns. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the midwestern average for cases and had the lowest peak. Does Echols think that his belligerent retaliation against the owners of The Wheelhouse is going to accomplish something that nine other seasonally congruent states could not?
 
 Let's zoom out even further and take a look at some of the national-level data that further implicate Echols' punitive actions.
 
