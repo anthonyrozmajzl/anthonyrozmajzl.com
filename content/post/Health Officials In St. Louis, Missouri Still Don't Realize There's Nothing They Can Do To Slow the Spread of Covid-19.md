@@ -74,7 +74,7 @@ The claim that government intervention has done anything to slow the spread of c
 
 The establishment-approved narrative has no explanation for why Missouri and Illinois, the latter being the much more restricted state, experienced almost identical case growth patterns despite drastically varying levels of intervention. Illinois also had [greater mask compliance, less time spent at away locations, and fewer population-adjusted bar and restaurant visits](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=IL&compare=MO), which evidently had not even the slightest impact on cases relative to Missouri. In fact, Iillinois had a higher peak case count and is underperforming Missouri to this day. This is sure to generate some crickets among the covid doomers who pride themselves on "following the science."
 
-Now, if you really want to see your "science-following" friends grasping at straws in defense of covid-19 behavioral controls, show them the following graphic of the midwestern states' case trends.
+Now, if you really want to see your "science-following" friends grasping at straws in defense of covid-19 behavioral controls, show them the following graphic of midwestern states' case trends.
 
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
