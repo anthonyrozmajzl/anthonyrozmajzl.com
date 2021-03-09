@@ -2,7 +2,7 @@
 author = "Anthony Rozmajzl"
 date = 2020-06-13T07:32:47Z
 description = ""
-draft = false
+draft = true
 feature = "/images/Police pepper spray.jpg"
 slug = "privatize-the-police"
 title = "The Time Has Come To Privatize The Police"
