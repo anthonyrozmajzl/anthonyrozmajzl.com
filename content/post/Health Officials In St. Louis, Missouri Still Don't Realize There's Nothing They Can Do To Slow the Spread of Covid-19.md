@@ -86,7 +86,7 @@ What is more, new deaths, new cases, and new hopsitalizations have also been plu
 
 ![US Metrics](https://user-images.githubusercontent.com/5093552/110402091-c3729880-8048-11eb-937f-c712257a3edd.png)
 
-
+Lastly, a depicition of all fifty states' case growth rates tell us what your government officials will never admit: 
 
 ![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
 
