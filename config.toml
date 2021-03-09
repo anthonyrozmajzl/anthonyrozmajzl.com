@@ -3,6 +3,21 @@ languageCode = "en-us"
 title = "Anthony Rozmajzl"
 theme = "axiom"
 
+########
+#[menu]
+#[[menu.main]]
+#url = "/resume/"
+#name = "Resumé"
+#weight = 3
+############
+
+##############
+#[[menu.main]]
+#url = "/about/"
+#name = "About"
+#weight = 2
+##############
+
 [[menu.main]]
 url = "/post/"
 name = "Posts"
