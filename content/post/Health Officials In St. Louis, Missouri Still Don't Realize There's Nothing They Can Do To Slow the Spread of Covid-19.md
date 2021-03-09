@@ -16,7 +16,7 @@ Nowhere could this sentiment be more true than in St. Louis, Missouri where Dire
 
 ## What Does The Science Have to Say? 
 
-It apparently does not matter to Echols and other local politicians what the data say about the effectiveness of mask mandates, business closures, capacity restrictions, stay-at-home orders, or any other behavioral mandate. What matters to them is that everyone fall in line and, ideally, profess an unwavering faith in the efficacy of mask mandates and social distancing guidelines. However, a true understanding of the data pertaining to the effectiveness of these mandates would require the immediate removal of all COVID-19 restrictions, none of which have done a single thing to keep the citizens of St. Louis, Missouri safe. If this city and surrounding areas truly wish to follow the science, their officials will pay close attention to the following data.
+It apparently does not matter to Echols and other bureaucrats what the data say about the effectiveness of mask mandates, business closures, capacity restrictions, stay-at-home orders, or any other behavioral mandate. What matters to them is that everyone fall in line and, ideally, profess an unwavering faith in the efficacy of mask mandates and social distancing guidelines. However, a true understanding of the data pertaining to the effectiveness of these mandates would require the immediate removal of all COVID-19 restrictions, none of which have done a single thing to keep the citizens of St. Louis, Missouri safe. If this city and surrounding areas truly wish to follow the science, their officials will pay close attention to the following data.
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
