@@ -82,7 +82,7 @@ A second area we find absolutely no correlation is between the intensity of a st
 
 Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> of 0.005 very clearly indicates that state and local governments are only wasting money and destroying livelihoods by continuing to keep their people economically and socially depressed.
 
-Even more, new deaths, new cases, and new hopsitalizations have also been plummeting since January despite [scary warnings](https://pbs.twimg.com/media/Ev4tT5AWgA8GQtg?format=jpg&name=large) of new variants and the Superbowl Superspreader
+What is more, new deaths, new cases, and new hopsitalizations have also been plummeting since January despite [scary warnings](https://pbs.twimg.com/media/Ev4tT5AWgA8GQtg?format=jpg&name=large) of new variants and millions of people gathering together for Super Bowl LV, which didn't even cause a blip in the rate of decline
 
 ![US Metrics](https://user-images.githubusercontent.com/5093552/110402091-c3729880-8048-11eb-937f-c712257a3edd.png)
 
