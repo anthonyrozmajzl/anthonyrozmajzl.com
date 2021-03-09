@@ -90,7 +90,7 @@ A second area we find absolutely no correlation is between the intensity of a st
 
 ![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
 
-Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> of 0.005 very clearly indicates that state and local governments have only wasted money and destroyed livelihoods with their restricitions.
+Again, if what we were told about this virus were true, then this graph should unambiguously slope upward. An R<sup>2</sup> of 0.005, however, very clearly indicates that state and local governments have made no impact on the course of the virus with their restricitions.
 
 What is more, new deaths, new cases, and new hopsitalizations have also been plummeting since January despite [scary warnings](https://pbs.twimg.com/media/Ev4tT5AWgA8GQtg?format=jpg&name=large) of new variants and millions of people gathering together for Super Bowl LV, which didn't even cause a blip in the rate of decline for cases and hospitalizations.
 
