@@ -66,23 +66,24 @@ The establishment-approved narrative has no explanation for how Missouri and Ill
 
 If you really want to see your "science-following" friends grasping at straws in defense of covid-19 mandates, show them the following graphic comparing 9 midwestern states against the regional average.
 
-(https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
-
-This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced case growth and decline at nearly identical times. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the regional average for cases. As a ge
-
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
+This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced case growth and decline at nearly identical times. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the regional average for cases. Does Echols think that his belligerent retaliation against the owners of The Wheelhouse is going to accomplish something that nine other seasonally congruent states failed to accomplished?
 
+Let's zoom out even further and take a look at some of the national-level data that further implicate Echols' punitive actions.
 
-### Nationwide
+![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
+
+The above graphic represents what is likely the most sacreligious assault on the Church of Covid. It completely blasphemes the holy mask by calling into direct question the notion that mask mandates and mask compliance have had any meaningful impact on cases. 
+
 ![Age_Adjusted Mortality](https://pbs.twimg.com/media/Ev5UvjMXYAIwpqj?format=png&name=900x900)
 
 ![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
   Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
-![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
+
 ![US MASK USAGE VS CASES](https://user-images.githubusercontent.com/5093552/110350957-46243500-8002-11eb-9cb7-5fa37798a1b5.JPG)
 
-
+![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
 
 ### International
 ![US_vs_Czech](https://pbs.twimg.com/media/EvnHVsxWgAMcJ1Q?format=jpg&name=medium)
