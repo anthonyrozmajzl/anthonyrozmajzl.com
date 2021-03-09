@@ -26,7 +26,7 @@ Echols' consent order, along with the dozens of complaints filed to local author
 
 ![CityStLouis](https://user-images.githubusercontent.com/5093552/109894574-bbd37e00-7c5b-11eb-8ea3-67b689bc2b51.jpeg)
 
-Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October&mdash;surely it is just a mere coincidence that every other state in the country experienced this same surge at the same time. 
+Plain as day, despite having both a mask mandate and capacity restrictions in place at the end of summer, the city of St. Louis saw a massive explosion in cases starting in October&mdash;surely it is just a mere coincidence that every other state in the country happened to experience a similar same surge at the same time. 
 
 Invairably, the above chart will drum up the fraudulent excuse that people suddenly refused to comply with the mask mandate when October began. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained [above 90 percent since mid-September](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=29510).
 
