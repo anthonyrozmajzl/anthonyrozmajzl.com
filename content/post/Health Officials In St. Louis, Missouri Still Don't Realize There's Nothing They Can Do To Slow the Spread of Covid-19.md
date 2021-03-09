@@ -74,13 +74,13 @@ Let's zoom out even further and take a look at some of the national-level data t
 
 ![US MASK USAGE VS CASES](https://user-images.githubusercontent.com/5093552/110350957-46243500-8002-11eb-9cb7-5fa37798a1b5.JPG)
 
-The above graphic represents what is likely the most sacreligious assault on the Church of Covid. It blasphemes the holy mask by calling into direct question the notion that mask mandates and mask compliance are inversely relatd to covid-19 cases. As a matter of very simple fact, the above chart shows absolutely zero correlation between mask usage and case counts.
+The above graphic represents what is likely the most sacreligious assault on the Church of Covid. It blasphemes the divine mask by calling into direct question the notion that mask mandates and mask compliance are what we need to prevent the spread of covid-19. As a matter of very simple fact, the above chart shows absolutely zero correlation between mask usage and case counts.
 
-A second area we find absolutely no correlation is between the intensity of a state's covid restrictions and deaths per capita.
+A second area we find absolutely no correlation is between the intensity of a state's restrictions and deaths per capita.
 
 ![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
 
-Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> of 0.005 very clearly indicates that state and local governments are only wasting money and destroying livelihoods by continuing to keep their people economically and socially depressed.
+Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> of 0.005 very clearly indicates that state and local governments have only wasted money and destroyed livelihoods with their restricitions.
 
 What is more, new deaths, new cases, and new hopsitalizations have also been plummeting since January despite [scary warnings](https://pbs.twimg.com/media/Ev4tT5AWgA8GQtg?format=jpg&name=large) of new variants and millions of people gathering together for Super Bowl LV, which didn't even cause a blip in the rate of decline
 
