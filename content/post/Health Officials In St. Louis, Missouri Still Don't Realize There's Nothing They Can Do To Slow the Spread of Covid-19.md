@@ -9,6 +9,7 @@ slug = "Health Officials in St. Louis Can't Control Spread"
 tags = ["Covid-19", "Coronavirus", "social distancing", "mask mandates", "St. Louis", "Missouiri", "MO", "Wheelhouse", "Failure", "St. Louis County", "Jefferson County", "St. Charles County"]
 title = "Health Officials In St. Louis, Missouri Still Don't Realize There's Nothing They Can Do To Slow the Spread of Covid-19"
 +++
+
 The covid-19 pandemic will forever serve as a sobering reminder for how effortlessly governments can command the unquestioned obedience of their constituents. Political actors, in conjunction with big tech and the corporate press, spent the better part of a year, despite overwhelming data to the contrary, framing the argument for various behavioral controls like mask mandates and business closures as the scientifically approved and morally upright position that any good, rational citizen would take in the name of preserving "public health." This line of thinking has become so thoroughly embedded in our culture that it is now widely accepted that any state, individual, or business that refuses to implement or adhere to forced business closures, mask mandates, gathering restrictions, or other behavioral mandates is de facto a science-denying enemy of public health, fully deserving of legal punishment and public shaming. 
 
 ## The Struggle of St. Louis' Most Prominent Venues
