@@ -68,9 +68,11 @@ If you really want to see your "science-following" friends grasping at straws in
 
 (https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
 
-This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced growth and decline at nearly identical times. Notice how Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/)
+This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced case growth and decline at nearly identical times. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the regional average for cases. As a ge
 
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
+
+
 
 ### Nationwide
 ![Age_Adjusted Mortality](https://pbs.twimg.com/media/Ev5UvjMXYAIwpqj?format=png&name=900x900)
