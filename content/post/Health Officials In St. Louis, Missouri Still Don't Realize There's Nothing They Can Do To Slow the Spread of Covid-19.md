@@ -86,16 +86,11 @@ What is more, new deaths, new cases, and new hopsitalizations have also been plu
 
 ![US Metrics](https://user-images.githubusercontent.com/5093552/110402091-c3729880-8048-11eb-937f-c712257a3edd.png)
 
-Lastly, a depicition of all fifty states' case growth rates tell us what your government officials will never admit: 
+Lastly, a depicition of all fifty states' case growth rates tell us what your government officials will never admit: despite fifty different timings and levels of  intervention, each state succumbed to nearly an identical case growth pattern. 
 
 ![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
 
-
-
-### International
-![US_vs_Czech](https://pbs.twimg.com/media/EvnHVsxWgAMcJ1Q?format=jpg&name=medium)
-![Sweden vs LA](https://pbs.twimg.com/media/EuZhMGGXAAAR_0Y?format=jpg&name=large)
-![Germany vs USA](https://pbs.twimg.com/media/EvvHfTCVkAEAMxA?format=jpg&name=4096x4096)
+Are similar case patterns across fifty diverse states indicative of a government capable of influencing the course of the virus? Hardly. Each state, without deviation, experienced a bump in cases early to midway through the year followed by a much bigger surge in cases during winter months, supporting the notion of seasonality. Seemingly every attempt to socially engineer this virus out of existence has failed.
 
 ## NOTES
 
@@ -103,7 +98,9 @@ Years from now, nobody will recognize the government's response to the covid-19 
 
 The return to normal life is promising, however. ["Neanderthal"](https://apple.news/AFIRA-QvPSFSM2s1Nsyox2A) states like [Texas](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329) and [Missisippi](https://www.nbcnews.com/news/us-news/gov-greg-abbott-lift-texas-mask-mandate-open-state-100-n1259329), along with [West Viriginia](https://www.wpxi.com/news/top-stories/west-virginia-is-lifting-restrictions-opening-businesses-full-capacity/PCAECM3WOZHZHKUWKV2ZGYMKRA/), [Arizona](https://www.dailywire.com/news/arizonas-governor-lifts-restrictions-on-businesses-that-limit-capacity), [Wyoming](https://governor.wyo.gov/media/news-releases/2021-news-releases/governor-gordon-announces-removal-of-statewide-mask-requirement-lifts-all), and [Connecticut](https://www.forbes.com/sites/alisondurkee/2021/03/04/connecticut-lifting-all-covid-19-capacity-restrictions-on-businesses-including-restaurants-and-gyms/?sh=42fec94115e9), are beginning to let business operate a full capacity and/or removing statewide mask mandates, returning basic freedoms to their constituencies who have all along been perfectly capable of assessing social risk without the guidance of their sainted health officials. Even Governor Newsom, albeit under pressure of recall, has [announced plans](https://deadline.com/2021/03/newsom-announces-plan-to-loosen-californias-lockdown-requirements-amid-recall-pressure-1234706693/) to ease restrictions. If that doesn't suprise you, even the Washington Post [recently published an article](https://www.wsj.com/articles/vindication-for-ron-desantis-11614986751) saying that Ron DeSantis of Florida can now claim vindication given his success relative to California, New York.
 
-While many states are on the proper path towards normalcy, the vast majority have a long way to go. As is the case with the owners of The Wheelhouse, even if governors lift mask mandates or social distancing guidelines, local authorities can still be a major roadblack on the path towards normal life. And for most individuals, until their governor, mayor, an official in the Biden administartion, or some doctor in a white coat appears on television granting them the ability to resume a life free from masks and social distancing guidelines, they will continue to cling to their safety blanket of social regulations that have had no meaningful impact on the spread of coivd-19. In the meantime, we can remember those states, cities, and towns that preserved individual liberties and refused to ruin the livelihoods of thousands; you can remember the 
+While many states are on the proper path towards normalcy, the vast majority have a long way to go. As is the case with the owners of The Wheelhouse, even if governors lift mask mandates or social distancing guidelines, local authorities can still be a major roadblack on the path towards normal life. And for most individuals, until their governor, mayor, an official in the Biden administartion, or some doctor in a white coat appears on television granting them the ability to resume a life free from masks and social distancing guidelines, they will continue to cling to their safety blanket of social regulations that have had no meaningful impact on the spread of coivd-19. 
+
+In the meantime, we can remember those states, cities, and towns that preserved individual liberties and refused to ruin the livelihoods of thousands; we can continue to promulgate the overwhelming amount of data at our disposal which lays the mainstream covid-19 narrative to rest; we must become emboldened to never again relinquish our most basic freedoms so quickly and so peaceably whenever the ruling elite invokes the preservation of public health.
 
 
 
