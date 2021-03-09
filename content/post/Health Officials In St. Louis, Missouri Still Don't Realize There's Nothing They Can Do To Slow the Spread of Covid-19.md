@@ -28,7 +28,7 @@ Plain as day, despite having both a mask mandate and capacity restrictions in pl
 
 Invariably, the above chart will drum up the fraudulent excuse that people suddenly refused to comply with the mask mandate as October came around. To the contrary, mask data for the city of St. Louis show that public mask compliance has consistently remained [above 90 percent since mid-September](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=29510).
 
-Maybe the citizens of St. Louis just all happened to stop taking the virus seriously as October rolled around. Well, not exactly. Mobility and social distancing metrics provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) show no drastic behavioral changes at the start of October, which is denoted by the red line. 
+Maybe the citizens of St. Louis got together and decided that October was the month they'd stop caring about the virus. Well, not exactly. Mobility and social distancing metrics provided by the [University of Maryland Covid-19 Impact Analysis Platform](https://data.covid.umd.edu) show no drastic behavioral changes at the start of October, which is denoted by the red line. 
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
