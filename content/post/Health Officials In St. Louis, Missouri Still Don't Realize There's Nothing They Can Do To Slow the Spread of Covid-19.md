@@ -64,7 +64,7 @@ If you look at the COVID-19 seasonality trends for the United States as a whole,
 
 The [Hope-Simpson seasonality model for influenza](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C4D90C6E7CB127E6DF7A52D3A9EE2974/S0950268806007175a.pdf/epidemic_influenza_and_vitamin_d.pdf) depicted above has actually been quite accurate in mapping COVID-19 trends to tropical and temperate climates. However, for the government officials and unelected bureaucrats who needlessly ruined livelihoods and brought social life to a depressing standstill for the better part of a year, seasonality cannot, *must* not, be the explanation; it would mean that the past year's worth of politically charged and economically destructive behavioral mandates were all for naught.
 
-## State and National Metrics Further Implicate Echols' Punitive Actions
+## State and National Metrics Further Implicate Echols' and Page's Punitive Actions
 
 The claim that government intervention has done anything to slow the spread of COVID-19 in the city of St. Louis and surrounding areas has no scientific backing whatsoever. This claim becomes even more dubious if we look at similar metrics from Missouri's neighboring states, or at least those with similar climates. To start off, here are the population-adjusted case trends for Missouri and Illinois
 
