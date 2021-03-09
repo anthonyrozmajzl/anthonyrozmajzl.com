@@ -84,7 +84,7 @@ Let's zoom out even further and take a look at some of the national-level data t
 
 The above graphic represents what is likely the most sacrilegious assault on the Church of Covid. It blasphemes the divinity of the mask by rejecting the belief that mask mandates and mask compliance have been effective in slowing the spread of covid-19. As a matter of very simple fact, the above chart shows zero correlation between mask usage and the spread of COVID-19.
 
-Additionally, there is absoultely no correlation between the intensity of a state's restrictions and deaths per capita.
+Additionally, there is absolutely no correlation between the intensity of a state's restrictions and deaths per capita.
 
 ![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
 
