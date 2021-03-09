@@ -72,18 +72,24 @@ This really shouldn't come as a surprise, but, yet again, despite nine differnt 
 
 Let's zoom out even further and take a look at some of the national-level data that further implicate Echols' punitive actions.
 
-![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
+![US MASK USAGE VS CASES](https://user-images.githubusercontent.com/5093552/110350957-46243500-8002-11eb-9cb7-5fa37798a1b5.JPG)
 
-The above graphic represents what is likely the most sacreligious assault on the Church of Covid. It completely blasphemes the holy mask by calling into direct question the notion that mask mandates and mask compliance have had any meaningful impact on cases. 
+The above graphic represents what is likely the most sacreligious assault on the Church of Covid. It blasphemes the holy mask by calling into direct question the notion that mask mandates and mask compliance are inversely relatd to covid-19 cases. As a matter of very simple fact, the above chart shows absolutely zero correlation between mask usage and case counts.
+
+A second area we find absolutely no correlation is between the intensity of a state's covid restrictions and deaths per capita.
+
+![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
+
+Again, if what we were told about this virus were true, states with the highest level of restrictions would expeirence the lowest amount of deaths per capita; states with the fewest amounts of restrictions would experience the highest amount of deaths per capita. An R<sup>2</sup> 
 
 ![Age_Adjusted Mortality](https://pbs.twimg.com/media/Ev5UvjMXYAIwpqj?format=png&name=900x900)
 
 ![US_Totals](https://github.com/aroz73096/anthonyrozmajzl.com/files/6087442/8_US.Cross.Curves.pdf)
   Talk about [variants](https://twitter.com/ianmSC/status/1366838059543654402/photo/1), holiday superspreader, super bowl superspreader
 
-![US MASK USAGE VS CASES](https://user-images.githubusercontent.com/5093552/110350957-46243500-8002-11eb-9cb7-5fa37798a1b5.JPG)
+![ALL_US_STATES_CASE_PATTERNS](https://user-images.githubusercontent.com/5093552/110051560-1e904c80-7d24-11eb-8837-0579c85bf357.png)
 
-![State Restrictions vs Covid Deaths Per Capita](https://pbs.twimg.com/media/Ev_YHdBXcAAp_qH?format=png&name=900x900)
+
 
 ### International
 ![US_vs_Czech](https://pbs.twimg.com/media/EvnHVsxWgAMcJ1Q?format=jpg&name=medium)
