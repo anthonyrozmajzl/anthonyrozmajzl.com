@@ -102,7 +102,7 @@ Lastly, a depicition of all fifty states' case growth rates tell us what your go
 
 Are similar case patterns across fifty diverse states indicative of a government capable of influencing the course of the virus? Hardly. Each state, without deviation, experienced a bump in cases early to midway through the year followed by a much bigger surge in cases during winter months, supporting the notion of seasonality. Seemingly every attempt to socially engineer this virus out of existence has failed.
 
-## NOTES
+## Place Yourself on the Right Side of History
 
 Years from now, nobody will recognize the government's response to the covid-19 pandemic as anything other than the greatest public health failure in human history. None of the recommendations from our political leaders and health experts for how to beat this pandemic have worked, and we have an entire year's worth of local, statewide, national, and international data to prove it. 
 
