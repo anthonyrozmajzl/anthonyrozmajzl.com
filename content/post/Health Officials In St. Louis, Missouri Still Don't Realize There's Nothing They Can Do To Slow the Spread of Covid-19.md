@@ -22,7 +22,7 @@ Maybe the citizens of St. Louis just all happened to stop taking the virus serio
 
 ![ST LOUIS](https://user-images.githubusercontent.com/5093552/110059260-e132bb80-7d31-11eb-8bc5-52d1721422a9.png)
 
-To put the non-compliance narrative to rest, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing Missouri as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picture as to how much more "seriously" the citizens of St. Louis are taking this virus compared to the rest of the state. As is shown below, despite their exemplary behavior relative to the rest of the state, the citizens of St. Louis could not escape the October surge. In the chart that follows, Missouri's numbers appear in red.
+To put the non-compliance narrative to rest, if you check [Google's Covid-19 mobility report](https://www.google.com/covid19/mobility/) for the city of St. Louis, you will quickly find that St. Louis residents are thoroughly outperforing Missouri as a whole when it comes to avoiding behaviors that supposedly fuel the spread of covid-19. Although the window of observation for this data is is smaller than preceding data, it paints a pretty clear picture as to how much more "seriously" the citizens of St. Louis are taking this virus compared to the rest of the state. As is shown below, despite their exemplary behavior relative to the rest of the state, the citizens of St. Louis could not escape the October surge, nor was its surge growth rate any less significant than the surrounding areas discussed below. In the chart that follows, statewide numbers for Missouri appear in red.
 
 ![St  Louis vs MO as a whole](https://user-images.githubusercontent.com/5093552/110154646-7bd2df00-7db2-11eb-86f9-a6927bedb7f0.png)
 
@@ -62,13 +62,13 @@ The claim that government intervention has done anything to slow the spread of c
 
 ![Missouri_vs_Illinois](https://pbs.twimg.com/media/EvnHVsxWYAU8O37?format=jpg&name=large)
 
-The establishment-approved narrative has no explanation for how Missouri and Illinois could have experience almost identical case growth patterns despite drastically varying levels of intervention. Illinois even had [greater mask compliance, less time spent at away locations, and fewer population-adjusted bar and restaurant visits](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=IL&compare=MO), clearly none of which had even the slightest impact on cases relative to Missouri. In fact, Iillinois had a higher peak case count and is currently underperforming Missouri in terms of cases. This is sure to generate some crickets among the covid doomers who pride themselves on "following the science."
+The establishment-approved narrative has no explanation for how Missouri and Illinois could have experienced almost identical case growth patterns despite drastically varying levels of intervention. Illinois even had [greater mask compliance, less time spent at away locations, and fewer population-adjusted bar and restaurant visits](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=IL&compare=MO), which evidently had not even the slightest impact on cases relative to Missouri. In fact, Iillinois had a higher peak case count and is currently underperforming Missouri in terms of cases. This is sure to generate some crickets among the covid doomers who pride themselves on "following the science."
 
-![Indiana Cases](https://pbs.twimg.com/media/EvlVFKAVoAY2-53?format=jpg&name=4096x4096)
-![Iowa vs Midwestern](https://pbs.twimg.com/media/Evuxs9NXIAU6iww?format=jpg&name=medium)
-  - Iowa doesn't care if you live or die (https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/)
+If you really want to see your "science-following" friends grasping at straws in defense of covid-19 mandates, show them the following graphic comparing 9 midwestern states against the regional average.
 
-To make things easier, why don't we just take a look at a number of midwestern states [roughly in the same climate region](https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
+(https://pbs.twimg.com/media/EuDTiOoVgAI_qtN?format=jpg&name=4096x4096) and see if anything jumps out at us.
+
+This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced growth and decline at nearly identical times. Notice how Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/)
 
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
