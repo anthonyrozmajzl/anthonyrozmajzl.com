@@ -74,11 +74,11 @@ The claim that government intervention has done anything to slow the spread of c
 
 The establishment-approved narrative has no explanation for how Missouri and Illinois could have experienced almost identical case growth patterns despite drastically varying levels of intervention. Illinois even had [greater mask compliance, less time spent at away locations, and fewer population-adjusted bar and restaurant visits](https://delphi.cmu.edu/covidcast/?date=20210221&sensor=fb-survey-smoothed_wearing_mask&region=IL&compare=MO), which evidently had not even the slightest impact on cases relative to Missouri. In fact, Iillinois had a higher peak case count and is underperforming Missouri to this day. This is sure to generate some crickets among the covid doomers who pride themselves on "following the science."
 
-If you really want to see your "science-following" friends grasping at straws in defense of covid-19 mandates, show them the following graphic comparing 9 midwestern states against the regional average.
+Now, if you really want to see your "science-following" friends grasping at straws in defense of covid-19 mandates, show them the following graphic of midwestern states.
 
 ![Midwestern States](https://pbs.twimg.com/media/EvWOri5XEAA6zJE?format=jpg&name=large)
 
-This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced case growth and decline at nearly identical times. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the regional average for cases. Does Echols think that his belligerent retaliation against the owners of The Wheelhouse is going to accomplish something that nine other seasonally congruent states failed to accomplished?
+This really shouldn't come as a surprise, but, yet again, despite nine differnt levels and timings of covid-19 restrictions, all states experienced nearly identical growth patterns. Note particularly that Iowa, the state that [doesn't care if you live or die](https://www.washingtonpost.com/outlook/2021/02/10/iowa-lift-all-restrictions/), remained under the midwestern average for cases. Does Echols think that his belligerent retaliation against the owners of The Wheelhouse is going to accomplish something that nine other seasonally congruent states could not?
 
 Let's zoom out even further and take a look at some of the national-level data that further implicate Echols' punitive actions.
 
