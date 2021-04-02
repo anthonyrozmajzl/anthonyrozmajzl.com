@@ -1,4 +1,4 @@
-American Airlines has arrested and permanently banned a passenger who refused to wear a mask while preventing a terrorist attack that would have killed 150 passengers. Reports claim that although the man happily complied with mask protocol after detaining the terrorist, he simply refused to honor the requests of passengers and flight attendants to wear a mask for the 30 seconds he spent disarming the terrorist of his explosive device. 
+American Airlines has arrested and permanently banned a passenger who refused to wear a mask while preventing a terrorist attack that would have killed 150 passengers. Reports claim that although the man happily complied with mask protocol after detaining the terrorist, he refused to honor the requests of passengers and flight attendants to wear a mask for the 30 seconds he spent disarming the terrorist of his explosive device. 
 
 CNN was providing live coverage on the situation with the heroic headline: "Domestic terrorist intentionally exposes 150 people to deadly virus." 
 
