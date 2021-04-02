@@ -8,6 +8,6 @@ One morbidly obese passengers who was on the flight recounted her traumatic expe
 
 Reporters who were on the scene after the plane had landed overheard many passengers calling friends and family to say their final goodbyes, often lamenting that they could already feel the covid-19 particles coursing through their blood.
 
-The Biden Administration will be holding a pre-emptive funeral service for all passengers within the next few days and are unconcerned with the whereabouts of the terrorist who planned to bomb the plane. 
+The Biden Administration will be holding a pre-emptive funeral service for all passengers within the next few days. Nobody really seems concerned with the whereabouts of the terrorist who planned to bomb the plane. 
 
 
