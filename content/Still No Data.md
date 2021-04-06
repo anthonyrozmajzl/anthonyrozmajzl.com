@@ -7,3 +7,6 @@ You can point to superspreader after superspreader and see that despite the doom
 (London Anti-Lockdown Protest)
 (Texas MLB game full stadium 40k fans)
 
+- Key Points To Remember:
+  - Mortality Table
+  - Costs
