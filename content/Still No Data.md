@@ -10,3 +10,6 @@ You can point to superspreader after superspreader and see that despite the doom
 - Key Points To Remember:
   - Mortality Table
   - Costs
+
+- Superspreader Failed Predictions
+- Neanderthal States vs Non-Neanderthals
