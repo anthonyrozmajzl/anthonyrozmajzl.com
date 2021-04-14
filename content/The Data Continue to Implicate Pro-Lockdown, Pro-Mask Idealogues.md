@@ -2,9 +2,22 @@ It isn't often we get to witness esteemed public health experts falter when the 
 
 For over a year, political actors and public health officials have been proselytizing what now seems to be a permanently panicked citizenry into an unquestioned acceptance of mask mandates and social distancing guidelines, despite more than a year's worth of data which have shown, and continue to show, zero correlation between the strength, timing, or duration of mitigation measures and COVID-19 incidence.
 
+- mortality table
 
+- medical professionals directing economy, only qualified to quantify risk
+-   unfortunately, the imperial college model which quantified the risk that led to lockdowns was horribly failed and off by an order of magnitude
+-   CDC in charge of evictions??
 
-Past statememnts as evidence for Facui flip-flopping....mention how the only time he receives any real opposition is during the occasional senate hearing with Rand Paul.....variant spread
+- throwing out basic science: ideas like asymptomatic people can still be sick, lckdowns never recommended for even sever respiratory outbreaks prior to 2020
+-   Past statememnts as evidence for Facui flip-flopping....mention how the only time he receives any real opposition is during the occasional senate hearing with Rand Paul.....variant spread
+
+MAIN
+
+-asymptomatic spread
+  - the study Fauci cited (https://twitter.com/hold2llc/status/1381448535665745920?s=21) claiming 50% of spread is from asymptomatic assumes that asymptomatic cases are 75% as infectious as symptomatic cases
+-lockdown efficacy
+-mask mandate efficacy
+-hospitals overwhelmed
 
 You can point to superspreader after superspreader and see that despite the doom and gloom predictions, none of these so-called superspreaders had any effect on case patterns
 (Russia Crimea celebration)
