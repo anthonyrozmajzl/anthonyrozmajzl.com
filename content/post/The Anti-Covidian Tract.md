@@ -1,4 +1,4 @@
-
+GOAL POST SHIFT OF THE CENTURY
 
 
 ## Public Health Principles Thrown Out the Window
@@ -11,7 +11,7 @@ Much like invoking nat'l security, public health was invoked to
 - throwing out basic science: ideas like asymptomatic people can still be sick, lckdowns never recommended for even sever respiratory outbreaks prior to 2020
 -   Past statememnts as evidence for Facui flip-flopping....mention how the only time he receives any real opposition is during the occasional senate hearing with Rand Paul.....variant spread
 
-MAIN
+KEY DATA POINTS AND STUDIES TO REMEMBER
 - mortality table
 -asymptomatic spread
   - the study Fauci cited (https://twitter.com/hold2llc/status/1381448535665745920?s=21) claiming 50% of spread is from asymptomatic assumes that asymptomatic cases are 75% as infectious as symptomatic cases
