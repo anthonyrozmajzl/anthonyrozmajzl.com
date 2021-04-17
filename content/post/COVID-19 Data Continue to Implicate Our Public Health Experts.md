@@ -1,4 +1,4 @@
-
+It's not very often we get to witness the supposedly settled science behind lockdowns and mask mandates challenged on national television, which make the past couple months of media appearances from public health experts like White House COVID-19 advisor Andy Slavitt, Dr. Michael Osterholm of the University of Minnesota, and media darling Dr. Anthony Fauci truly special to have on record. Back in a mid-February MSNBC [interview](https://twitter.com/tomselliott/status/1362048016560062466?s=20), Slavitt was reduced to parroting empty platitudes about mask mandates and social distancing after Florida's success relative to California was called into question
 
 GOAL POST SHIFT OF THE CENTURY
 
