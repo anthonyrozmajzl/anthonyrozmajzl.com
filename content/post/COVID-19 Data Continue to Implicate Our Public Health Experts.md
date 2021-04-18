@@ -7,6 +7,9 @@ When governments and media outlets around the world have successfully captured a
 
 Thanks to the surplus of fear-mongering news outlets and nearly all negative COVID-19 reporting&mdash;roughly [90 percent](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html) of COVID-19 news in the United States is negative compared to 51 percent internationally&mdash;which ignores promising trends from states that removed restrictions while ignoring undesirable trends from regions that are "following the science", is it any surprise that nearly [70 percent of Democrats, 51 percent of Republicans, and almost 50 percent of independents](https://www.nytimes.com/2021/03/18/briefing/atlanta-shootings-kamala-harris-tax-deadline-2021.html) think the chances of being hospitalized with COVID-19 range anywhere from 20 percent to over 50 percent? Ignorance, whether it be willful or not, of the past 15 months worth of data which show no correlation between the timing, strength, or duration of COVID-19 mitigations measures and COVID-19 incidence is the far more emergent pandemic.
 
+## The Lockdowns Still Haven't Worked
+
+Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the actual evidence of the lockdowns' ability to stop, let alone slow the incidence of COVID-19 is abysmal. What we've been hearing for more than a yeaer now is that states which lock down harder are going to save more lives than states that lock down with less intensity. Thankfully, the data exist to evaluate this claim directly. 
 
 
 KEY DATA POINTS AND STUDIES TO REMEMBER
