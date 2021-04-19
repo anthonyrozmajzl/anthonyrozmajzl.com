@@ -9,7 +9,9 @@ Thanks to the surplus of fear-mongering news outlets and nearly all negative COV
 
 ## The Lockdowns Still Haven't Worked
 
-Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the amount of evidence supporting the lockdowns' ability to stop, let alone slow the incidence of COVID-19 is abysmal. For more than a year we've seen states like New York, New Jersey, and California praised for their COVID-19 response while . Thankfully, the data exist to evaluate this claim directly. 
+Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the amount of evidence supporting the lockdowns' ability to lower COVID mortality is abysmal. Visually speaking, we can address the widely believed assumption over the past year that states with more intense lockdowns are going to see less COVID mortality. To do this we can plot each state's average restriction ranking for the 13 months against the total number of COVID-19 deaths for each state.
+
+![Restriction Ranking vs Deaths](https://user-images.githubusercontent.com/5093552/115307212-e196e280-a136-11eb-8ca9-7c4751380613.png)
 
 
 KEY DATA POINTS AND STUDIES TO REMEMBER
