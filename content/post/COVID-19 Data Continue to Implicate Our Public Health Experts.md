@@ -9,7 +9,7 @@ Thanks to the surplus of fear-mongering news outlets and nearly all negative COV
 
 ## The Lockdowns Still Haven't Worked
 
-Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the actual evidence of the lockdowns' ability to stop, let alone slow the incidence of COVID-19 is abysmal. What we've been hearing for more than a yeaer now is that states which lock down harder are going to save more lives than states that lock down with less intensity. Thankfully, the data exist to evaluate this claim directly. 
+Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the amount of evidence supporting the lockdowns' ability to stop, let alone slow the incidence of COVID-19 is abysmal. For more than a year we've seen states like New York, New Jersey, and California praised for their COVID-19 response while . Thankfully, the data exist to evaluate this claim directly. 
 
 
 KEY DATA POINTS AND STUDIES TO REMEMBER
