@@ -31,3 +31,6 @@ You can point to superspreader after superspreader and see that despite the doom
 
 - Superspreader Failed Predictions
 - Neanderthal States vs Non-Neanderthals
+
+
+- "Freedom isn't the issue" - (https://nypost.com/2021/04/18/fauci-says-covid-19-not-a-civil-liberties-issue/)
