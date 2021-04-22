@@ -17,10 +17,13 @@ Visually speaking, we can address the widely adopted belief that states with mor
 
 Contrary to what we've been taught to believe about lockdowns, there is absolutely no correlation between the strength of a state's lockdown measures and total COVID-19 deaths. In fact, notorious lockdown states such as New York and New Jersey have some of the worst mortality numbers to date. To blame non-compliance for these poor numbers is ridiculous on its face considering states with no restrictions, such as Texas and Flordia, have far fewer deaths than New York and New Jersey. In fact, you'll find that every state that has either [removed its mask mandate or all COVID-19 restrictions entirely](https://pbs.twimg.com/media/EyfzUnXUcAIvi8a?format=jpg&name=large) is outperforming New York and New Jersey.
 
-The same lack of correlation can be seen when comparing average lockdown stringency with the total number of patients hospitalized who have suspected or confirmed COVID-19. As a point of clarification, the author summed the *current* number of patients hospitalized each day to arrive at the total number of patients hospitalized. This will result in slightly inflated total numbers since patients may spend more than one day in the hospital, but the same summation method is applied to all states, so the total hospitalization metric still provides an accurate picture.
+The same lack of correlation can be seen when comparing average lockdown stringency with the total number of patients hospitalized who have suspected or confirmed COVID-19. As a point of clarification, the author summed the *current* number of patients hospitalized each day to arrive at the total number of patients hospitalized. This will result in slightly inflated total numbers since patients may spend more than one day in the hospital, but the same summation method is applied to all states, so the total hospitalization metric still provides an accurate assessment of total COVID-19 hospitalization incidence.
 
 ![Restriction Ranking vs Total COVD Beds Used](https://user-images.githubusercontent.com/5093552/115312107-be703100-a13e-11eb-8b5f-c5a323b1f0a2.png)
 
+
+PLOT TOP 10 MOST RESTRICTED STATES CASE PATTERNS
+PLOT REGIONAL CHARTS
 
 KEY DATA POINTS AND STUDIES TO REMEMBER
 - mortality table
