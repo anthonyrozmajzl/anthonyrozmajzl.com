@@ -22,7 +22,7 @@ The same lack of correlation can be seen when comparing average lockdown stringe
 ![Restriction Ranking vs Total COVD Beds Used](https://user-images.githubusercontent.com/5093552/115312107-be703100-a13e-11eb-8b5f-c5a323b1f0a2.png)
 
 
-PLOT TOP 10 MOST RESTRICTED STATES CASE PATTERNS
+PLOT TOP 10 MOST RESTRICTED STATES CASE PATTERNS vs TOP 10 Least Restricted
 PLOT REGIONAL CHARTS
 
 KEY DATA POINTS AND STUDIES TO REMEMBER
