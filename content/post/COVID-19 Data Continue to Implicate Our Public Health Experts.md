@@ -9,7 +9,7 @@ CNN isn't alone in this endeavor, but thanks to the surplus of fear-mongering ne
 
 ## Still No Evidence for Lockdowns
 
-Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the amount of evidence supporting the lockdowns' ability to lower COVID-19 mortality is abysmal. 
+Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them an utter failure, the amount of evidence supporting the lockdowns' ability to mitigate COVID-19 mortality is abysmal. 
 
 Visually speaking, we can address the widely adopted belief that states with more intense lockdowns are going to see less COVID-19 mortality by plotting each state's average ranking from the past 13 months against the total number of COVID-19 deaths for each state. Now, if the past year's worth of sanctimonious lectures from public health experts had any scientific weight behind them, we should see a strong negative correlation between the intensity of states' restrictions and total COVID-19 deaths.
 
