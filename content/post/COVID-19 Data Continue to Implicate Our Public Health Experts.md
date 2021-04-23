@@ -23,16 +23,16 @@ The same lack of correlation can be seen when comparing average lockdown stringe
 
 ![Restriction Ranking vs Total COVD Beds Used](https://user-images.githubusercontent.com/5093552/115312107-be703100-a13e-11eb-8b5f-c5a323b1f0a2.png)
 
-If you remember, the lockdowns were first instituted based on predictions from the [horribly failed](https://www.aier.org/article/the-disease-models-were-tested-and-failed-massively/) Imperial College London model. But the data have made it overwhelmingly clear that, at least speaking for the United States, the strength and duration of each state's lockdown played absolutely no role in preventing COVID-19 hospitalizations. 
+If you remember, the lockdowns were first instituted based on predictions from the [horribly failed](https://www.aier.org/article/the-disease-models-were-tested-and-failed-massively/) Imperial College London model. But the data have made it overwhelmingly clear that, at least speaking for the United States, the strength and duration of each state's lockdown played absolutely no role in preventing COVID-19 hospitalizations or reducing the overall COVID-19 death toll. 
 
-Internationally speaking, the data only continue to expose lockdowns as the single greatest public health failure in human history. 
+Internationally speaking, the data continue to expose lockdowns as the single greatest public health failure in human history. 
 
 ![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/115928867-d3a5d200-a454-11eb-949a-39e8dd4cbda6.png)
 
 As a supplement to the above chart, you can also check out AIER's [collection of 35 studies](https://www.aier.org/article/lockdowns-do-not-control-the-coronavirus-the-evidence/) which show no relationship between lockdowns and virus mitigation. 
 
-In light of a year's worth of data showing wildly different mortality and hospitalizations outcomes for fifty states with fifty very different lockdown stringencies, as well as drastically different mortality outcomes for 166 countries with 166 different lockdown stringencies, it's a marvel that such a deadly and ineffective policy can be seriously considered among public health experts.
+In light of a year's worth of data showing wildly different mortality and hospitalizations outcomes for fifty states with fifty very different lockdown stringencies, as well as drastically different mortality outcomes for 166 countries with 166 different lockdown stringencies, it's a marvel that such a deadly and ineffective policy can be seriously considered among public health experts. So much for the virtue signalling from the self-proclaimed martyrs who boasted of remaining in social isolation for the better part of 14 months.
 
 If the lockdowns failed as a mitigation measure in the United States just as they did everywhere else in the world&mdash;remember, the lockdowns fail without even taking their costs into account&mdash;it's possible that mask usage is the missing piece in the mitigation puzzle. Now, it wouldn't be fair to the reader to post quite literally hundreds of charts that show the exact opposite outcomes the media would have you expect after regions remove or institute mask mandates&mdash;[Ian Miller](https://twitter.com/ianmSC/media) has done more work in this area than anybody else. It also wouldn't be fair to claim that mask mandates and mask usage are synonymous. However, I don't think any proponent of mask-wearing would seriously expect the same level of mask usage apart from local and statewide mandates. Nevertheless, the claim that mask *usage* negatively correlates with cases and deaths is simply not true.
 
-![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115931689-90019700-a459-11eb-9760-7556f086efc4.png)
+![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115932248-8fb5cb80-a45a-11eb-9094-72bb6cc2f89f.png)
