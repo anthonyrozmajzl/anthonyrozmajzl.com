@@ -9,7 +9,7 @@ When governments and media outlets around the world have successfully captured a
 
 CNN isn't alone in this endeavor, but thanks to the surplus of fear-mongering news outlets and nearly all negative COVID-19 reporting&mdash;roughly [90 percent](https://www.nytimes.com/2021/03/24/world/covid-coverage-by-the-us-national-media-is-an-outlier-a-study-finds.html) of COVID-19 news in the United States is negative compared to 51 percent internationally&mdash;is it any surprise that nearly [70 percent of Democrats, 51 percent of Republicans, and almost 50 percent of independents](https://www.nytimes.com/2021/03/18/briefing/atlanta-shootings-kamala-harris-tax-deadline-2021.html) think the chances of being hospitalized with COVID-19 range anywhere from 20 percent to over 50 percent? We are not only in a pandemic of ingornace towards the risk COVID-19 poses to the vast majority of the population, but also toward the past year's worth of data showing no correlation between the timing, stregth, or duration of COVID-19 mitigation measures and overal COVID-19 incidence.
 
-## Still No Evidence for Lockdowns
+## Still No Evidence for Lockdowns or Mask Mandates
 
 Leaving aside the disatrous and deadly consequences of lockdowns&mdash;see [here](https://rationalground.com/lockdowns-pros-and-cons/), [here](https://collateralglobal.org/research), and [here](http://thepriceofpanic.com)&mdash;which alone made them a disgraceful failure, the amount of evidence supporting the lockdowns' ability to mitigate COVID-19 mortality has always remained abysmal. 
 
@@ -29,31 +29,10 @@ Internationally speaking, the data only continue to expose lockdowns as the sing
 
 ![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/115928867-d3a5d200-a454-11eb-949a-39e8dd4cbda6.png)
 
-So much for the slockdowns being the morally superior and selfless policy option. The virtue signalling self-proclaimed martyrs who remained shuttered in their basements In light of a year's worth of data showing wildly different mortality and hospitalizations outcomes for fifty states with fifty very different lockdown stringencies, it's a marvel that such a deadly and ineffective policy can even be up for debate. To be fair,  just the case that maybe the United States is an anomaly? Did nations around the world get a handle on COVID-19 in a way Trump and Biden never could?
+As a supplement to the above chart, you can also check out AIER's [collection of 35 studies](https://www.aier.org/article/lockdowns-do-not-control-the-coronavirus-the-evidence/) which show no relationship between lockdowns and virus mitigation. 
 
+In light of a year's worth of data showing wildly different mortality and hospitalizations outcomes for fifty states with fifty very different lockdown stringencies, as well as drastically different mortality outcomes for 166 countries with 166 different lockdown stringencies, it's a marvel that such a deadly and ineffective policy can be seriously considered among public health experts.
 
-PLOT TOP 10 MOST RESTRICTED STATES CASE PATTERNS vs TOP 10 Least Restricted
-PLOT REGIONAL CHARTS
+If the lockdowns failed as a mitigation measure in the United States just as they did everywhere else in the world&mdash;remember, the lockdowns fail without even taking their costs into account&mdash;it's possible that mask usage is the missing piece in the mitigation puzzle. Now, it wouldn't be fair to the reader to post quite literally hundreds of charts that show the exact opposite outcomes the media would have you expect after regions remove or institute mask mandates&mdash;[Ian Miller](https://twitter.com/ianmSC/media) has done more work in this area than anybody else. It also wouldn't be fair to claim that mask mandates and mask usage are synonymous. However, I don't think any proponent of mask-wearing would seriously expect the same level of mask usage apart from local and statewide mandates. Nevertheless, the claim that mask *usage* negatively correlates with cases and deaths is simply not true.
 
-KEY DATA POINTS AND STUDIES TO REMEMBER
-- mortality table
--asymptomatic spread
-  - the study Fauci cited (https://twitter.com/hold2llc/status/1381448535665745920?s=21) claiming 50% of spread is from asymptomatic assumes that asymptomatic cases are 75% as infectious as symptomatic cases
--lockdown efficacy
--mask mandate efficacy
--hospitals overwhelmed
-
-You can point to superspreader after superspreader and see that despite the doom and gloom predictions, none of these so-called superspreaders had any effect on case patterns
-(Russia Crimea celebration)
-(London Anti-Lockdown Protest)
-(Texas MLB game full stadium 40k fans)
-
-- Key Points To Remember:
-  - Mortality Table
-  - Costs
-
-- Superspreader Failed Predictions
-- Neanderthal States vs Non-Neanderthals
-
-
-- "Freedom isn't the issue" - (https://nypost.com/2021/04/18/fauci-says-covid-19-not-a-civil-liberties-issue/)
+![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115931689-90019700-a459-11eb-9760-7556f086efc4.png)
