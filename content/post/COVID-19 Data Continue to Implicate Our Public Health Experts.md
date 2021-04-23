@@ -25,7 +25,7 @@ The same lack of correlation can be seen when comparing average lockdown stringe
 
 If you remember, the lockdowns were first instituted based on predictions from the [horribly failed](https://www.aier.org/article/the-disease-models-were-tested-and-failed-massively/) Imperial College London model. But the data have made it overwhelmingly clear that, at least speaking for the United States, the strength and duration of each state's lockdown played absolutely no role in preventing COVID-19 hospitalizations or reducing the overall COVID-19 death toll. 
 
-Internationally speaking, the data continue to expose lockdowns as the single greatest public health failure in human history. 
+Internationally speaking, the data continue to expose lockdowns as the single greatest public health failure in human history. As you can see, yet again, there is no correlation on an international level between lockdown stringency and overall death toll. 
 
 ![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/115928867-d3a5d200-a454-11eb-949a-39e8dd4cbda6.png)
 
@@ -35,4 +35,4 @@ In light of a year's worth of data showing wildly different mortality and hospit
 
 If the lockdowns failed as a mitigation measure in the United States just as they did everywhere else in the world&mdash;remember, the lockdowns fail without even taking their costs into account&mdash;it's possible that mask usage is the missing piece in the mitigation puzzle. Now, it wouldn't be fair to the reader to post quite literally hundreds of charts that show the exact opposite outcomes the media would have you expect after regions remove or institute mask mandates&mdash;[Ian Miller](https://twitter.com/ianmSC/media) has done more work in this area than anybody else. It also wouldn't be fair to claim that mask mandates and mask usage are synonymous. However, I don't think any proponent of mask-wearing would seriously expect the same level of mask usage apart from local and statewide mandates. Nevertheless, the claim that mask *usage* negatively correlates with cases and deaths is simply not true.
 
-![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115932248-8fb5cb80-a45a-11eb-9094-72bb6cc2f89f.png)
+![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115932407-e4594680-a45a-11eb-84da-d89a6037c03c.png)
