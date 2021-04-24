@@ -41,7 +41,7 @@ If the lockdowns failed to mitigate the spread of COVID-19 in the United States 
 
 Even though the trend lines slope in the exact opposite direction of what our public health experts would tell us to expect, the correlations are still statistically meaningless. To clarify, the above chart only covers the 2.5 month period starting from February 9, 2021 because that's when COVIDCast began reporting mask usage numbers for each state. Therefore, case and death numbers also only cover this 2.5 month period. Despite this truncated time period, 2.5 months is more than enough time to have exposed any sort of meaningful correlation between mask usage and cases and deaths.
 
-It is worth noting that Rhode Island and New York, each with some of the highest mask usage rates and lockdown stringencies in the country, are leading the pack with some of the largest case increases since early February. What is more, the ten states with the highest rate of mask usage have been doing worse in both cases and deaths than the ten states with the lowest rate of mask usage.
+It is worth noting that Rhode Island and New York, each with some of the highest mask usage rates and lockdown stringencies in the country, are leading the pack with some of the largest case increases since early February. What is more, in the 2.5 months since Febrauary the ten states with the highest rate of mask usage have been doing worse in both cases and deaths than the ten states with the lowest rate of mask usage.
 
 ![Top 10 v Bottom 10](https://user-images.githubusercontent.com/5093552/115960755-33e25580-a4e1-11eb-853b-c59b7261d004.png)
 
