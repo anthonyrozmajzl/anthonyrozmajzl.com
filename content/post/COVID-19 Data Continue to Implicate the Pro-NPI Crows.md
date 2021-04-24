@@ -7,7 +7,7 @@ draft = false
 feature = "/images/lockdown.jpg"
 slug = "COVID Data Continue To Implicate Public Health Experts"
 tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts"]
-title = "COVID-19 Data Continue to Implicate Our Public Health Experts"
+title = "COVID-19 Data Continue to Implicate The Pro-NPI Crowd"
 +++
 
 
