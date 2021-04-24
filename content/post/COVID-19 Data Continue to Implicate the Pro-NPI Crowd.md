@@ -28,19 +28,19 @@ Leaving aside the disastrous and deadly consequences of government lockdowns&mda
 
 Looking at the United States, we can address the widely believed notion that states with more intense lockdowns will see fewer COVID-19 deaths by plotting each state's average restriction ranking over the past 13 months against the total number of COVID-19 deaths for each state. To get the average ranking, the author averaged data from Oxford University’s Blavatnik School of Government&mdash;this source measured each state’s average time spent at a stringency index greater than 60 through December 2020&mdash;and Wallethub, which captured each state’s stringency ranking from January 2021 onward. Now, if the past year's worth of sanctimonious lectures from public health experts had any scientific weight behind them, we should see a very strong negative correlation between the intensity of states' restrictions and total COVID-19 deaths.
 
-![Restriction Ranking vs Deaths](https://user-images.githubusercontent.com/5093552/115307212-e196e280-a136-11eb-8ca9-7c4751380613.png)
+![Restriction Ranking vs Deaths](https://user-images.githubusercontent.com/5093552/115970911-93595900-a513-11eb-9fec-e9580e9fe82a.png)
 
 Contrary to what the public health experts have been telling us for more than a year, there is absolutely no correlation between the strength of a state's lockdown measures and total COVID-19 deaths. In fact, notorious lockdown states such as New York and New Jersey have some of the worst mortality numbers to date. To blame non-compliance for these poor numbers is ridiculous on its face considering states with no restrictions, such as Texas and Florida, have far fewer deaths than New York and New Jersey. In fact, you'll find that every state that has either [removed its mask mandate or all COVID-19 restrictions entirely](https://pbs.twimg.com/media/EyfzUnXUcAIvi8a?format=jpg&name=large) is outperforming New York and New Jersey.
 
 The same lack of correlation can be seen when comparing average lockdown stringency with the total number of patients hospitalized who have suspected or confirmed COVID-19. As a point of clarification, the author summed the *current* number of patients hospitalized each day to arrive at the total number of patients hospitalized. This will result in slightly inflated total numbers since patients may spend more than one day in the hospital, but having applied the same aggregation method across all states, the total hospitalization metric still provides an accurate assessment of COVID-19 hospitalizations in each state.
 
-![Restriction Ranking vs Total COVD Beds Used](https://user-images.githubusercontent.com/5093552/115312107-be703100-a13e-11eb-8b5f-c5a323b1f0a2.png)
+![Restriction Ranking vs Total COVD Beds Used](https://user-images.githubusercontent.com/5093552/115970919-9e13ee00-a513-11eb-82cb-7919a6a1fcb7.png)
 
 If you remember, the lockdowns were first instituted based on predictions from the [horribly failed](https://www.aier.org/article/the-disease-models-were-tested-and-failed-massively/) Imperial College London model, which predicted that a failure to lockdown, and to lockdown hard, would result in overwhelmed hospitals. However, as it pertains to the United States, the data have made it overwhelmingly clear that if any hospitals *were* strained for capacity, it was not the result of weak lockdown policy. The data above show that neither the strength nor duration of each state's lockdown played any role in preventing COVID-19 hospitalizations or reducing the overall COVID-19 death toll. 
 
 Internationally speaking, the data continue to expose lockdowns as the single greatest public health failure in human history. Plotting lockdown stringency against total COVID-19 death toll reveals, yet again, zero correlation between the two variables.
 
-![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/115928867-d3a5d200-a454-11eb-949a-39e8dd4cbda6.png)
+![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/115970987-fa770d80-a513-11eb-87b5-ea16c09645d7.png)
 
 As a supplement to the above chart, you can check out AIER's [collection of 35 studies](https://www.aier.org/article/lockdowns-do-not-control-the-coronavirus-the-evidence/) from around the world which further show no relationship between lockdowns and virus mitigation. 
 
@@ -48,19 +48,19 @@ In light of a year's worth of data showing wildly different mortality and hospit
 
 If the lockdowns failed to mitigate the spread of COVID-19 in the United States just as in dozens of countries around the world&mdash;remember, the lockdowns fail without even taking their costs into account&mdash;it's possible that mask usage is the missing piece of the mitigation puzzle. Now, it wouldn't be fair to the reader to post quite literally hundreds of charts that show the exact opposite outcomes the media would have you expect after regions remove or institute mask mandates&mdash;[Ian Miller](https://twitter.com/ianmSC/media) has done more work in this area than anybody else. It also wouldn't be fair to claim that mask mandates and mask usage are synonymous. However, I don't think any proponent of mask-wearing would seriously expect the same level of mask usage should mandates be lifted. Nevertheless, the claim that mask *usage* negatively correlates with cases and deaths is easily refuted with a quick look at the data. For the purposes of this article, we'll again only be looking at the fifty states.
 
-![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115935221-b545d380-a460-11eb-8372-c2771ee54cbb.png)
+![Mask Usage vs Cases and Deaths](https://user-images.githubusercontent.com/5093552/115970996-06fb6600-a514-11eb-924f-45d7a1a24413.png)
 
 Even though the trend lines travel in the exact opposite direction of what our public health experts would have us expect, the correlations are statistically meaningless. Note that the above chart only covers the 2.5 month period starting February 9, 2021, which is when COVIDCast began reporting mask usage numbers for each state. Therefore, the author included only the cases and deaths that occurred during this 2.5 month period. Despite this truncated time period, 2.5 months should have been more than enough to have exposed any sort of meaningful correlation between mask usage and cases and deaths.
 
 It is worth noting that Rhode Island and New York, each with some of the highest mask usage rates and lockdown stringencies in the country, are leading the pack with some of the largest case increases since early February. What is more, in the 2.5 months since February the ten states with the highest rate of mask usage have been doing worse in both cases and deaths than the ten states with the lowest rate of mask usage.
 
-![Top 10 v Bottom 10 Since Feb](https://user-images.githubusercontent.com/5093552/115962198-309e9800-a4e8-11eb-91a6-ae17ff07a870.png)
+![Top 10 v Bottom 10 Since Feb](https://user-images.githubusercontent.com/5093552/115971002-0f53a100-a514-11eb-943f-4240d7be5d11.png)
 
 Remember, we aren't measuring the amount of rules that simply say you have to wear a mask. What's being measured is the percentage of people actually *wearing* masks in public across each state. It's quite difficult to look at the trends depicted above and make the case not only for continuing mask mandates, but wearing masks in general.  
 
 Some may have an issue with the fact that the trends above only cover the couple of months since February. Let's assume, for the sake of a more complete picture, that mask usage trends were consistent for each state since the start of the pandemic. We can also expand our filter to the top and bottom fifteen states to account for some states' movement in and out of the top and bottom ten states. 
 
-![Top 15 v Bottom 15 All Time](https://user-images.githubusercontent.com/5093552/115962115-d3a2e200-a4e7-11eb-81a1-3aeb345c2687.png)
+![Top 15 v Bottom 15 All Time](https://user-images.githubusercontent.com/5093552/115971008-167aaf00-a514-11eb-9b33-039162f86f3c.png)
 
 In terms of cases, from April to around mid-June, states with the lowest rates of mask usage were outperforming states with the highest rates of mask usage. This trend reversed from mid-June through mid-January and then reversed again in favor of states with the lowest rate of mask usage. In terms of deaths, states with the lowest rates of mask usage outperformed states with the highest rates of mask usage from April until mid-July. From mid-July to mid-February, death trends were more favorable to states with higher rates of mask usage, but after mid-February death trends again became more favorable to states with the lowest rates of mask usage. Again, if we assume fairly consistent rates of mask usage across the entire duration of the pandemic, and also assume that the science behind masks is truly settled, it's quite difficult to explain away the periods of time in which states with the lowest rates of mask usage were outperforming states with the highest rates of mask usage.
 
