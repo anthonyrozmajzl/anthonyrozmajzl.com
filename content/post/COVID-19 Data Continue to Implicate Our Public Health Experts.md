@@ -4,10 +4,10 @@ categories = ["Covid-19", "Coronavirus", "lockdowns", "mask mandates"]
 date = 2021-04-24T11:23:33Z
 description = ""
 draft = false
-feature = "/images/graph.jpg"
-slug = "Still No Data Vindicating Lockdowns and Mask Mandates"
-tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts", "Florida", "California", "county comparison"]
-title = "Almost a Year Later, There's Still No Evidence Suggesting Governments Can Control The Spread of Covid-19"
+feature = "/images/lockdown.jpg"
+slug = "COVID Data Continue To Implicate Public Health Experts"
+tags = ["lockdowns", "masks", "mask mandates", "mask wearing", "mask charts"]
+title = "COVID-19 Data Continue to Implicate Our Public Health Experts"
 +++
 
 
