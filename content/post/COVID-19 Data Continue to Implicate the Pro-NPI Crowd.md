@@ -56,7 +56,7 @@ It is worth noting that Rhode Island and New York, each with some of the highest
 
 ![Top 10 v Bottom 10 Since Feb](https://user-images.githubusercontent.com/5093552/115971002-0f53a100-a514-11eb-943f-4240d7be5d11.png)
 
-Remember, we aren't measuring the amount of rules that simply say you have to wear a mask. What's being measured is the percentage of people actually *wearing* masks in public across each state. It's quite difficult to look at the trends depicted above and make the case not only for continuing mask mandates, but wearing masks in general.  
+Remember, we aren't measuring the amount of rules that simply say you have to wear a mask. What's being measured is the percentage of people actually *wearing* masks in public across each state. It's quite difficult to look at the trends depicted above and make the case not only for continuing mask mandates, but wearing masks at all.  
 
 Some may have an issue with the fact that the trends above only cover the couple of months since February. Let's assume, for the sake of a more complete picture, that mask usage trends were consistent for each state since the start of the pandemic. We can also expand our filter to the top and bottom fifteen states to account for some states' movement in and out of the top and bottom ten states. 
 
