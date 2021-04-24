@@ -41,10 +41,16 @@ If the lockdowns failed to mitigate the spread of COVID-19 in the United States 
 
 Even though the trend lines slope in the exact opposite direction of what our public health experts would tell us to expect, the correlations are still statistically meaningless. To clarify, the above chart only covers the 2.5 month period starting from February 9, 2021 because that's when COVIDCast began reporting mask usage numbers for each state. Therefore, case and death numbers also only cover this 2.5 month period. Despite this truncated time period, 2.5 months is more than enough time to have exposed any sort of meaningful correlation between mask usage and cases and deaths.
 
-It is worth noting that Rhode Island and New York, each with some of the highest mask usage rates and lockdown stringencies in the country, are leading the pack with some of the largest case increases since early February. What is more, since COVIDCast started collecting mask usage data by state in early Febraury, the ten states with the highest rate of mask usage have been doing worse in both cases and deaths than the ten states with the lowest rate of mask usage.
+It is worth noting that Rhode Island and New York, each with some of the highest mask usage rates and lockdown stringencies in the country, are leading the pack with some of the largest case increases since early February. What is more, the ten states with the highest rate of mask usage have been doing worse in both cases and deaths than the ten states with the lowest rate of mask usage.
 
 ![Top 10 v Bottom 10](https://user-images.githubusercontent.com/5093552/115960755-33e25580-a4e1-11eb-853b-c59b7261d004.png)
 
-It wouldn't be fair to limit this comparison to the couple of months since February since mask usage data is only available for that time frame. However, if we assume that these states remained 
+Remember, we aren't measuring the amount of rules that simply say you have to wear a mask. What's being measured is the percentage of people actually *wearing* masks in public across each state. It's quite difficult to look at the trends depicted above and make the case not only for continued mask mandates, but mask wearing in general.  
+
+Some may have an issue with the fact that the trends above only cover the couple of months since February. Let's assume, for the sake of a more complete picture, that mask usage trends were consistent for each state since the start of the pandemic. We can also expand our filter to the top and bottom fifteen states to account for some states' movement in and out of the top and bottom ten states. 
+
+![Top 15 v Bottom 15 All Time](https://user-images.githubusercontent.com/5093552/115962115-d3a2e200-a4e7-11eb-81a1-3aeb345c2687.png)
+
+
 
 The supposedly settled Science <sup>TM</sup> behind both lockdowns and mask mandates has always been, and even more so now, in serious trouble. Even if we ignored the lockdowns incredible death toll, their numerous social and psychological costs, the totalitarian denial of our most basic liberties, the decimation of tens of thousands of small businesses, and drastic disruptions in a vastly connected global economy, they would still be a miserable failure by nearly every metric we have available. Though to be fair, the lockdowns did make our cities quieter. Other than that, the data show no clear benefit to either lockdowns or mask mandates as effective tools for mitigating the spread of COVID-19.
