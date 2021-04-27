@@ -42,7 +42,7 @@ If you remember, the lockdowns were first instituted based on predictions from t
 
 Internationally speaking, the data continue to expose lockdowns as the single greatest public health failure in human history. Plotting lockdown stringency against total COVID-19 death toll reveals, yet again, zero correlation between the two variables.
 
-![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/116311138-e6801580-a778-11eb-8f36-1dc3e043d306.png)
+![Stringency vs Deaths per Million](https://user-images.githubusercontent.com/5093552/116311454-437bcb80-a779-11eb-85d0-d6477af17bf7.png)
 
 As a supplement to the above chart, you can check out AIER's [collection of 35 studies](https://www.aier.org/article/lockdowns-do-not-control-the-coronavirus-the-evidence/) from around the world which further show no relationship between lockdowns and virus mitigation. 
 
