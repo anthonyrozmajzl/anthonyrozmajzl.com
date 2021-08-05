@@ -1,0 +1,1 @@
+Italy considering needing vaccination to vote: Many Americans, with no sense of irony, would eagerly and cheerfully adopt this "no vaccination no vote" policy while maintaining that requiring identification in order to vote is fascist.
