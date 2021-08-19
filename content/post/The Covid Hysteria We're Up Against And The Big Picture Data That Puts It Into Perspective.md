@@ -1,4 +1,4 @@
-# The Covid Hysteria We're Up Against And the Big Picture Data That Puts It Into Perspective
+# Big Picture Covid-19 Data That Puts All The Hysteria Into Perspective
 
 I hate to be the bearer of bad news, Ben Shapiro, but the past 18 months have shown beyond a shadow of a doubt that feelings trump facts when it comes to covid-19. This is thanks entirely to the love triangle forged between the corporate press, state officials, and tech giants whose sinister campaign of fear and censorship spawned a reaction so virulent that society was upended in a matter of weeks for a virus with a 99.7% survival rate. (Get source on official survival rate)
 
@@ -8,4 +8,10 @@ In response to the famous imperative, “Ask not what your country can do for yo
 
 In this response are found two lamentable traits of the average person: (1) The trained instinct—learned primarily in government schools—to revere and defer to those in positions of government authority and (2) the desire for safety over liberty. These traits have enabled a series of effortless goalpost shifts: from “It’s only two weeks” to “It’s just until hospitalizations are down” to “It’s just until cases are down” to “Its just proof of a negative test” to “It’s just until the vaccine arrives” to “It’s just until a certain percentage of the population is vaccinated” to “Your vaccination papers, please.” Each power grab was instinctively accepted as nothing more than our noble authorities working to ensure our safety. How could you be against that?
 
-Simply put, those who continue to bleat in anticipation of smaller, more “protective” pens have yet to understand the big picture covid data which put this past year and a half into perspective, more specifically the data which show zero meaningful correlation between ANY government intervention and health outcomes. The same hysteria that took hold in the spring of 2020 has returned and it is as every bit unfounded
+Simply put, those who happily anticipate an ever-tightening, more “protective” security blanket of social regulations have yet to understand the big picture covid data which put this past year and a half into perspective, particularly data which show zero meaningful correlation between ANY government intervention and health outcomes. Internalizing the following trends and facts will 
+
+Lockdowns:
+
+Masks:
+
+Vaccines:
