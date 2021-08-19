@@ -12,8 +12,7 @@ Simply put, those who happily anticipate an ever-tightening, more â€œprotectiveâ
 
 Lockdowns:
 
-- *There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. 
-- - Heavy skepticism toward lockdown efficacy was justfied very early on in the pandemic (April
+*There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. Heavy skepticism toward lockdown efficacy was justfied as early as April, 2020 when it was discovered that regions that locked down sooner had been faring no better than regions that had locked down later. From March 1, 2020 - March 1, 2021 (at this point the United States was on top with only (7.6%)[https://ourworldindata.org/covid-vaccinations] of the population fully vaccinated)
 
 Masks:
 
