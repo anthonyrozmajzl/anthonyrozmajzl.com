@@ -12,7 +12,7 @@ Simply put, those who happily anticipate an ever-tightening, more â€œprotectiveâ
 
 Lockdowns:
 
-- There is zero meaningful correlation between lockdown strength and covid-19 outcomes. 
+- *There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. 
 - - Heavy skepticism toward lockdown efficacy was justfied very early on in the pandemic (April
 
 Masks:
