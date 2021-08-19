@@ -8,10 +8,13 @@ In response to the famous imperative, “Ask not what your country can do for yo
 
 In this response are found two lamentable traits of the average person: (1) The trained instinct—learned primarily in government schools—to revere and defer to those in positions of government authority and (2) the desire for safety over liberty. These traits have enabled a series of effortless goalpost shifts: from “It’s only two weeks” to “It’s just until hospitalizations are down” to “It’s just until cases are down” to “Its just proof of a negative test” to “It’s just until the vaccine arrives” to “It’s just until a certain percentage of the population is vaccinated” to “Your vaccination papers, please.” Each power grab was instinctively accepted as nothing more than our noble authorities working to ensure our safety. How could you be against that?
 
-Simply put, those who happily anticipate an ever-tightening, more “protective” security blanket of social regulations have yet to understand the big picture covid data which put this past year and a half into perspective, particularly data which show zero meaningful correlation between ANY government intervention and health outcomes. Internalizing the following trends and facts will 
+Simply put, those who happily anticipate an ever-tightening, more “protective” security blanket of social regulations have yet to understand the big picture covid data which put this past year and a half into perspective, particularly data which show zero meaningful correlation between ANY government intervention and health outcomes. 
 
 Lockdowns:
 
+- There is zero meaningful correlation between lockdown strength and covid-19 outcomes. 
+- - Heavy skepticism toward lockdown efficacy was justfied very early on in the pandemic (April
+
 Masks:
 
-Vaccines:
+Vaccines: 
