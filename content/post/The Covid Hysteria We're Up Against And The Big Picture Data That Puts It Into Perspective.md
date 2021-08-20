@@ -12,16 +12,18 @@ Simply put, those who happily anticipate an ever-tightening, more â€œprotectiveâ
 
 Lockdowns:
 
-*There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. Heavy skepticism toward lockdown efficacy was justfied as early as April, 2020 when it was [shown](https://www.aier.org/article/did-the-lockdown-save-lives/) that regions that locked down sooner had been faring no better than regions that had locked down later. When surveying March 1, 2020 - March 1, 2021 (this date range is meant to exclude vaccine uptake&mdash;at this point the United States was on top with only [7.6%](https://ourworldindata.org/covid-vaccinations) of its population fully vaccinated while all other nations hovered [between 1 and 4%](https://ourworldindata.org/covid-vaccinations)) the data unequivocally show no correlation between lockdown strength and covid-19 outcomes. 
+*There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. Heavy skepticism toward lockdown efficacy was justfied as early as April, 2020 when it was [shown](https://www.aier.org/article/did-the-lockdown-save-lives/) that a region's time to lockdown was a non-factor in mitigating the spread of covid-19. From March 1, 2020 - March 1, 2021 (this date range is meant to exclude any significant vaccine uptake&mdash;at this point the United States was on top with only [7.6%](https://ourworldindata.org/covid-vaccinations) of its population fully vaccinated while all other nations hovered [between 1 and 4%](https://ourworldindata.org/covid-vaccinations)) the data unequivocally show no correlation between lockdown strength and covid-19 outcomes. 
 
 Masks:
 
-*Randomized controlled trials (RCTs) provide extremely scant evidence that masks 
+*Randomized controlled trials (RCTs) provide almost no justification for masks*
 
-*Increased mask usage has zero impact on covid-19 outcomes (explore US, compare countries, compare states)
+*Increased mask usage has zero impact on covid-19 outcomes* (explore US, compare countries, compare states)
 
 *If you're asymptomatic and healthy, continue living life as normal
 
 Vaccines: 
+
+*There is no meaningful correlation between vaccine uptake and case growth* Fauci: "With 50% vaccinated I feel fairly certain you're not going to see the kind of surges we've seen in the past"
 
 *Incredibly
