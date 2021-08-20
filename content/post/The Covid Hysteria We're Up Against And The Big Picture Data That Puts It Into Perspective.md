@@ -12,8 +12,16 @@ Simply put, those who happily anticipate an ever-tightening, more â€œprotectiveâ
 
 Lockdowns:
 
-*There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. Heavy skepticism toward lockdown efficacy was justfied as early as April, 2020 when it was [shown](https://www.aier.org/article/did-the-lockdown-save-lives/) that regions that locked down sooner had been faring no better than regions that had locked down later. Expanding our analysis to March 1, 2020 through March 1, 2021 (this date range is meant to exclude vaccine uptake&mdash;at this point the United States was on top with only [7.6%](https://ourworldindata.org/covid-vaccinations) of its population fully vaccinated while all other nations hovered [between 1 and 4%](https://ourworldindata.org/covid-vaccinations)) the data unequivocally show no correlation between lockdown strength and covid-19 outcomes: 
+*There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. Heavy skepticism toward lockdown efficacy was justfied as early as April, 2020 when it was [shown](https://www.aier.org/article/did-the-lockdown-save-lives/) that regions that locked down sooner had been faring no better than regions that had locked down later. Expanding our analysis to March 1, 2020 through March 1, 2021 (this date range is meant to exclude vaccine uptake&mdash;at this point the United States was on top with only [7.6%](https://ourworldindata.org/covid-vaccinations) of its population fully vaccinated while all other nations hovered [between 1 and 4%](https://ourworldindata.org/covid-vaccinations)) the data unequivocally show no correlation between lockdown strength and covid-19 outcomes. 
 
 Masks:
 
+*Randomized controlled trials (RCTs) provide extremely scant evidence that masks 
+
+*Increased mask usage has zero impact on covid-19 outcomes (explore US, compare countries, compare states)
+
+*If you're asymptomatic and healthy, continue living life as normal
+
 Vaccines: 
+
+*Incredibly
