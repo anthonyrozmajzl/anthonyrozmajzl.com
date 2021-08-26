@@ -23,7 +23,7 @@ Masks:
 
 *Increased mask usage has zero impact on covid-19 outcomes* (explore US, compare countries, compare states)
 
-*If you're asymptomatic and healthy, continue living life as normal
+*There is no serious evidence to suggest that children should be wearing masks in schools* Thread of mask vs non-mask schools. Flu is deadlier to kids yet nobody called for mask mandates in schools prior to 2020. 
 
 Vaccines: 
 
