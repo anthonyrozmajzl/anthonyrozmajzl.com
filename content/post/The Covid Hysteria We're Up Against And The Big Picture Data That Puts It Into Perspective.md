@@ -30,3 +30,9 @@ Vaccines:
 *There is no meaningful correlation between vaccine uptake and case growth* Fauci: "With 50% vaccinated I feel fairly certain you're not going to see the kind of surges we've seen in the past"
 
 *Incredibly
+
+*If you feel sick, stay home. If you don't feel sick, live your life.* - Fauci quote about asympt spread: “The driver of outbreaks is always a symptomatic person,” Fauci said at the Jan. 28 White House press briefing. “Even if there's a rare asymptomatic person that might transmit, an epidemic is not driven by asymptomatic carriers." (https://katv.com/news/nation-world/scientific-consensus-again-shifts-on-asymptomatic-spread-of-covid-19)
+
+Study metanalysis home mask spread shows .7% of cases are the result of asymptomatic transmission
+
+Rebut the following: Results  The baseline assumptions for the model were that peak infectiousness occurred at the median of symptom onset and that 30% of individuals with infection never develop symptoms and are 75% as infectious as those who do develop symptoms. Combined, these baseline assumptions imply that persons with infection who never develop symptoms may ac (https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774707)
