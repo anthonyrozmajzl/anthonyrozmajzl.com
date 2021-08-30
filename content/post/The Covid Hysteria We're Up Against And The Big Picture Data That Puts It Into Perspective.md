@@ -31,7 +31,7 @@ Vaccines:
 
 *Incredibly
 
-*If you feel sick, stay home. If you don't feel sick, live your life.* - Fauci quote about asympt spread: “The driver of outbreaks is always a symptomatic person,” Fauci said at the Jan. 28 White House press briefing. “Even if there's a rare asymptomatic person that might transmit, an epidemic is not driven by asymptomatic carriers." (https://katv.com/news/nation-world/scientific-consensus-again-shifts-on-asymptomatic-spread-of-covid-19)
+*In other words if you feel sick, stay home; if you don't feel sick, live your life.* - Fauci quote about asympt spread: “The driver of outbreaks is always a symptomatic person,” Fauci said at the Jan. 28 White House press briefing. “Even if there's a rare asymptomatic person that might transmit, an epidemic is not driven by asymptomatic carriers." (https://katv.com/news/nation-world/scientific-consensus-again-shifts-on-asymptomatic-spread-of-covid-19)
 
 Study metanalysis home mask spread shows .7% of cases are the result of asymptomatic transmission
 
