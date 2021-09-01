@@ -10,6 +10,8 @@ What many should have come to realize these past 18 months are two lamentable tr
 
 Those who happily anticipate an ever-tightening security blanket of social regulations would do well to familiarize themselves with the big-picture covid data which put all this hysteria into perspective, particularly the data which show zero meaningful correlation between government intervention and health outcomes. 
 
+## The Virus Isn't Your Fault, And Here's The Data to Show It
+
 Lockdowns:
 
 *There is zero meaningful correlation between lockdown strength and covid-19 outcomes*. The lockdowns were a novel public health experiment. Prior to 2020, the World Health Organization had advised against lockdowns even for *severe* respiratory outbreaks. Heavy skepticism toward lockdown efficacy was justfied as early as April, 2020 when it was [shown](https://www.aier.org/article/did-the-lockdown-save-lives/) that a region's time to lockdown was a non-factor in mitigating the spread of covid-19. From March 1, 2020 - March 1, 2021 (this date range is meant to exclude any significant vaccine uptake&mdash;at this point the United States was on top with only [7.6%](https://ourworldindata.org/covid-vaccinations) of its population fully vaccinated while all other nations hovered [between 1 and 4%](https://ourworldindata.org/covid-vaccinations)) the data show no correlation between lockdown strength and covid-19 outcomes. 
