@@ -22,9 +22,24 @@ All costs and moral arguments aside, heavy skepticism towards lockdowns was just
 
 Masks:
 
-At no point during the pandemic, at least in the United States, has there been a widespread call to wear KN95 or N95 surgical masks. Fauci, the CDC, and other public health outlets to this day have been pushing for cloth masks and the non-medical-grade blue 
+*There is no evidence suggesting that either mask mandates or increased mask usage reduces COVID-19 incidence*
 
-*Neither mask mandates nor increased mask usage reduced the number of COVID-19 cases in the United States
+- mechanistically: https://twitter.com/a_rozmajzl/status/1432767684811403268?s=20
+- United States: https://twitter.com/a_rozmajzl/status/1432767684811403268?s=20
+- s/o Ian Miller (reference german medical mask chart)
+- RCTs
+-   - https://escipub.com/irjph-2021-08-1005/
+-   - Danish mask study: gold standard for variable isolation (https://www.spectator.co.uk/article/do-masks-stop-the-spread-of-covid-19-#:~:text=Unlike%20other%20studies%20looking%20at%20masks%2C%20the%20Danmask,told%20to%20change%20after%20eight%20hours%20of%20use.)
+-   -https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F18a5978e-102f-4136-b2e0-027dd1172164_1252x818.png![image](https://user-images.githubusercontent.com/5093552/131761605-37ff14b5-4cdb-4dbd-abbc-1db264d117fc.png)
+
+- Bangladesh study: https://boriquagato.substack.com/p/bangladesh-mask-study-do-not-believe?justPublished=true
+- Faulty mainstream studies:
+-   - https://mobile.twitter.com/the_otheret/status/1432904267585708033?s=21
+-   - https://mobile.twitter.com/The_OtherET/status/1432473835547369473
+-   - https://www.city-journal.org/do-masks-work-a-review-of-the-evidence?wallit_nosession=1
+- School masking: https://mobile.twitter.com/willisms/status/1427351769370275843
+
+*There are no randomized controlled trial (RCTs) that show a meaningful reduction in 
 
 
 
