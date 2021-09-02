@@ -37,6 +37,7 @@ Masks:
 -   - https://mobile.twitter.com/the_otheret/status/1432904267585708033?s=21
 -   - https://mobile.twitter.com/The_OtherET/status/1432473835547369473
 -   - https://www.city-journal.org/do-masks-work-a-review-of-the-evidence?wallit_nosession=1
+-   - https://twitter.com/linseymarr/status/1433073028120858624?s=20
 - School masking: https://mobile.twitter.com/willisms/status/1427351769370275843
 
 *There are no randomized controlled trial (RCTs) that show a meaningful reduction in 
